@@ -12,19 +12,21 @@ who is independently driven but also a solid team player.
 ![full](/images/bannertest.png)
 {: .full}
 
+
 ## 💼 Experience
 
-- Junior Programmer @ Maniac Panda Games
-z 05/2022 – 09/2023 * Remote
-• Worked on Racerloop, a PC arcade racing game. Made with Unity. Developed by a
+### Junior Programmer @ Maniac Panda Games
+05/2022 – 09/2023 * Remote
+- Worked on Racerloop, a PC arcade racing game. Made with Unity. Developed by a
 small team where I had to work both under lead directions and on my own.
-• Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.
+- Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.
 
-- Software Engineering Intern @ HP SCDS
-z 09/2018 – 06/2020 * León, Spain
-• Developed MotionTracker, a Python-based target tracking system that worked with
+### Software Engineering Intern @ HP SCDS
+09/2018 – 06/2020 * León, Spain
+- Developed MotionTracker, a Python-based target tracking system that worked with
 both moving targets and cameras. Using agile methodologies.
-• Finalist of the XV "Programa Observatorio Tecnológico HP" awards. 
+- [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
+
 
 ## 📚 Education
 
