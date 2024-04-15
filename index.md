@@ -1,15 +1,22 @@
 ---
-layout: archive
-permalink: /
-title: "Latest Posts"
+layout: home
+title: "Carlos Martínez"
 image: bannertest.png
 ---
 
 <div class="page__hero--overlay" style="background-image: url({{ page.image | relative_url }});"></div>
 
-# ¡Bienvenido a mi blog!
+# ¡Hola, soy Carlos Martínez!
 
-Aquí encontrarás las últimas publicaciones sobre mis proyectos, ideas y todo lo que estoy explorando. ¡Espero que lo disfrutes!
+Soy un ingeniero de software apasionado por el desarrollo web y la inteligencia artificial. Aquí encontrarás las últimas publicaciones sobre mis proyectos, ideas y todo lo que estoy explorando. ¡Espero que lo disfrutes!
+
+## 🌟 Destacados
+
+Aquí puedes destacar algunos de tus posts o proyectos. Por ejemplo:
+
+- Proyecto 1
+- Proyecto 2
+- Proyecto 3
 
 <div class="tiles">
 {% for post in site.posts %}
