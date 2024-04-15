@@ -47,31 +47,58 @@ social:
     - "https://twitter.com/SirGary_y"
     - "https://www.linkedin.com/in/carlos-mart%C3%ADnez-g%C3%B3mez-6744a71b6/"
 
+# Reading Files
 include:
   - .htaccess
+  - _pages
 exclude:
-  - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
   - gulpfile.js
-  - lib
+  - LICENSE
   - log
   - node_modules
   - package.json
-  - spec
+  - package-lock.json
+  - Rakefile
+  - README
   - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
 defaults:
   # _posts
@@ -87,11 +114,27 @@ defaults:
       related: true
       show_date: false
 
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+  # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single
+
+# Site Author
 author:
   name: "Carlos Martínez"
   avatar: "/images/bio-photo.jpg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "León, Spain"
+  email: "carlosmargom1996@gmail.com"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
@@ -105,3 +148,26 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
