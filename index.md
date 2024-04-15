@@ -21,7 +21,7 @@ who is independently driven but also a solid team player.
 ![image-left](/images/Racerloop.jpg){: .align-left}
 
 - Worked on [**Racerloop**](https://www.racerloop.com/), a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.
-- [Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.]{: .notice--success}
+- Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.
 
 ### Software Engineering Intern @ HP SCDS
 09/2018 – 06/2020 | León, Spain
