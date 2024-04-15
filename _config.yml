@@ -2,12 +2,13 @@
 
 title: "Carlos Martínez 🎮"
 description: "Programmer and Designer."
-logo: # 120x120 px default image used for Twitter summary card
+logo: "/images/chibi.jpng" # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://cmartinezgom.github.io
 feed:
   path: atom.xml
+breadcrumbs: true  # disabled by default
 
 # Jekyll configuration
 
@@ -33,9 +34,18 @@ owner:
     ad-client:
     ad-slot:
   bio: 
-  avatar: chibi.jpng # 160x160 px image for author byline
+  avatar: /images/chibi.jpng # 160x160 px image for author byline
   disqus-shortname:
 
+twitter:
+  username: "SirGary_y"
+
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/SirGary_y"
+    - "https://www.linkedin.com/in/carlos-mart%C3%ADnez-g%C3%B3mez-6744a71b6/"
 
 include:
   - .htaccess
@@ -62,3 +72,17 @@ exclude:
   - package.json
   - spec
   - tmp
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: false
