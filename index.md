@@ -9,10 +9,10 @@ feature_row2:
   - title: "Skills"
     excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
 feature_row3:
-  - title: "Skills"
-    excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
+  - title: "Languages"
+    excerpt: "Spanish: Native. English: IGCSE English as First Language / IELTS C1"
 
-feature_row3:
+feature_row4:
   - image_path: /images/chibi.png
     alt: "Texto alternativo para la imagen 1"
     title: "Título de la imagen 1"
@@ -44,7 +44,7 @@ gallery:
   - url: /about/
     image_path: /images/chibi.png
     alt: "placeholder image 4"
-    title: "Skills"
+    title: "Languages"
     excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
 
 ---
@@ -58,7 +58,20 @@ A Computer Science graduate with a master’s degree in Video Game Design
 and Programming. Multidisciplinary, commited and resolutive programmer
 who is independently driven but also a solid team player.
 
-
+<div class="row">
+  <div class="column">
+    <h2>Strengths</h2>
+    <p>Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative.</p>
+  </div>
+  <div class="column">
+    <h2>Skills</h2>
+    <p>Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.</p>
+  </div>
+  <div class="column">
+    <h2>Languages</h2>
+    <p>Spanish: Native. English: IGCSE English as First Language / IELTS C1</p>
+  </div>
+</div>
 
 ## 💼 Experience
 
