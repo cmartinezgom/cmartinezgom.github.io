@@ -4,8 +4,9 @@ title: "Carlos Martínez"
 image: bannertest.png
 ---
 
+<div class="page__hero--overlay" style="background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{ page.image | relative_url }});"></div>
 
-# ¡Hola, soy Carlos Martínez!
+# Hi! I am Carlos Martínez!
 
 Soy un ingeniero de software apasionado por el desarrollo web y la inteligencia artificial. Aquí encontrarás las últimas publicaciones sobre mis proyectos, ideas y todo lo que estoy explorando. ¡Espero que lo disfrutes!
 
