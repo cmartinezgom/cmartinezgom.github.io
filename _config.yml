@@ -28,12 +28,12 @@ plugins:
 owner:
   name: "Carlos Martínez"
   email: "carlosmargom1996@gmail.com"
-  twitter:
+  twitter: "SirGary_y"
   google:
     ad-client:
     ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: 
+  avatar: chibi.jpng # 160x160 px image for author byline
   disqus-shortname:
 
 
