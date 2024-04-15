@@ -1,0 +1,14 @@
+Carlos Martínez:
+  name        : "Carlos Martínez"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/images/foto-carlos-cv.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:carlosmargom1996@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://cmartinezgom.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SirGary_y"
