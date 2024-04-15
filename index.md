@@ -1,6 +1,52 @@
 ---
 layout: archive
 title: "WELCOME!"
+
+feature_row1:
+  - image_path: /images/chibi.png
+    alt: "Texto alternativo para la imagen 1"
+    title: "Título de la imagen 1"
+    excerpt: "Pie de foto de la imagen 1"
+  - image_path: /images/chibi.png
+    alt: "Texto alternativo para la imagen 2"
+    title: "Título de la imagen 2"
+    excerpt: "Pie de foto de la imagen 2"
+  - image_path: /images/chibi.png
+    alt: "Texto alternativo para la imagen 3"
+    title: "Título de la imagen 3"
+    excerpt: "Pie de foto de la imagen 3"
+
+feature_row2:
+  - image_path: /images/chibi.png
+    alt: "Texto alternativo para la imagen 1"
+    title: "Título de la imagen 1"
+    excerpt: "Pie de foto de la imagen 1"
+  - image_path: /images/chibi.png
+    alt: "Texto alternativo para la imagen 2"
+    title: "Título de la imagen 2"
+    excerpt: "Pie de foto de la imagen 2"
+  - image_path: /images/chibi.png
+    alt: "Texto alternativo para la imagen 3"
+    title: "Título de la imagen 3"
+    excerpt: "Pie de foto de la imagen 3"
+
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /images/chibi.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /images/chibi.png
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /images/chibi.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /about/
+    image_path: /images/chibi.png
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
 ---
 
 ![full](/images/bannertest.png)
@@ -33,6 +79,11 @@ who is independently driven but also a solid team player.
 both moving targets and cameras. Using agile methodologies.
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
 
+{% include feature_row.html id="feature_row1" %}
+{% include feature_row.html id="feature_row2" %}
+
+
+{% include gallery.html %}
 
 ## 🎓 Education
 
