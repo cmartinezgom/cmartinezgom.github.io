@@ -9,8 +9,8 @@ feature_row2:
   - title: "Skills"
     excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
 feature_row3:
-  - title: "Languages"
-    excerpt: "**Spanish**: Native. **English**: IGCSE English as First Language + IELTS C1"
+  - title: "Skills"
+    excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
 
 feature_row3:
   - image_path: /images/chibi.png
@@ -30,11 +30,13 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /images/chibi.png
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Strengths"
+    excerpt: "Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /images/chibi.png
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Skills"
+    excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /images/chibi.png
     alt: "placeholder image 3"
@@ -42,7 +44,8 @@ gallery:
   - url: /about/
     image_path: /images/chibi.png
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    title: "Skills"
+    excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
 
 ---
 
