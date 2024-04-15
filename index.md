@@ -31,7 +31,7 @@ small team where I had to work both under lead directions and on my own.
 
 - Developed MotionTracker, a Python-based target tracking system that worked with
 both moving targets and cameras. Using agile methodologies.
-- [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
+- [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/){: .notice--success}
 
 
 ## 📚 Education
