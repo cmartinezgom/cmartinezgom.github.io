@@ -2,7 +2,6 @@
 layout: page
 title: "💻 Portfolio"
 permalink: /portfolio/
-
 feature_row:
   - image_path: /images/chibi.png
     alt: "Texto alternativo para la imagen 1"
