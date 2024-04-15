@@ -20,9 +20,8 @@ who is independently driven but also a solid team player.
 
 ![image-left](/images/Racerloop.jpg){: .align-left}
 
-- Worked on [Racerloop](https://www.racerloop.com/), a PC arcade racing game. Made with Unity. Developed by a
-small team where I had to work both under lead directions and on my own.
-- Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.
+- Worked on [**Racerloop**](https://www.racerloop.com/), a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.
+- [Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.]{: .notice--success}
 
 ### Software Engineering Intern @ HP SCDS
 09/2018 – 06/2020 | León, Spain
@@ -31,7 +30,8 @@ small team where I had to work both under lead directions and on my own.
 
 - Developed MotionTracker, a Python-based target tracking system that worked with
 both moving targets and cameras. Using agile methodologies.
-- [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/){: .notice--success}
+- [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/){: .btn .btn--info}
+- [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
 
 
 ## 📚 Education
