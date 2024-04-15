@@ -35,6 +35,7 @@ both moving targets and cameras. Using agile methodologies.
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/){: .btn .btn--success}
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/){: .btn .btn--warning}
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/){: .btn .btn--inverse}
+- <button type="button" class="btn btn-primary">Finalist of the XV "Programa Observatorio Tecnológico HP" awards.</button>
 
 
 
