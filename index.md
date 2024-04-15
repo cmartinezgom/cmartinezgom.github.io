@@ -22,12 +22,6 @@ Aquí puedes destacar algunos de tus posts o proyectos. Por ejemplo:
 
 Aquí puedes encontrar mis últimas publicaciones de blog.
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
-
 ## 🎓 Cursos
 
 Aquí puedes encontrar los cursos que he creado o en los que he participado.
@@ -36,3 +30,9 @@ Aquí puedes encontrar los cursos que he creado o en los que he participado.
 - Curso 2
 - Curso 3
 
+
+<div class="tiles">
+{% for post in site.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
