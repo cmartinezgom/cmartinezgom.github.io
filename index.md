@@ -3,14 +3,15 @@ layout: archive
 title: "WELCOME!"
 ---
 
+![full](/images/bannertest.png)
+{: .full}
+
 # Hi! I am Carlos Martínez!
 
 A Computer Science graduate with a master’s degree in Video Game Design
 and Programming. Multidisciplinary, commited and resolutive programmer
 who is independently driven but also a solid team player.
 
-![full](/images/bannertest.png)
-{: .full}
 
 
 ## 💼 Experience
