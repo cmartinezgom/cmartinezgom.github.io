@@ -16,7 +16,7 @@ who is independently driven but also a solid team player.
 
 ## 💼 Experience
 
-### Junior Unity Programmer @ Maniac Panda Games
+### 🚀 Junior Unity Programmer @ Maniac Panda Games
 05/2022 – 09/2023 | Remote
 
 ![image-left](/images/Racerloop.jpg){: .align-left}
@@ -24,7 +24,7 @@ who is independently driven but also a solid team player.
 - Worked on [**Racerloop**](https://www.racerloop.com/), a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.
 - Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.
 
-### Software Engineering Intern @ HP SCDS
+### 👁 Software Engineering Intern @ HP SCDS
 09/2018 – 06/2020 | León, Spain
 
 ![image-left](/images/MotionTracker.gif){: .align-left}
