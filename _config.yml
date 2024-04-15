@@ -29,7 +29,7 @@ plugins:
 owner:
   name: "Carlos Martínez"
   email: "carlosmargom1996@gmail.com"
-  twitter: "SirGary_y"
+  twitter: ""
   google:
     ad-client:
     ad-slot:
@@ -44,7 +44,7 @@ social:
   type:  # Person or Organization (defaults to Person)
   name:  # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/SirGary_y"
+  #  - "https://twitter.com/SirGary_y"
     - "https://www.linkedin.com/in/carlos-mart%C3%ADnez-g%C3%B3mez-6744a71b6/"
 
 # Reading Files

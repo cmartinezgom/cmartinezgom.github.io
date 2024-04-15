@@ -30,11 +30,11 @@ who is independently driven but also a solid team player.
 
 - Developed **MotionTracker**, a Python-based target tracking system that worked with
 both moving targets and cameras. Using agile methodologies.
-- [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/){: .btn .btn--info}
+- [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
 
 
 
-## 📚 Education
+## 🎓 Education
 
 - **Master’s Degree in Video Game Design and Programming** @ Open University of Catalonia
 09/2020 – 01/2022 | Online
@@ -60,7 +60,7 @@ wide grounding in maths and calculus. University of Valladolid.
 the agreement M.E.C./British Council.
 
 
-## 🎓 Courses
+## 📚 Courses
 
 Aquí puedes encontrar los cursos que he creado o en los que he participado.
 

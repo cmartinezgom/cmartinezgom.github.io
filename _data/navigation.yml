@@ -4,21 +4,19 @@
   url: /assets/carlosmartinez_resume.pdf
   excerpt: "My Resume / CV."
 
-- title: ⚙ Portfolio
+- title: 💻 Portfolio
   url: /portfolio/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
   image: chibi.png
 
-- title: 🚀 Racerloop
-  url: https://www.racerloop.com/es/
+- title: 💼 Experience
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: chibi.png
+
+- title: 🎓 Education
+  url: /education/
+  excerpt: "My latest blog posts."
 
 - title: 👤 About Me
   url: /about/
-
-- title: 📚 Blog
-  url: /blog/
-  excerpt: "My latest blog posts."
-
-- title: 🎓 Cursos
-  url: /courses/
-  excerpt: "Courses I've created or participated in."
