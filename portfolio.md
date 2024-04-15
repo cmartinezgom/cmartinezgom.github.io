@@ -1,58 +1,31 @@
 ---
 layout: page
-title: "💻 Portfolio"
-permalink: /portfolio/
-feature_row:
-  - image_path: /images/chibi.png
-    alt: "Texto alternativo para la imagen 1"
-    title: "Título de la imagen 1"
-    excerpt: "Pie de foto de la imagen 1"
-  - image_path: /images/chibi.png
-    alt: "Texto alternativo para la imagen 2"
-    title: "Título de la imagen 2"
-    excerpt: "Pie de foto de la imagen 2"
-  - image_path: /images/chibi.png
-    alt: "Texto alternativo para la imagen 3"
-    title: "Título de la imagen 3"
-    excerpt: "Pie de foto de la imagen 3"
-
+title: "Foo Bar Identity"
+excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+header:
+  image: /assets/images/foo-bar-identity.jpg
+  teaser: /assets/images/foo-bar-identity-th.jpg
+sidebar:
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /images/chibi.png
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /images/chibi.png
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
   - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /images/chibi.png
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /about/
-    image_path: /images/chibi.png
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
 ---
 
-# Acerca de mí
+Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
-¡Hola! Mi nombre es Carlos Martínez. Soy un ingeniero de software con pasión por el desarrollo web y la inteligencia artificial.
+{% include gallery.html caption="This is a sample gallery to go along with this case study." %}
 
-## Educación
-
-Estudié ingeniería informática en la Universidad de XYZ, donde me especialicé en inteligencia artificial y aprendizaje automático.
-
-## Experiencia
-
-He trabajado en varias empresas de tecnología, donde he desarrollado habilidades en diversas áreas, desde el desarrollo de software hasta la gestión de proyectos.
-
-## Hobbies
-
-En mi tiempo libre, me gusta leer, viajar y aprender nuevas tecnologías.
-
-Si quieres saber más sobre mí, no dudes en ponerse en contacto.
-
-{% include feature_row.html %}
-
-{% include gallery.html %}
+hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
