@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: <i class="fas fa-user-tie"></i> Resume / CV
+- title: "<i class="fas fa-user-tie"></i> Resume / CV"
   url: /assets/carlosmartinez_resume.pdf
   excerpt: "My Resume / CV."
 
