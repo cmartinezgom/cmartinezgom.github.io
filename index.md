@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Carlos Martínez"
-image: bannertest.png
+header:
+	image: bannertest.png
 ---
-
-<div class="page__hero--overlay" style="background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{ page.image | relative_url }});"></div>
 
 # ¡Hola, soy Carlos Martínez!
 
