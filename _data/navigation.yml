@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Resume / CV
+  url: /assets/carlosmartinez_resume.pdf
+  excerpt: "My Resume / CV."
+  image: chibi.png
+
 - title: Portfolio
   url: /portfolio/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
@@ -7,3 +12,4 @@
 
 - title: Racerloop
   url: https://www.racerloop.com/es/
+  
