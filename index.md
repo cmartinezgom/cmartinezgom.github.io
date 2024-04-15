@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Carlos Martínez"
-header:
-	image: bannertest.png
+image: bannertest.png
 ---
+
 
 # ¡Hola, soy Carlos Martínez!
 
