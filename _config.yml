@@ -86,3 +86,22 @@ defaults:
       share: true
       related: true
       show_date: false
+
+author:
+  name: "Carlos Martínez"
+  avatar: "/images/bio-photo.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "León, Spain"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
