@@ -1,14 +1,14 @@
 # Site navigation links
 
-- title: "<i class="fas fa-user-tie"></i> Resume / CV"
+- title: 📝 Resume / CV
   url: /assets/carlosmartinez_resume.pdf
   excerpt: "My Resume / CV."
 
-- title: Portfolio
+- title: ⚙ Portfolio
   url: /portfolio/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
   image: chibi.png
 
-- title: Racerloop
+- title: 🚀 Racerloop
   url: https://www.racerloop.com/es/
   
