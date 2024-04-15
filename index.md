@@ -5,12 +5,14 @@ title: "WELCOME!"
 feature_row1:
   - title: "Strengths"
     excerpt: "Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
+feature_row2:
   - title: "Skills"
     excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
+feature_row3:
   - title: "Languages"
     excerpt: "**Spanish**: Native. **English**: IGCSE English as First Language + IELTS C1"
 
-feature_row2:
+feature_row3:
   - image_path: /images/chibi.png
     alt: "Texto alternativo para la imagen 1"
     title: "Título de la imagen 1"
@@ -73,8 +75,10 @@ who is independently driven but also a solid team player.
 both moving targets and cameras. Using agile methodologies.
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
 
-{% include feature_row.html id="feature_row1" %}
-{% include feature_row.html id="feature_row2" %}
+{% include feature_row.html id="feature_row1" type="left" %}
+{% include feature_row.html id="feature_row2" type="center" %}
+{% include feature_row.html id="feature_row3" type="right" %}
+
 
 
 {% include gallery.html %}
