@@ -4,7 +4,6 @@ title: "Carlos Martínez"
 image: bannertest.png
 ---
 
-<div class="page__hero--overlay" style="background-image: url({{ page.image | relative_url }});"></div>
 
 # ¡Hola, soy Carlos Martínez!
 
@@ -21,6 +20,5 @@ Aquí puedes destacar algunos de tus posts o proyectos. Por ejemplo:
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
-	{% include footer.html %}
 {% endfor %}
 </div><!-- /.tiles -->
