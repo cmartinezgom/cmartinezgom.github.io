@@ -3,18 +3,12 @@ layout: archive
 title: "WELCOME!"
 
 feature_row1:
-  - image_path: /images/chibi.png
-    alt: "Texto alternativo para la imagen 1"
-    title: "Título de la imagen 1"
-    excerpt: "Pie de foto de la imagen 1"
-  - image_path: /images/chibi.png
-    alt: "Texto alternativo para la imagen 2"
-    title: "Título de la imagen 2"
-    excerpt: "Pie de foto de la imagen 2"
-  - image_path: /images/chibi.png
-    alt: "Texto alternativo para la imagen 3"
-    title: "Título de la imagen 3"
-    excerpt: "Pie de foto de la imagen 3"
+  - title: "Strengths"
+    excerpt: "Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
+  - title: "Skills"
+    excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu." <i class="fab fa-github"></i>
+  - title: "Languages"
+    excerpt: "**Spanish**: Native. **English**: IGCSE English as First Language + IELTS C1"
 
 feature_row2:
   - image_path: /images/chibi.png
