@@ -43,6 +43,8 @@ gallery:
     image_path: /images/chibi.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
+
+toc: true
 ---
 
 ![full](/images/bannertest.png)
