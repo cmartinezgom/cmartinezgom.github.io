@@ -2,6 +2,6 @@ title: Carlos Martínez Portfolio
 # logo: /assets/img/headshot_circle.png
 #description: below text image
 #show_downloads: true
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
