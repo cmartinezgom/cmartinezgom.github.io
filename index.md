@@ -6,7 +6,7 @@ feature_row1:
   - title: "Strengths"
     excerpt: "Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
   - title: "Skills"
-    excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.<i class="fab fa-github"></i>"
+    excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
   - title: "Languages"
     excerpt: "**Spanish**: Native. **English**: IGCSE English as First Language + IELTS C1"
 
