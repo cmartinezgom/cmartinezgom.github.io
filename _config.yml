@@ -34,11 +34,11 @@ owner:
     ad-client:
     ad-slot:
   bio: 
-  avatar: /images/chibi.jpng # 160x160 px image for author byline
+  avatar: /images/chibi.png # 160x160 px image for author byline
   disqus-shortname:
 
 twitter:
-  username: "SirGary_y"
+  username: ""
 
 social:
   type:  # Person or Organization (defaults to Person)
@@ -139,15 +139,9 @@ author:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/cmartinezgom"
 
 
 # Site Footer
