@@ -14,4 +14,11 @@
 
 - title: 👤 About Me
   url: /about/
-  
+
+- title: 📚 Blog
+  url: /blog/
+  excerpt: "My latest blog posts."
+
+- title: 🎓 Cursos
+  url: /courses/
+  excerpt: "Courses I've created or participated in."

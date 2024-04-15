@@ -4,7 +4,7 @@ title: "Carlos Martínez"
 image: bannertest.png
 ---
 
-<div class="page__hero--overlay" style="background-image: url({{ page.image | relative_url }});"></div>
+<div class="page__hero--overlay" style="background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{ page.image | relative_url }});"></div>
 
 # ¡Hola, soy Carlos Martínez!
 
@@ -18,9 +18,21 @@ Aquí puedes destacar algunos de tus posts o proyectos. Por ejemplo:
 - Proyecto 2
 - Proyecto 3
 
+## 📚 Blog
+
+Aquí puedes encontrar mis últimas publicaciones de blog.
+
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-
 </div><!-- /.tiles -->
+
+## 🎓 Cursos
+
+Aquí puedes encontrar los cursos que he creado o en los que he participado.
+
+- Curso 1
+- Curso 2
+- Curso 3
+
