@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 title: "About Me"
 permalink: /about/
 ---
