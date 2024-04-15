@@ -26,8 +26,8 @@ plugins:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: "Carlos Martínez"
+  email: "carlosmargom1996@gmail.com"
   twitter:
   google:
     ad-client:
