@@ -35,4 +35,4 @@ En mi tiempo libre, me gusta leer, viajar y aprender nuevas tecnologías.
 
 Si quieres saber más sobre mí, no dudes en ponerse en contacto.
 
-{% include feature_row %}
+{% include feature_row.html %}
