@@ -3,5 +3,4 @@
  gem "github-pages", group: :jekyll_plugins
  gem "jekyll-include-cache", group: :jekyll_plugins
  gem "webrick"
-group :jekyll_plugins do
- gem "jemoji"
+ gem "jemoji", group :jekyll_plugins do 
