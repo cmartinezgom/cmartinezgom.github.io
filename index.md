@@ -4,6 +4,7 @@ title: "Carlos Martínez"
 image: bannertest.png
 ---
 
+<div class="page__hero--overlay" style="background-image: url({{ page.image | relative_url }});"></div>
 
 # ¡Hola, soy Carlos Martínez!
 
