@@ -1,22 +1,23 @@
 # Site navigation links
 
-- title: 📝 Resume / CV
-  url: /assets/carlosmartinez_resume.pdf
-  excerpt: "My Resume / CV."
+main:
+  - title: 📝 Resume / CV
+    url: /assets/carlosmartinez_resume.pdf
+    excerpt: "My Resume / CV."
 
-- title: 💻 Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: chibi.png
+  - title: 💻 Portfolio
+    url: /portfolio/
+    excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+    #image: chibi.png
 
-- title: 💼 Experience
-  url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: chibi.png
+  - title: 💼 Experience
+    url: /portfolio/
+    excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+    #image: chibi.png
 
-- title: 🎓 Education
-  url: /education/
-  excerpt: "My latest blog posts."
+  - title: 🎓 Education
+    url: /education/
+    excerpt: "My latest blog posts."
 
-- title: 👤 About Me
-  url: /about/
+  - title: 👤 About Me
+    url: /about/
