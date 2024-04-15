@@ -22,5 +22,5 @@ Aquí puedes destacar algunos de tus posts o proyectos. Por ejemplo:
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-{% include footer.html %}
+
 </div><!-- /.tiles -->
