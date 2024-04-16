@@ -70,16 +70,16 @@ who is independently driven but also a solid team player.
 <div class="row">
   <div class="column3" style="background-color:#FFB695; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Strengths</h2>
-    <p>Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative.</p>
+    <p>Dedication.  Team work.  Fast learner.  Self-starter.  Multidisciplinary.  Curious.  Creative.</p>
   </div>
   <div class="column3" style="background-color:#96D1CD; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Skills</h2>
-    <p>Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.</p>
+    <p>Unity 2D/3D.  UE 4/5.  C#.  C++.  C.  Java.  Python.  Matlab.  Git.  Modding.  Photoshop.  Video editing.  Microsoft.  Office.  Linux and Ubuntu.</p>
   </div>
     <div class="column3" style="background-color:#FFE28A; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
-    <p class="bubble">Spanish: Native.</p>
-    <p>English: IGCSE English as First Language / IELTS C1</p>
+    <p>**Spanish**: Native.</p>
+    <p>**English**: IGCSE English as First Language / IELTS C1</p>
   </div>
 </div>
 
