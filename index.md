@@ -71,6 +71,10 @@ who is independently driven but also a solid team player.
     <h2>Skills</h2>
     <p>Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.</p>
   </div>
+    <div class="column" style="background-color:#FFE28A;">
+    <h2>Languages</h2>
+    <p>Spanish: Native. English: IGCSE English as First Language / IELTS C1</p>
+  </div>
 </div>
 
 <div align="center">
