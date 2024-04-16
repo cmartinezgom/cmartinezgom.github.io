@@ -64,7 +64,7 @@ who is independently driven but also a solid team player.
 
 <div align="center">
 
-  ## 💼 Experience
+  <h2> 💼 Experience </h2>
 
 </div>
 
