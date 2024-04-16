@@ -62,7 +62,7 @@ who is independently driven but also a solid team player.
 {% include feature_row.html id="feature_row2" type="center" %}
 {% include feature_row.html id="feature_row3" type="right" %}
 
-## 💼 Experience
+## 💼 Experience{: .text-center}
 
 ### 🚀 Junior Unity Programmer @ Maniac Panda Games
 05/2022 – 09/2023 | Remote
@@ -90,7 +90,7 @@ both moving targets and cameras. Using agile methodologies.
 
 You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
-## 🎓 Education
+## 🎓 Education{: .text-center}
 
 - **Master’s Degree in Video Game Design and Programming** @ Open University of Catalonia
 09/2020 – 01/2022 | Online
@@ -123,7 +123,6 @@ Aquí puedes encontrar los cursos que he creado o en los que he participado.
 - Curso 1
 - Curso 2
 - Curso 3
-
 
 
 <div class="tiles">
