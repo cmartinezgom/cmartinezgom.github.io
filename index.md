@@ -62,6 +62,17 @@ who is independently driven but also a solid team player.
 {% include feature_row.html id="feature_row2" type="center" %}
 {% include feature_row.html id="feature_row3" type="right" %}
 
+<div class="row">
+  <div class="column" style="background-color:#FFB695;">
+    <h2>Strengths</h2>
+    <p>Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative.</p>
+  </div>
+  <div class="column" style="background-color:#96D1CD;">
+    <h2>Skills</h2>
+    <p>Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.</p>
+  </div>
+</div>
+
 <div align="center">
 
   <h2> 💼 Experience </h2>
@@ -93,6 +104,10 @@ both moving targets and cameras. Using agile methodologies.
 - Different games and languages, like C# (Unity), C++ (Unreal Engine 4 and 5), C (Pokémon), Java (Minecraft), Lua (Ratchet & Clank)...
 
 You can check this projects in more detail in my [**Portfolio**](/portfolio/)
+
+
+
+
 
 ## 🎓 Education{: .text-center}
 
