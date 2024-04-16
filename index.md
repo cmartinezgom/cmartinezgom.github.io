@@ -63,53 +63,6 @@ A **Computer Science graduate** with a **Master’s degree in Video Game Design 
   </div>
 </div>
 
-<div class="row">
-  <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); padding: 20px;">
-    <h2>Skills</h2>
-    <p style="line-height: 2;"><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Unity 2D/3D</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C#</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C++</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Java</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Python</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Matlab</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Git</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Modding</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Photoshop</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Video editing</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Microsoft Office</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Linux and Ubuntu</span></p>
-  </div>
-  <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); padding: 20px;">
-    <h2>Languages</h2>
-    <p><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Native</span></p>
-    <p style="line-height: 2.5;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
-  </div>
-  <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); padding: 20px;">
-    <h2>Strengths</h2>
-    <p style="line-height: 3;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Dedication</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span></p>
-  </div>
-</div>
-
-
-<div style="text-align: center; padding-top: 20px;">
-  <a href="/portfolio/" class="btn" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
-    You can check my experience in more detail in my <strong>Portfolio</strong>
-  </a>
-</div>
-
-
-<div class="row" style="gap: 20px;">
-  <div class="column3" style="background: #E0E0E0; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); padding: 20px;">
-    <h2>Skills</h2>
-    <p style="line-height: 2;"><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Unity 2D/3D</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C#</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C++</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Java</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Python</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Matlab</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Git</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Modding</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Photoshop</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Video editing</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Microsoft Office</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Linux and Ubuntu</span></p>
-  </div>
-  <div class="column3" style="background: #ADD8E6; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); padding: 20px;">
-    <h2>Languages</h2>
-    <p><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Native</span></p>
-    <p style="line-height: 2.5;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
-  </div>
-    <div class="column3" style="background: #FFE28A; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); padding: 20px;">
-    <h2>Strengths</h2>
-    <p style="line-height: 3;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Dedication</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span></p>
-  </div>
-</div>
-
-
-<div style="text-align: center; padding-top: 20px;">
-  <a href="/portfolio/" class="btn" style="background: #ADD8E6; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
-    You can check my experience in more detail in my <strong>Portfolio</strong>
-  </a>
-</div>
-
 
 <!--
 <div class="notice">
