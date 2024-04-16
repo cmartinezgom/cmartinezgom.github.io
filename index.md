@@ -44,16 +44,9 @@ gallery:
 
 # Hi! I am Carlos Martínez! 
 
-![image-left](/images/foto150.jpg){: .align-left} A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.
-
-<div style="display: flex;">
-  ![image-left](/images/foto150.jpg){: .align-left}
-  <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player. @icn-camera </p>
-</div>
-
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
+  <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
 </div>
 
 <div style="display: flex;">
