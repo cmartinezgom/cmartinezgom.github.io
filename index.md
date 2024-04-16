@@ -62,7 +62,7 @@ who is independently driven but also a solid team player.
 {% include feature_row.html id="feature_row2" type="center" %}
 {% include feature_row.html id="feature_row3" type="right" %}
 
-## 💼 Experience{: .text-center}
+## [💼 Experience]{: .text-center}
 
 ### 🚀 Junior Unity Programmer @ Maniac Panda Games
 05/2022 – 09/2023 | Remote
