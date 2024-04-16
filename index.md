@@ -42,72 +42,12 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce fa-2x"> <i class="fa fa-user-secret fa-beat fa-2x"> </i> <i class="fa fa-user-secret fa-spin"></i> <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+# Hi! I am Carlos Martínez!  <i class="fa fa-user-secret" style="color: DeepSkyBlue">  <i class="fa fa-user-secret" style="color: DarkSlateGray"> <i class="fa fa-user-secret" style="color: indigo"> <i class="fa fa-user-secret" style="color: navy">  <i class="fa fa-user-secret" style="color: royalblue"> 
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
 </div>
-
-<div class="fa-3x">
-  <i class="fa fa-circle-plus fa-beat"></i>
-  <i class="fa fa-heart fa-beat"></i>
-  <i class="fa fa-heart fa-beat" style="--fa-animation-duration: 0.5s;"></i>
-  <i class="fa fa-heart fa-beat" style="--fa-animation-duration: 2s;"></i>
-  <i class="fa fa-heart fa-beat" style="--fa-beat-scale: 2.0;"></i>
-</div>
-
-<div class="fa-3x">
-  <i class="fa fa-triangle-exclamation fa-fade"></i>
-  <i class="fa fa-skull-crossbones fa-fade"></i>
-  <i class="fa fa-desktop-arrow-down fa-fade"></i>
-  <i class="fa fa-i-cursor fa-fade" style="--fa-animation-duration: 2s; --fa-fade-opacity: 0.6;"></i>
-</div>
-
-<div class="fa-3x">
-  <i class="fa fa-triangle-person-digging fa-beat-fade"></i>
-  <i class="fa fa-square-exclamation fa-beat-fade"></i>
-  <i class="fa fa-poo-bolt fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;"></i>
-  <i class="fa fa-circle-info fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i>
-</div>
-
-<div class="fa-3x">
-  <i class="fa fa-basketball fa-bounce"></i>
-  <i class="fa fa-volleyball fa-bounce"></i>
-
-  <!-- bounce animation with no "squish" -->
-  <i class="fa fa-frog fa-bounce" style="--fa-bounce-start-scale-x: 1; --fa-bounce-start-scale-y: 1; --fa-bounce-jump-scale-x: 1; --fa-bounce-jump-scale-y: 1; --fa-bounce-land-scale-x: 1; --fa-bounce-land-scale-y: 1;"></i>
-
-  <!-- bounce animation with no "squish" or "rebound" -->
-  <i class="fa fa-envelope fa-bounce" style="--fa-bounce-start-scale-x: 1;--fa-bounce-start-scale-y: 1;--fa-bounce-jump-scale-x: 1;--fa-bounce-jump-scale-y: 1;--fa-bounce-land-scale-x: 1;--fa-bounce-land-scale-y: 1;--fa-bounce-rebound: 0;"></i>
-</div>
-
-<div class="fa-3x">
-  <i class="fa fa-compact-disc fa-flip"></i>
-  <i class="fa fa-camera-rotate fa-flip"></i>
-  <i class="fa fa-cassette-tape fa-flip"></i>
-  <i class="fa fa-scroll fa-flip" style="--fa-flip-x: 1; --fa-flip-y: 0;"></i>
-  <i  class="fa fa-money-check-dollar fa-flip"  style="--fa-animation-duration: 3s;"></i>
-</div>
-
-<div class="fa-3x">
-  <i class="fa fa-bell fa-shake"></i>
-  <i class="fa fa-lock fa-shake"></i>
-  <i class="fa fa-stopwatch fa-shake"></i>
-  <i class="fa fa-bomb fa-shake"></i>
-</div>
-
-<div class="fa-3x">
-  <i class="fa fa-sync fa-spin"></i>
-  <i class="fa fa-circle-notch fa-spin"></i>
-  <i class="fa fa-cog fa-spin"></i>
-  <i class="fa fa-cog fa-spin fa-spin-reverse"></i>
-  <i class="fa fa-spinner fa-spin-pulse"></i>
-  <i class="fa fa-spinner fa-spin-pulse fa-spin-reverse"></i>
-</div>
-
-<i class="fa fa-user"></i>
-<i class="fa-solid fa-block-question"></i>
 
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 > Configuration can be launched from the **Tools -> Settings** menu option.
