@@ -42,11 +42,11 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez! <i class="fa-solid fa-user-secret fa-beat fa-2x"></i>
+# Hi! I am Carlos Martínez! <i class="fa-solid fa-user-secret fa-bounce fa-2x"></i>
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</i> </p>
+  <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
 </div>
 
 <i class="fa fa-user"></i>
