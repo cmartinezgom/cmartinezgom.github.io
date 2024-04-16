@@ -58,20 +58,9 @@ A Computer Science graduate with a master’s degree in Video Game Design
 and Programming. Multidisciplinary, commited and resolutive programmer
 who is independently driven but also a solid team player.
 
-<div class="row">
-  <div class="column">
-    <h2>Strengths</h2>
-    <p>Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative.</p>
-  </div>
-  <div class="column">
-    <h2>Skills</h2>
-    <p>Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.</p>
-  </div>
-  <div class="column">
-    <h2>Languages</h2>
-    <p>Spanish: Native. English: IGCSE English as First Language / IELTS C1</p>
-  </div>
-</div>
+{% include feature_row.html id="feature_row1" type="left" %}
+{% include feature_row.html id="feature_row2" type="center" %}
+{% include feature_row.html id="feature_row3" type="right" %}
 
 ## 💼 Experience
 
@@ -92,13 +81,15 @@ who is independently driven but also a solid team player.
 both moving targets and cameras. Using agile methodologies.
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
 
-{% include feature_row.html id="feature_row1" type="left" %}
-{% include feature_row.html id="feature_row2" type="center" %}
-{% include feature_row.html id="feature_row3" type="right" %}
+You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
+### 🔧 Personal Projects
 
+![image-left](/images/MotionTracker.gif){: .align-left}
 
-{% include gallery.html %}
+- Several personal projects in gamedev and modding.
+- Different games and languages, like C# (Unity), C++ (Unreal Engine 4 and 5), C (Pokémon), Java (Minecraft), Lua (Ratchet & Clank)...
+
 
 ## 🎓 Education
 
