@@ -42,7 +42,7 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce fa-2x"></i> <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+# Hi! I am Carlos Martínez! <i class="fa-solid fa-user-ti fa-bounce fa-2x"></i> <i class="fa fa-user-secret fa-bounce fa-2x"></i> <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
