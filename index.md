@@ -58,8 +58,8 @@ A **Computer Science graduate** with a **Master’s degree in Video Game Design 
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFD875); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
-    <p><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;"><strong>Spanish</strong>: Native.</span></p>
-    <p><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;"><strong>English</strong>: IGCSE English as First Language / IELTS C1</span></p>
+    <p><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Native</span></p>
+    <p><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
   </div>
 </div>
 
