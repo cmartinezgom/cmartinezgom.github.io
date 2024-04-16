@@ -44,7 +44,12 @@ gallery:
 
 # Hi! I am Carlos Martínez!
 
-![image-left](/images/foto150.jpg){: .align-left} A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player. A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player. A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player. A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.
+![image-left](/images/foto150.jpg){: .align-left} A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.
+
+<div style="display: flex;">
+  !image-left{: .align-left}
+  <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
+</div>
 
 
 <div class="row">
