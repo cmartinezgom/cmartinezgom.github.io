@@ -104,7 +104,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 09/2018 – 06/2020 | León, Spain
 
 <div style="display: flex;">
- <a href="/portfolio/motiontracker/" style="border-radius: 15px; width: 350px; height: 200px;">
+ <a href="/portfolio/motiontracker/" style="border-radius: 15px; width: 650px; height: 400px;">
    <img src="/images/MotionTracker.gif" alt="Descripción de la imagen">
  </a>
   <p style="margin-left: 20px;">Developed <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a>, a Python-based target tracking system that worked with both moving targets and cameras. Using agile methodologies.<br>
