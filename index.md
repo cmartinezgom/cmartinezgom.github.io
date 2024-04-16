@@ -59,7 +59,7 @@ A **Computer Science graduate** with a **Master’s degree in Video Game Design 
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFCE60); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Strengths</h2>
-    <p style="line-height: 3;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Dedication</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span></p>
+    <p style="line-height: 2.7;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Dedication</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span></p>
   </div>
 </div>
 
