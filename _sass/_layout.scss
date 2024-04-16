@@ -143,88 +143,106 @@
    ========================================================================== */
 
 #main {
-	.inner-wrap {
-		@include media($medium) {
-			@include span-columns(9);
-		}
-	}
-	.page-title {
-		@include fill-parent;
-	}
-	@at-root {
-		.page-content {
-			@include fill-parent;
-			// larger font for intro paragraph
-			> p {
-				&:first-child {
-					@include font-size(20,yes,30);
-				}
-			}
-			// cleaner underlines for links
-			a { text-decoration: none; }
-			p a,
-			li a {
-				border-bottom: 1px dotted lighten($link-color, 50);
-				&:hover {
-					border-bottom-style: solid;
-				}
-			}
-			p > a.reversefootnote {
-				border-bottom-width: 0;
-			}
+  .body {
+    background: linear-gradient(to right, #FFB695, #96D1CD);
+  }
+  .inner-wrap {
+    @include media($medium) {
+      @include span-columns(9);
+    }
+  }
+
+  .page-title {
+    @include fill-parent;
+  }
+
+  @at-root {
+    .page-content {
+      @include fill-parent;
+      // larger font for intro paragraph
+      > p {
+        &:first-child {
+          @include font-size(20,yes,30);
+        }
+      }
+      // cleaner underlines for links
+      a {
+        text-decoration: none;
+      }
+
+      p a,
+      li a {
+        border-bottom: 1px dotted lighten($link-color, 50);
+
+        &:hover {
+          border-bottom-style: solid;
+        }
+      }
+
+      p > a.reversefootnote {
+        border-bottom-width: 0;
+      }
+
       .toc li > a {
         border-bottom-width: 0;
       }
-			.page-footer,
-			.pagination {
-				@include fill-parent;
-			}
-			.page-meta {
-				p{
-					@include font-size(14,no);
-					font-family: $alt-font;
-					color: lighten($black,60);
-				}
-			}
-		}
-	}
-	@at-root {
-		.archive-wrap {
-			@include fill-parent;
-			.page-content {
-				@include reset-all;
-				@include fill-parent;
-			}
-		}
-	}
+
+      .page-footer,
+      .pagination {
+        @include fill-parent;
+      }
+
+      .page-meta {
+        p {
+          @include font-size(14,no);
+          font-family: $alt-font;
+          color: lighten($black,60);
+        }
+      }
+    }
+  }
+
+  @at-root {
+    .archive-wrap {
+      @include fill-parent;
+
+      .page-content {
+        @include reset-all;
+        @include fill-parent;
+      }
+    }
+  }
   /* advertisements */
-	.ads {
-		position: relative;
-		text-align: center;
-		margin-top: $gutter;
-		margin-left: -$gutter;
-		margin-right: -$gutter;
-		padding: 10px 0 20px;
-		background: lighten($border-color,5);
-		@include media($medium) {
-			@include span-columns(3);
-			margin-left: 0;
-			margin-right: 0;
-		}
-		&:after {
-			content: 'Advertisement';
-			position: absolute;
-			bottom: 0;
-			width: 100%;
-			text-align: center;
-			display: block;
-			@include font-size(9,no);
-			font-family: $alt-font;
-		}
-		ins {
-			border-width: 0;
-		}
-	}
+  .ads {
+    position: relative;
+    text-align: center;
+    margin-top: $gutter;
+    margin-left: -$gutter;
+    margin-right: -$gutter;
+    padding: 10px 0 20px;
+    background: lighten($border-color,5);
+
+    @include media($medium) {
+      @include span-columns(3);
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    &:after {
+      content: 'Advertisement';
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+      display: block;
+      @include font-size(9,no);
+      font-family: $alt-font;
+    }
+
+    ins {
+      border-width: 0;
+    }
+  }
 }
 // page lead
 .page-lead {
