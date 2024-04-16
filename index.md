@@ -63,6 +63,7 @@ A **Computer Science graduate** with a **Master’s degree in Video Game Design 
   </div>
 </div>
 
+<!--
 <div class="notice">
   <p>Este es un bloque de texto destacado.</p>
 </div>
@@ -76,8 +77,7 @@ Watch out! This paragraph of text has been emphasized with the `notice` class.
 
 Watch out! This paragraph of text has been emphasized with the `notice--primary` class.
 {: .notice--primary}
-
-
+-->
 
 <div align="center">
 
@@ -109,6 +109,7 @@ both moving targets and cameras. Using agile methodologies.
 - Several personal projects in gamedev and modding.
 - Different games and languages, like C# (Unity), C++ (Unreal Engine 4 and 5), C (Pokémon), Java (Minecraft), Lua (Ratchet & Clank)...
 
+<!--
 You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 <a href="/portfolio/" class="btn btn--primary">You can check this projects in more detail in my **Portfolio**</a>
@@ -128,6 +129,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
     You can check these projects in more detail in my <strong>Portfolio</strong>
   </a>
 </div>
+-->
 
 <div style="text-align: center;">
   <a href="/portfolio/" class="btn" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
