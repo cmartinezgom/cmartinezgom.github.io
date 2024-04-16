@@ -2,16 +2,6 @@
 layout: archive
 title: "WELCOME!"
 
-feature_row1:
-  - title: "Strengths"
-    excerpt: "Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
-feature_row2:
-  - title: "Skills"
-    excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
-feature_row3:
-  - title: "Languages"
-    excerpt: "Spanish: Native. English: IGCSE English as First Language / IELTS C1"
-
 feature_row4:
   - image_path: /images/chibi.png
     alt: "Texto alternativo para la imagen 1"
@@ -63,15 +53,35 @@ who is independently driven but also a solid team player.
 {% include feature_row.html id="feature_row3" type="right" %}
 
 <div class="row">
-  <div class="column" style="background-color:#FFB695;">
+  <div class="column3" style="background-color:#FFB695;">
     <h2>Strengths</h2>
     <p>Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative.</p>
   </div>
-  <div class="column" style="background-color:#96D1CD;">
+  <div class="column3" style="background-color:#96D1CD;">
     <h2>Skills</h2>
     <p>Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.</p>
   </div>
-    <div class="column" style="background-color:#FFE28A;">
+    <div class="column3" style="background-color:#FFE28A;">
+    <h2>Languages</h2>
+    <p>Spanish: Native. English: IGCSE English as First Language / IELTS C1</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column4" style="background-color:#FFB695;">
+    <h2>Strengths</h2>
+    <p>Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative.</p>
+  </div>
+  <div class="column4" style="background-color:#96D1CD;">
+    <h2>Skills</h2>
+    <p>Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.</p>
+  </div>
+    <div class="column4" style="background-color:#FFE28A;">
+    <h2>Languages</h2>
+    <p>Spanish: Native. English: IGCSE English as First Language / IELTS C1</p>
+  </div>
+  </div>
+    <div class="column4" style="background-color:#A2D0C1;">
     <h2>Languages</h2>
     <p>Spanish: Native. English: IGCSE English as First Language / IELTS C1</p>
   </div>
