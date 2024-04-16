@@ -123,6 +123,7 @@ both moving targets and cameras. Using agile methodologies.
 
 You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
+<a href="/portfolio/" class="btn btn--primary">You can check this projects in more detail in my **Portfolio**</a>
 
 
 
