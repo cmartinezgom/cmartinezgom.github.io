@@ -129,6 +129,12 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
   </a>
 </div>
 
+<div style="text-align: center;">
+  <a href="/portfolio/" class="btn" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
+    You can check these projects in more detail in my <strong>Portfolio</strong>
+  </a>
+</div>
+
 
 <div align="center">
 
