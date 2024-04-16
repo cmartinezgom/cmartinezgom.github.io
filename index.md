@@ -51,11 +51,9 @@ gallery:
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
+  <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player. <i class="fas fa-user-tie"></i></p>
 </div>
 
-
-@icn-camera
 
 <div class="row">
   <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FF9F6A); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
@@ -97,7 +95,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 </div>
 
 ### 🚀 Junior Unity Programmer @ Maniac Panda Games
-05/2022 – 09/2023 | Remote @icn-camera
+05/2022 – 09/2023 | Remote
 
 ![image-left](/images/Racerloop.jpg){: .align-left}
 
