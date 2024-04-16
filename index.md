@@ -44,28 +44,8 @@ gallery:
 
 # Hi! I am Carlos Martínez!
 
-A Computer Science graduate with a master’s degree in Video Game Design
-and Programming. Multidisciplinary, commited and resolutive programmer
-who is independently driven but also a solid team player.
+A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.
 
-{% include feature_row.html id="feature_row1" type="left" %}
-{% include feature_row.html id="feature_row2" type="center" %}
-{% include feature_row.html id="feature_row3" type="right" %}
-
-<div class="row">
-  <div class="column3" style="background-color:#FFB695;">
-    <h2>Strengths</h2>
-    <p>Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative.</p>
-  </div>
-  <div class="column3" style="background-color:#96D1CD;">
-    <h2>Skills</h2>
-    <p>Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu.</p>
-  </div>
-    <div class="column3" style="background-color:#A2D0C1;">
-    <h2>Languages</h2>
-    <p>Spanish: Native. English: IGCSE English as First Language / IELTS C1</p>
-  </div>
-</div>
 
 <div class="row">
   <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FFA580); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
@@ -74,7 +54,7 @@ who is independently driven but also a solid team player.
   </div>
   <div class="column3" style="background: linear-gradient(to bottom, #96D1CD, #85BFB9); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Skills</h2>
-    <p><strong>Unity 2D/3D</strong>.  <span style="border: 2px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  C#.  C++.  C.  Java.  Python.  Matlab.  Git.  Modding.  Photoshop.  Video editing.  Microsoft.  Office.  Linux and Ubuntu.</p>
+    <p><strong>Unity 2D/3D</strong>.  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  C#.  C++.  C.  Java.  Python.  Matlab.  Git.  Modding.  Photoshop.  Video editing.  Microsoft.  Office.  Linux and Ubuntu.</p>
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFD875); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
