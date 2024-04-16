@@ -96,15 +96,19 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 05/2022 – 09/2023 | Remote
 
 <div style="display: flex;">
-  <a href= "https://www.racerloop.com/"><img src="/images/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 350px; height: 200px;"></a>
-  <p style="margin-left: 20px;">Worked on <a href="https://www.racerloop.com/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.<br>Contributions in: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.</p>
+ <div style="width: 350px; height: 300px;">
+   <a href="/portfolio/racerloop/">
+     <img src="/images/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+   </a>
+ </div>
+  <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.<br>Contributions in: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.</p>
 </div>
 
 ### 👁 Software Engineering Intern @ HP SCDS
 09/2018 – 06/2020 | León, Spain
 
 <div style="display: flex;">
- <div style="width: 350px; height: 200px;">
+ <div style="width: 350px; height: 300px;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/MotionTracker.gif" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
