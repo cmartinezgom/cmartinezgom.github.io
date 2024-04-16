@@ -42,14 +42,15 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez! 
+# Hi! I am Carlos Martínez! <i class="fa-solid fa-user-secret fa-pulse fa-2x"></i>
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player. <i class="fa fa-user"></i> </p> <i class="fa fa-user"></i>
+  <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</i> </p>
 </div>
 
 <i class="fa fa-user"></i>
+<i class="fa-solid fa-block-question"></i>
 
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 > Configuration can be launched from the **Tools -> Settings** menu option.
