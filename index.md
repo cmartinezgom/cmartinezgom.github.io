@@ -101,7 +101,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
      <img src="/images/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.<br>Contributions in: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.</p>
+  <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.<br><br>Contributions in: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.</p>
 </div>
 
 ### 👁 Software Engineering Intern @ HP SCDS
@@ -113,7 +113,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
      <img src="/images/MotionTracker.gif" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Developed <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a>, a Python-based target tracking system that worked with both moving targets and cameras. Using agile methodologies.<br>
+  <p style="margin-left: 20px;">Developed <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a>, a Python-based target tracking system that worked with both moving targets and cameras. Using agile methodologies.<br><br>
   <a href="https://hpscds.com/xv-observatorio-hp-2020/"><strong>Finalist of the XV "Programa Observatorio Tecnológico HP" awards.</strong></a></p>
 </div>
 
