@@ -55,11 +55,11 @@ A **Computer Science graduate** with a **Master’s degree in Video Game Design 
   <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
     <p><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Native</span></p>
-    <p style="line-height: 2.5;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
+    <p style="line-height: 2.55;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFCE60); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Strengths</h2>
-    <p style="line-height: 2.7;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Dedication</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span></p>
+    <p style="line-height: 2.65;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Dedication</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span></p>
   </div>
 </div>
 
