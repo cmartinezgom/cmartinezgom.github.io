@@ -42,7 +42,7 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez! <i class="fas fa-user-secret">
+# Hi! I am Carlos Martínez! <i class="fa fa-user-secret">
 <!-- <i class="fa fa-user-secret" style="color: DeepSkyBlue">  <i class="fa fa-user-secret" style="color: DarkSlateGray"> <i class="fa fa-user-secret" style="color: indigo"> <i class="fa fa-user-secret" style="color: navy">  <i class="fa fa-user-secret" style="color: royalblue"> -->
 
 <div style="display: flex;">
@@ -50,21 +50,21 @@ gallery:
   <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
 </div>
 
-> #### <i class="fas fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 > Configuration can be launched from the **Tools -> Settings** menu option.
 
 <div class="row">
   <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FF9F6A); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
-    <h2><i class="fas fa-headset"></i> Skills</h2>
+    <h2><i class="fa fa-headset"></i> Skills</h2>
     <p style="line-height: 2;"><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Unity 2D/3D</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C#</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C++</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Java</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Python</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Matlab</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Git</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Modding</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Photoshop</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Video editing</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Microsoft Office</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Linux and Ubuntu</span></p>
   </div>
   <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
-    <h2><i class="fas fa-language"></i> Languages</h2>
+    <h2><i class="fa fa-language"></i> Languages</h2>
     <p><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Native</span></p>
     <p style="line-height: 2.55;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFCE60); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
-    <h2><i class="fas fa-dumbbell"></i> Strengths</h2>
+    <h2><i class="fa fa-dumbbell"></i> Strengths</h2>
     <p style="line-height: 2.65;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Dedication</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span></p>
   </div>
 </div>
