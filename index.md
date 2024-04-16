@@ -117,9 +117,24 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
   You can check these projects in more detail in my <strong>Portfolio</strong>
 </a>
 
+<div style="text-align: center;">
+  <a href="/portfolio/" class="btn" style="background: linear-gradient(to bottom, #FFB695, #FFA580); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
+    You can check these projects in more detail in my <strong>Portfolio</strong>
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a href="/portfolio/" class="btn" style="background: linear-gradient(to bottom, #96D1CD, #85BFB9); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
+    You can check these projects in more detail in my <strong>Portfolio</strong>
+  </a>
+</div>
 
 
-## 🎓 Education{: .text-center}
+<div align="center">
+
+  <h2> 🎓 Education </h2>
+
+</div>
 
 - **Master’s Degree in Video Game Design and Programming** @ Open University of Catalonia
 09/2020 – 01/2022 | Online
