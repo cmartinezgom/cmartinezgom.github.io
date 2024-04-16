@@ -54,12 +54,12 @@ A **Computer Science graduate** with a **Master’s degree in Video Game Design 
   </div>
   <div class="column3" style="background: linear-gradient(to bottom, #96D1CD, #85BFB9); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Skills</h2>
-    <p><strong>Unity 2D/3D</strong>.  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  C#.  C++.  C.  Java.  Python.  Matlab.  Git.  Modding.  Photoshop.  Video editing.  Microsoft.  Office.  Linux and Ubuntu.</p>
+    <p><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Unity 2D/3D</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C#</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C++</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Java</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Python</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Matlab</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Git</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Modding</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Photoshop</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Video editing</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Microsoft Office</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Linux and Ubuntu</span></p>
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFD875); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
-    <p><strong>Spanish</strong>: Native.</p>
-    <p><strong>English</strong>: IGCSE English as First Language / IELTS C1</p>
+    <p><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;"><strong>Spanish</strong>: Native.</span></p>
+    <p><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;"><strong>English</strong>: IGCSE English as First Language / IELTS C1</span></p>
   </div>
 </div>
 
