@@ -54,8 +54,8 @@ A **Computer Science graduate** with a **Master’s degree in Video Game Design 
   </div>
   <div class="column3" style="background: linear-gradient(to bottom, #96D1CD, #7FBFB9); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
-    <p style="line-height: 1.6;"><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px; margin: 2px;">Native</span></p>
-    <p style="line-height: 1.6;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px; margin: 2px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px; margin: 2px;">IELTS C1</span></p>
+    <p><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px; margin: 2px;">Native</span></p>
+    <p style="line-height: 5;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px; margin: 2px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px; margin: 2px;">IELTS C1</span></p>
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFCE60); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Strengths</h2>
