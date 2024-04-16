@@ -96,15 +96,8 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 05/2022 – 09/2023 | Remote
 
 <div style="display: flex;">
-  <img src="/images/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">Worked on [<strong>Racerloop</strong>](https://www.racerloop.com/), a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.
-  Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.</p>
-</div>
-
-
-<div style="display: flex;">
-  <img src="/images/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;"> Worked on [<strong>Racerloop</strong>](https://www.racerloop.com/), a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.
+  <img src="/images/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 350px; height: 200px;">
+  <p style="margin-left: 20px;">Worked on <a href="https://www.racerloop.com/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.
   Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.</p>
 </div>
 
