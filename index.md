@@ -71,11 +71,6 @@ A **Computer Science graduate** with a **Master’s degree in Video Game Design 
   <p>Este es un bloque de texto destacado con estilo inverso.</p>
 </div>
 
-
-{% notice info %}
-Este es un bloque de texto destacado.
-{% endnotice %}
-
 Watch out! This paragraph of text has been emphasized with the `notice` class.
 {: .notice}
 
