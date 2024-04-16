@@ -78,7 +78,7 @@ who is independently driven but also a solid team player.
   </div>
     <div class="column3" style="background-color:#FFE28A; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
-    <p>**Spanish**: Native.</p>
+    <p><h3>Spanish</h3>: Native.</p>
     <p>**English**: IGCSE English as First Language / IELTS C1</p>
   </div>
 </div>
