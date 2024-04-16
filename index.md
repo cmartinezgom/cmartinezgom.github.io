@@ -77,11 +77,9 @@ who is independently driven but also a solid team player.
 
 ![image-left](/images/MotionTracker.gif){: .align-left}
 
-- Developed **MotionTracker**, a Python-based target tracking system that worked with
+- Developed [**MotionTracker**](/portfolio/motiontracker/), a Python-based target tracking system that worked with
 both moving targets and cameras. Using agile methodologies.
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
-
-You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 ### 🔧 Personal Projects
 
@@ -90,13 +88,14 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 - Several personal projects in gamedev and modding.
 - Different games and languages, like C# (Unity), C++ (Unreal Engine 4 and 5), C (Pokémon), Java (Minecraft), Lua (Ratchet & Clank)...
 
+You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 ## 🎓 Education
 
 - **Master’s Degree in Video Game Design and Programming** @ Open University of Catalonia
 09/2020 – 01/2022 | Online
 • Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.
-• Master’s Thesis: Development of the video game Katergaris’ Labyrinth  .
+• Master’s Thesis: Development of the video game [Katergaris’ Labyrinth](/portfolio/katergarislabyrinth/) .
 
 - **International Student Exchange** @ California State University Monterey Bay
 08/2019 – 01/2020 | California, USA
