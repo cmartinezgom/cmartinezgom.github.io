@@ -143,9 +143,6 @@
    ========================================================================== */
 
 #main {
-  .body {
-    background: linear-gradient(to right, #FFB695, #96D1CD);
-  }
   .inner-wrap {
     @include media($medium) {
       @include span-columns(9);
