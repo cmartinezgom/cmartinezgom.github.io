@@ -49,11 +49,10 @@ gallery:
   <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
 </div>
 
-<div style="display: flex;">
-  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player. <i class="fas fa-user-tie"></i></p>
-</div>
+<i class="fa fa-user"></i>
 
+> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+> Configuration can be launched from the **Tools -> Settings** menu option.
 
 <div class="row">
   <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FF9F6A); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
