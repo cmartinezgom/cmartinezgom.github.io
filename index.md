@@ -121,10 +121,14 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 
 ### <i class="fa fa-puzzle-piece"></i> Personal Projects
 
-![image-left](/images/MotionTracker.gif){: .align-left}
-
-- Several personal projects in gamedev and modding.
-- Different games and languages, like C# (Unity), C++ (Unreal Engine 4 and 5), C (Pokémon), Java (Minecraft), Lua (Ratchet & Clank)...
+<div style="display: flex;">
+ <div style="width: 450px; height: 200px;">
+   <a href="/portfolio/motiontracker/">
+     <img src="/images/MotionTracker.gif" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+   </a>
+ </div>
+  <p style="margin-left: 20px;">Several <a href="/portfolio/">personal projects</a> in gamedev and modding.<br><br>Different games and languages, like C# (Unity), C++ (Unreal Engine 4 and 5), C (Pokémon), Java (Minecraft), Lua (Ratchet & Clank)...</p>
+</div>
 
 <!--
 You can check this projects in more detail in my [**Portfolio**](/portfolio/)
