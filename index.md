@@ -42,15 +42,27 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez!
+# Hi! I am Carlos Martínez! 
 
 ![image-left](/images/foto150.jpg){: .align-left} A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.
 
 <div style="display: flex;">
-  !image-left{: .align-left}
+  ![image-left](/images/foto150.jpg){: .align-left}
+  <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player. @icn-camera </p>
+</div>
+
+<div style="display: flex;">
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
 </div>
 
+<div style="display: flex;">
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 150px; height: 150px;">
+  <p style="margin-left: 20px;">A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
+</div>
+
+
+@icn-camera
 
 <div class="row">
   <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FF9F6A); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
@@ -92,7 +104,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 </div>
 
 ### 🚀 Junior Unity Programmer @ Maniac Panda Games
-05/2022 – 09/2023 | Remote
+05/2022 – 09/2023 | Remote @icn-camera
 
 ![image-left](/images/Racerloop.jpg){: .align-left}
 
