@@ -68,15 +68,15 @@ who is independently driven but also a solid team player.
 </div>
 
 <div class="row">
-  <div class="column3" style="background: linear-gradient(to bottom, #FFCBB2, #FFB695); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
+  <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FFA580); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Strengths</h2>
     <p>Dedication.  Team work.  Fast learner.  Self-starter.  Multidisciplinary.  Curious.  Creative.</p>
   </div>
-  <div class="column3" style="background: linear-gradient(to bottom, #B2E3E0, #96D1CD); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
+  <div class="column3" style="background: linear-gradient(to bottom, #96D1CD, #85BFB9); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Skills</h2>
-    <p><strong>Unity 2D/3D</strong>.  UE 4/5.  C#.  C++.  C.  Java.  Python.  Matlab.  Git.  Modding.  Photoshop.  Video editing.  Microsoft.  Office.  Linux and Ubuntu.</p>
+    <p><strong>Unity 2D/3D</strong>.  <span style="border: 2px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  C#.  C++.  C.  Java.  Python.  Matlab.  Git.  Modding.  Photoshop.  Video editing.  Microsoft.  Office.  Linux and Ubuntu.</p>
   </div>
-    <div class="column3" style="background: linear-gradient(to bottom, #FFF1A8, #FFE28A,); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
+    <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFD875); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
     <p><strong>Spanish</strong>: Native.</p>
     <p><strong>English</strong>: IGCSE English as First Language / IELTS C1</p>
