@@ -68,7 +68,7 @@ who is independently driven but also a solid team player.
 </div>
 
 <div class="row">
-  <div class="column4" style="background-color:#FFB695;">
+  <div class="column" style="background-color:#FFB695; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Strengths</h2>
     <p>Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative.</p>
   </div>
