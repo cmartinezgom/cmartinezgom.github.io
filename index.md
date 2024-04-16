@@ -42,11 +42,68 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce fa-2x"></i> <i class="fa fa-user-secret fa-spin"></i> <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+# Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce fa-2x"> <i class="fa fa-user-secret fa-beat fa-2x"> </i> <i class="fa fa-user-secret fa-spin"></i> <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.</p>
+</div>
+
+<div class="fa-3x">
+  <i class="fa-solid fa-circle-plus fa-beat"></i>
+  <i class="fa-solid fa-heart fa-beat"></i>
+  <i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s;"></i>
+  <i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 2s;"></i>
+  <i class="fa-solid fa-heart fa-beat" style="--fa-beat-scale: 2.0;"></i>
+</div>
+
+<div class="fa-3x">
+  <i class="fa-solid fa-triangle-exclamation fa-fade"></i>
+  <i class="fa-solid fa-skull-crossbones fa-fade"></i>
+  <i class="fa-solid fa-desktop-arrow-down fa-fade"></i>
+  <i class="fa-solid fa-i-cursor fa-fade" style="--fa-animation-duration: 2s; --fa-fade-opacity: 0.6;"></i>
+</div>
+
+<div class="fa-3x">
+  <i class="fa-solid fa-triangle-person-digging fa-beat-fade"></i>
+  <i class="fa-solid fa-square-exclamation fa-beat-fade"></i>
+  <i class="fa-solid fa-poo-bolt fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;"></i>
+  <i class="fa-solid fa-circle-info fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i>
+</div>
+
+<div class="fa-3x">
+  <i class="fa-solid fa-basketball fa-bounce"></i>
+  <i class="fa-solid fa-volleyball fa-bounce"></i>
+
+  <!-- bounce animation with no "squish" -->
+  <i class="fa-solid fa-frog fa-bounce" style="--fa-bounce-start-scale-x: 1; --fa-bounce-start-scale-y: 1; --fa-bounce-jump-scale-x: 1; --fa-bounce-jump-scale-y: 1; --fa-bounce-land-scale-x: 1; --fa-bounce-land-scale-y: 1;"></i>
+
+  <!-- bounce animation with no "squish" or "rebound" -->
+  <i class="fa-solid fa-envelope fa-bounce" style="--fa-bounce-start-scale-x: 1;--fa-bounce-start-scale-y: 1;--fa-bounce-jump-scale-x: 1;--fa-bounce-jump-scale-y: 1;--fa-bounce-land-scale-x: 1;--fa-bounce-land-scale-y: 1;--fa-bounce-rebound: 0;"></i>
+</div>
+
+<div class="fa-3x">
+  <i class="fa-solid fa-compact-disc fa-flip"></i>
+  <i class="fa-solid fa-camera-rotate fa-flip"></i>
+  <i class="fa-solid fa-cassette-tape fa-flip"></i>
+  <i class="fa-solid fa-scroll fa-flip" style="--fa-flip-x: 1; --fa-flip-y: 0;"></i>
+  <i  class="fa-solid fa-money-check-dollar fa-flip"  style="--fa-animation-duration: 3s;"></i>
+</div>
+
+<div class="fa-3x">
+  <i class="fa-solid fa-bell fa-shake"></i>
+  <i class="fa-solid fa-lock fa-shake"></i>
+  <i class="fa-solid fa-stopwatch fa-shake"></i>
+  <i class="fa-solid fa-bomb fa-shake"></i>
+</div>
+
+<div class="fa-3x">
+  <i class="fa-solid fa-sync fa-spin"></i>
+  <i class="fa-solid fa-circle-notch fa-spin"></i>
+  <i class="fa-solid fa-cog fa-spin"></i>
+  <i class="fa-solid fa-cog fa-spin fa-spin-reverse"></i>
+  <i class="fa-solid fa-spinner fa-spin-pulse"></i>
+  <i class="fa-solid fa-spinner fa-spin-pulse fa-spin-reverse"></i>
 </div>
 
 <i class="fa fa-user"></i>
@@ -111,7 +168,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 both moving targets and cameras. Using agile methodologies.
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
 
-### <i class="fa-solid fa-puzzle-piece fa-2x"></i> Personal Projects
+### <i class="fa fa-puzzle-piece fa-2x"></i> Personal Projects
 
 ![image-left](/images/MotionTracker.gif){: .align-left}
 
