@@ -68,7 +68,7 @@ who is independently driven but also a solid team player.
 </div>
 
 <div class="row">
-  <div class="column3" style="background-color:#FFB695; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
+  <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FFCBB2); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Strengths</h2>
     <p>Dedication.  Team work.  Fast learner.  Self-starter.  Multidisciplinary.  Curious.  Creative.</p>
   </div>
@@ -78,7 +78,7 @@ who is independently driven but also a solid team player.
   </div>
     <div class="column3" style="background-color:#FFE28A; border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2>Languages</h2>
-    <p><h3>Spanish</h3>: Native.</p>
+    <p><strong>Spanish</strong>: Native.</p>
     <p>**English**: IGCSE English as First Language / IELTS C1</p>
   </div>
 </div>
