@@ -82,8 +82,8 @@ who is independently driven but also a solid team player.
   </div>
   </div>
     <div class="column4" style="background-color:#A2D0C1;">
-    <h2>Languages</h2>
-    <p>Spanish: Native. English: IGCSE English as First Language / IELTS C1</p>
+    <h2>Pepepe</h2>
+    <p>PUPUPU</p>
   </div>
 </div>
 
