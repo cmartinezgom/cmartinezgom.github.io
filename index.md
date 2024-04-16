@@ -96,7 +96,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 05/2022 – 09/2023 | Remote
 
 <div style="display: flex;">
- <div style="width: 350px; height: 300px;">
+ <div style="width: 450px; height: 200px;">
    <a href="/portfolio/racerloop/">
      <img src="/images/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
@@ -108,7 +108,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 09/2018 – 06/2020 | León, Spain
 
 <div style="display: flex;">
- <div style="width: 350px; height: 300px;">
+ <div style="width: 450px; height: 200px;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/MotionTracker.gif" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
