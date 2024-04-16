@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "WELCOME! <i class="fa-solid fa-gamepad"></i>" <i class="fa-solid fa-gamepad"></i>
+title: "WELCOME!"
 
 feature_row4:
   - image_path: /images/chibi.png
