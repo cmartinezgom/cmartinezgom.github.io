@@ -44,6 +44,7 @@ gallery:
 
 # Hi! I am Carlos Martínez!
 
+![image-left](/images/foto.jpg){: .align-left}
 A **Computer Science graduate** with a **Master’s degree in Video Game Design and Programming**. Multidisciplinary, commited and resolutive programmer who is independently driven but also a solid team player.
 
 
