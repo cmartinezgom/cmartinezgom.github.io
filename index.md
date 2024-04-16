@@ -42,7 +42,7 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez! <i class="fa-solid fa-user-secret fa-bounce"></i> <i class="fa fa-user-secret fa-spin"></i> <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+# Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce fa-2x"></i> <i class="fa fa-user-secret fa-spin"></i> <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
@@ -111,7 +111,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 both moving targets and cameras. Using agile methodologies.
 - [Finalist of the XV "Programa Observatorio Tecnológico HP" awards.](https://hpscds.com/xv-observatorio-hp-2020/)
 
-### 🔧 Personal Projects
+### <i class="fa-solid fa-puzzle-piece fa-2x"></i> Personal Projects
 
 ![image-left](/images/MotionTracker.gif){: .align-left}
 
