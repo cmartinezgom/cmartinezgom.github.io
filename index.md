@@ -214,7 +214,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 <div style="display: flex;">
  <div style="width: 450px; height: 200px;">
    <a href="/portfolio/racerloop/">
-     <img src="/images/logoULE.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;">Strong and wide grounding in the basic principles of maths, programming in different
