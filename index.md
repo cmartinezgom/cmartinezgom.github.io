@@ -194,13 +194,12 @@ EDUCATION
   <p style="margin-left: 20px;">Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.<br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
-style="border-radius: 50%; width: 150px; height: 150px;"
 
 ### 👁 International Student Exchange @ California State University Monterey Bay
 08/2019 – 01/2020 | Seaside, CA, USA
 
 <div style="display: flex;">
-  <p style="margin-right: 10px;">• Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
+  <p style="margin-right: 20px;">• Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/motiontracker/">
