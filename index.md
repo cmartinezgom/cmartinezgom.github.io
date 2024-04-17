@@ -56,6 +56,15 @@ gallery:
   <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming experience, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Versatile, commited and resolutive programmer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
 </div>
 
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
+<div style="text-align: center;">
+  <hr style="display: inline-block; width: 40%;">
+  <i class="fas fa-star"></i>
+  <hr style="display: inline-block; width: 40%;">
+</div>
+
 <!--
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 > Configuration can be launched from the **Tools -> Settings** menu option.
