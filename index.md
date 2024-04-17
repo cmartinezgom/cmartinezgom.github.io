@@ -56,6 +56,9 @@ gallery:
   <p style="margin-left: 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Versatile, commited and resolutive programmer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
 </div>
 
+<hr style="height: 1px; border: none; background: linear-gradient(to right, #000, #1c1c1c);">
+
+<hr style="height: 2px; border: none; background: linear-gradient(to right, #000, #1c1c1c);">
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #1c1c1c;">
 
