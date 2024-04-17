@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Foo Bar Identity"
+title: "Racerloop @ Maniac Panda Games"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 permalink: /portfolio/racerloop/
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/Racerloop.jpg
+  teaser: /assets/images/Racerloop.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
