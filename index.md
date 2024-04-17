@@ -94,7 +94,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 
 <div align="center">
 
-  <h2> <i class="fa fa-briefcase fa-bounce">💼 Experience</i></h2>
+  <h2>💼 Experience</h2>
 
 </div>
 
