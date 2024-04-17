@@ -39,36 +39,32 @@ gallery:
 
 ---
 
-![full](/images/bannertest.png)
-{: .full}
-
 <div align="center">
 
   <h1> Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce"></i> </h1>
 
 </div>
 
+![full](/images/bannertest.png)
+{: .full}
+
 
 <!-- <i class="fa fa-user-secret" style="color: DeepSkyBlue">  <i class="fa fa-user-secret" style="color: DarkSlateGray"> <i class="fa fa-user-secret" style="color: indigo"> <i class="fa fa-user-secret" style="color: navy">  <i class="fa fa-user-secret" style="color: royalblue"> -->
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Versatile, commited and resolutive programmer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
+  <p style="margin-left: 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Versatile, commited and resolutive programmer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
 </div>
 
+<hr style="border: none; border-top: 1px solid #333;">
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <hr style="height:1px; border:none; color:#333; background-color:#333; background-image:linear-gradient(to right, #333, #fff, #333);">
 
-
-<div style="text-align: center;">
-  <hr style="display: inline-block; width: 40%;">
-  <i class="fas fa-star"></i>
-  <hr style="display: inline-block; width: 40%;">
-</div>
-
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
+<hr style="border: none; border-top: 1px solid #333;">
 
 
 <!--
