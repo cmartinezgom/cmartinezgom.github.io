@@ -197,11 +197,13 @@ EDUCATION
 <div style="display: flex;">
  <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/racerloop/">
-     <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;">Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.<br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
+
+style="border-radius: 50%; width: 150px; height: 150px;"
 
 ### 👁 International Student Exchange @ California State University Monterey Bay
 08/2019 – 01/2020 | Seaside, CA, USA
