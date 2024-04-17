@@ -53,7 +53,7 @@ gallery:
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming experience, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Versatile, commited and resolutive programmer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
+  <p style="margin-left: 20px;">A <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Versatile, commited and resolutive programmer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
 </div>
 
 
@@ -106,7 +106,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 {: .notice--primary}
 -->
 
-<div align="center">
+<div align="center" id="experience-section>
 
   <h2>💼 Experience</h2>
 
