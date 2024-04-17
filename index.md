@@ -44,9 +44,11 @@ gallery:
 
 <div align="center">
 
-  <h1> Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce"> </h1>
+  <h2> Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce"> </h2>
 
 </div>
+
+
 <!-- <i class="fa fa-user-secret" style="color: DeepSkyBlue">  <i class="fa fa-user-secret" style="color: DarkSlateGray"> <i class="fa fa-user-secret" style="color: indigo"> <i class="fa fa-user-secret" style="color: navy">  <i class="fa fa-user-secret" style="color: royalblue"> -->
 
 <div style="display: flex;">
