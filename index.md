@@ -186,15 +186,6 @@ EDUCATION
 09/2020 – 01/2022 | Online
 
 <div style="display: flex;">
- <div style="width: 450px; height: 200px;">
-   <a href="/portfolio/racerloop/">
-     <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
-   </a>
- </div>
-  <p style="margin-left: 20px;">Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.<br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
-</div>
-
-<div style="display: flex;">
  <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/racerloop/">
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
@@ -211,9 +202,9 @@ style="border-radius: 50%; width: 150px; height: 150px;"
 <div style="display: flex;">
   <p style="margin-right: 10px;">• Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
- <div style="width: 450px; height: 200px;">
+ <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/motiontracker/">
-     <img src="/images/logoCSUMB.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/logoCSUMB.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>
@@ -222,9 +213,9 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 09/2016 – 06/2020 | León, Spain
 
 <div style="display: flex;">
- <div style="width: 450px; height: 200px;">
+ <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/racerloop/">
-     <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;">Strong and wide grounding in the basic principles of maths, programming in different
