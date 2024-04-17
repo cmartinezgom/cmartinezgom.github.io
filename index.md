@@ -42,7 +42,7 @@ gallery:
 ![full](/images/bannertest.png)
 {: .full}
 
-# Hi! I am Carlos Martínez! <i class="fa fa-user-secret">
+# Hi! I am Carlos Martínez! <i class="fa fa-user-secret"> <i class="fa-solid fa-user-secret"> <i class="fa-solid fa-pen-nib"></i> <i class="fa-regular fa-pen-nib"></i> <i class="fa-light fa-pen-nib"></i> <i class="fa-duotone fa-pen-nib"></i> <i class="fa-thin fa-pen-nib"></i>
 <!-- <i class="fa fa-user-secret" style="color: DeepSkyBlue">  <i class="fa fa-user-secret" style="color: DarkSlateGray"> <i class="fa fa-user-secret" style="color: indigo"> <i class="fa fa-user-secret" style="color: navy">  <i class="fa fa-user-secret" style="color: royalblue"> -->
 
 <div style="display: flex;">
