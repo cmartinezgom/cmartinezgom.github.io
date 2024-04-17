@@ -106,7 +106,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 {: .notice--primary}
 -->
 
-<div align="center" id="experience-section>
+<div align="center" id="experience-section">
 
   <h2>💼 Experience</h2>
 
