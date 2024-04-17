@@ -59,6 +59,9 @@ gallery:
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
+<hr style="height:1px; border:none; color:#333; background-color:#333; background-image:linear-gradient(to right, #333, #fff, #333);">
+
+
 <div style="text-align: center;">
   <hr style="display: inline-block; width: 40%;">
   <i class="fas fa-star"></i>
