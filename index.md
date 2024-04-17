@@ -172,26 +172,54 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
-<div align="center">
+
+<!--
+EDUCATION
+-->
+<div align="center" id="education-section">
 
   <h2> 🎓 Education </h2>
 
 </div>
 
-- **Master’s Degree in Video Game Design and Programming** @ Open University of Catalonia
+### 🚀 Master’s Degree in Video Game Design and Programming @ Open University of Catalonia
 09/2020 – 01/2022 | Online
-• Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.
-• Master’s Thesis: Development of the video game [Katergaris’ Labyrinth](/portfolio/katergarislabyrinth/) .
 
-- **International Student Exchange** @ California State University Monterey Bay
-08/2019 – 01/2020 | California, USA
-• Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
-Modelling (A+), Character Design (A+) and Game Design II (A).
+<div style="display: flex;">
+ <div style="width: 450px; height: 200px;">
+   <a href="/portfolio/racerloop/">
+     <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+   </a>
+ </div>
+  <p style="margin-left: 20px;">Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.<br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+</div>
 
-- Degree in **Computer Science** @ University of León
+
+### 👁 International Student Exchange @ California State University Monterey Bay
+08/2019 – 01/2020 | Seaside, CA, USA
+
+<div style="display: flex;">
+  <p style="margin-right: 10px;">• Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
+Modelling (A+), Character Design (A+) and Game Design II (A).</p>
+ <div style="width: 450px; height: 200px;">
+   <a href="/portfolio/motiontracker/">
+     <img src="/images/logoCSUMB.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+   </a>
+ </div>
+</div>
+
+### 🚀 Degree in Computer Science @ University of León
 09/2016 – 06/2020 | León, Spain
-• Strong and wide grounding in the basic principles of maths, programming in different
-languages and design patterns.
+
+<div style="display: flex;">
+ <div style="width: 450px; height: 200px;">
+   <a href="/portfolio/racerloop/">
+     <img src="/images/logoULE.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+   </a>
+ </div>
+  <p style="margin-left: 20px;">Strong and wide grounding in the basic principles of maths, programming in different
+languages and design patterns.</p>
+</div>
 
 - 93 credits, joint studies of Mathematics and Computer Science degrees. Strong and
 wide grounding in maths and calculus. University of Valladolid.
