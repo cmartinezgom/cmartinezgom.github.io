@@ -56,14 +56,6 @@ gallery:
   <p style="margin-left: 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Versatile, commited and resolutive programmer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
 </div>
 
-<hr style="height: 1px; border: none; background: linear-gradient(to right, #000, #1c1c1c);">
-
-<hr style="height: 2px; border: none; background: linear-gradient(to right, #000, #1c1c1c);">
-
-<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #1c1c1c;">
-
-<hr style="height:1px; border:none; color:#333; background-color:#333; background-image:linear-gradient(to right, #333, #fff, #333);">
-
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <!--
@@ -79,13 +71,15 @@ gallery:
   <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2><i class="fa fa-language"></i> Languages</h2>
     <p><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Native</span></p>
-    <p style="line-height: 2.55;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE English as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
+    <p style="line-height: 2.55;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE ENG as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFCE60); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2><i class="fa fa-dumbbell"></i> Strengths</h2>
     <p style="line-height: 2.65;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Dedication</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span></p>
   </div>
 </div>
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 
 <!--
@@ -126,13 +120,13 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 09/2018 – 06/2020 | León, Spain
 
 <div style="display: flex;">
+  <p style="margin-right: 20px;">Developed <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a>, a Python-based target tracking system that worked with both moving targets and cameras. Using agile methodologies.<br><br>
+  <a href="https://hpscds.com/xv-observatorio-hp-2020/"><strong>Finalist of the XV "Programa Observatorio Tecnológico HP" awards.</strong></a></p>
  <div style="width: 450px; height: 200px;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/MotionTracker.gif" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Developed <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a>, a Python-based target tracking system that worked with both moving targets and cameras. Using agile methodologies.<br><br>
-  <a href="https://hpscds.com/xv-observatorio-hp-2020/"><strong>Finalist of the XV "Programa Observatorio Tecnológico HP" awards.</strong></a></p>
 </div>
 
 
@@ -176,6 +170,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
   </a>
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center">
 
@@ -211,6 +206,8 @@ the agreement M.E.C./British Council.
     You can check my education in more detail in my <strong>🎓 Education</strong>
   </a>
 </div>
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 ## 📚 Courses
 
