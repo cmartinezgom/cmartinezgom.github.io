@@ -44,7 +44,7 @@ gallery:
 
 <div align="center">
 
-  <h2> Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce"> </h2>
+  <h1> Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce"></i> </h1>
 
 </div>
 
