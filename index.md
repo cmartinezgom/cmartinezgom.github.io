@@ -65,6 +65,9 @@ gallery:
   <hr style="display: inline-block; width: 40%;">
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
+
 <!--
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 > Configuration can be launched from the **Tools -> Settings** menu option.
