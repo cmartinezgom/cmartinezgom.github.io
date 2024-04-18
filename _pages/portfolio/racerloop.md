@@ -8,7 +8,7 @@ header:
   teaser: /images/Racerloop.jpg
 sidebar:
   - title: "Role"
-    image: /images/photo150.jpg
+    image: /images/foto150.jpg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
