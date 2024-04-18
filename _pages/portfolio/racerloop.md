@@ -1,18 +1,15 @@
 ---
 layout: archive
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Racerloop @ Maniac Panda Games"
+excerpt: "Unity3D PC-mobile arcade racing game."
 permalink: /portfolio/racerloop/
-header:
-  image: /images/Racerloop.jpg
-  teaser: /images/Racerloop.jpg
 sidebar:
   - title: "Role"
     image: /images/foto.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Junior Unity Programmer"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Implementing and designing different game systems, mainly on AI and the Synchronous Online Mode."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -25,8 +22,6 @@ gallery:
     alt: "placeholder image 3"
 
 ---
-
-{% include header.html %}
 
 ![full](/images/Racerloop.jpg){: full}
 
