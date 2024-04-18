@@ -3,13 +3,7 @@ layout: archive
 title: "🚀 Racerloop @ Maniac Panda Games"
 excerpt: "Unity3D PC-mobile arcade racing game."
 permalink: /portfolio/racerloop/
-sidebar:
-  - title: "   Role"
-    image: /images/foto.jpg
-    image_alt: "logo"
-    text: "   Junior Unity Programmer"
-  - title: "   Responsibilities"
-    text: "   Implementing and designing different game systems, mainly on AI and the Synchronous Online Mode."
+
 gallery:
   - url: /images/Racerloop2.jpg
     image_path: images/Racerloop2.jpg
@@ -30,7 +24,15 @@ gallery:
     image_path: images/Racerloop7.jpg
     alt: "Racerloop Screenshot"
 ---
-
+<!--
+sidebar:
+  - title: "   Role"
+    image: /images/foto.jpg
+    image_alt: "logo"
+    text: "   Junior Unity Programmer"
+  - title: "   Responsibilities"
+    text: "   Implementing and designing different game systems, mainly on AI and the Synchronous Online Mode."
+-->
 ![full](/images/Racerloop.jpg){: full}
 
 Worked on Racerloop, a PC arcade racing game. Made with Unity. Developed by a
