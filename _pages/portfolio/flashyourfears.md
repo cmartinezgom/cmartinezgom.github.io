@@ -33,7 +33,7 @@ gallery:
 -->
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" allowfullscreen=""></iframe>
+  <iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 
