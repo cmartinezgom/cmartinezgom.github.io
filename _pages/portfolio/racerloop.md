@@ -40,17 +40,17 @@ Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated 
 
 {% include gallery.html caption="Images from the Racerloop.com webpage." %}
 
-• AI Players: Movement, tracking, obstacle avoidance, gameplay systems, ideal racing
+- AI Players: Movement, tracking, obstacle avoidance, gameplay systems, ideal racing
 lane, AI skill, fine tunning...
-• Synchronous Online Game Mode: Menu, lobby, remote connection, player position,
+- Synchronous Online Game Mode: Menu, lobby, remote connection, player position,
 race progress, AI players and power up sync, reconnection...
-• PlayFab: Implementation of PlayFab’s server login, user save and load along with
+- PlayFab: Implementation of PlayFab’s server login, user save and load along with
 their statistics, global leaderboards...
-• Gameplay Systems: Player Orbital Camera with Spring Damper System, Ship’s hovering, Power Ups, Debug Renderer, AbstractInputs...
-• Testing Automation: Automatic Testing of the game using Unity Test Framework.
-• UI: Login, Leaderboards, Online and Lobby screens, as well as a general pop up error
+- Gameplay Systems: Player Orbital Camera with Spring Damper System, Ship’s hovering, Power Ups, Debug Renderer, AbstractInputs...
+- Testing Automation: Automatic Testing of the game using Unity Test Framework.
+- UI: Login, Leaderboards, Online and Lobby screens, as well as a general pop up error
 window.
-• Math Utils: Several math scripts for needs such as working with 2D lines or projected positions.
-• Offline Build: Worked on adapting back-end services from the server into the file
+- Math Utils: Several math scripts for needs such as working with 2D lines or projected positions.
+- Offline Build: Worked on adapting back-end services from the server into the file
 system. Just for events with no internet connection.
-• Simple VFX: Simple shaders and particles.
+- Simple VFX: Simple shaders and particles.
