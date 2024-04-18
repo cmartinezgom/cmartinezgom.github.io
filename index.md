@@ -219,13 +219,27 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 languages and design patterns.</p>
 </div>
 
-- 93 credits, joint studies of Mathematics and Computer Science degrees. Strong and
-wide grounding in maths and calculus. University of Valladolid.
+### 🚀 Joint studies of Mathematics and Computer Science @ University of Valladolid
+09/2014 – 06/2016 | Valladolid, Spain
+
+<div style="display: flex;">
+  <p style="margin-right: 20px;">• 93 credits. Strong and
+    wide grounding in maths and calculus.</p>
+ <div style="border-radius: 50%; width: 150px; height: 150px;">
+   <a href="/portfolio/motiontracker/">
+     <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+   </a>
+ </div>
+</div>
 
 - Baccalaureate in Science and Technology. With honors.
 
 - **English-Spanish Bilingual** Primary and Secondary Education within the framework of
 the agreement M.E.C./British Council.
+
+- ESTALMAT
+
+- Courses
 
 <div style="text-align: center;">
   <a href="/education/" class="btn" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
