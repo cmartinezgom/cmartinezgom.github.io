@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "🚀 Racerloop @ Maniac Panda Games"
+title: "🚀 Junior Unity Programmer for Racerloop @ Maniac Panda Games"
 excerpt: "Unity3D PC-mobile arcade racing game."
 permalink: /portfolio/racerloop/
 
