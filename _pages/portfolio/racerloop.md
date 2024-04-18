@@ -33,8 +33,24 @@ gallery:
 
 ![full](/images/Racerloop1.jpg){: full}
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Worked on Racerloop, a PC arcade racing game. Made with Unity. Developed by a
+small team where I had to work both under lead directions and on my own.
+Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.
+
 
 {% include gallery.html caption="Images from the Racerloop.com webpage." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+• AI Players: Movement, tracking, obstacle avoidance, gameplay systems, ideal racing
+lane, AI skill, fine tunning...
+• Synchronous Online Game Mode: Menu, lobby, remote connection, player position,
+race progress, AI players and power up sync, reconnection...
+• PlayFab: Implementation of PlayFab’s server login, user save and load along with
+their statistics, global leaderboards...
+• Gameplay Systems: Player Orbital Camera with Spring Damper System, Ship’s hovering, Power Ups, Debug Renderer, AbstractInputs...
+• Testing Automation: Automatic Testing of the game using Unity Test Framework.
+• UI: Login, Leaderboards, Online and Lobby screens, as well as a general pop up error
+window.
+• Math Utils: Several math scripts for needs such as working with 2D lines or projected positions.
+• Offline Build: Worked on adapting back-end services from the server into the file
+system. Just for events with no internet connection.
+• Simple VFX: Simple shaders and particles.
