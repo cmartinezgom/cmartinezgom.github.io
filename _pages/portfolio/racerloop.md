@@ -31,7 +31,7 @@ gallery:
     alt: "Racerloop Screenshot"
 ---
 
-![full](/images/Racerloop1.jpg){: full}
+![full](/images/Racerloop.jpg){: full}
 
 Worked on Racerloop, a PC arcade racing game. Made with Unity. Developed by a
 small team where I had to work both under lead directions and on my own.
