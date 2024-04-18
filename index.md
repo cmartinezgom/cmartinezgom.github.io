@@ -201,7 +201,7 @@ EDUCATION
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/motiontracker/">
-     <img src="/images/logoCSUMB.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>
