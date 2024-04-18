@@ -8,7 +8,7 @@ header:
   teaser: /images/Racerloop.jpg
 sidebar:
   - title: "Role"
-    image: /images/foto150.jpg
+    image: /images/foto.jpg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
@@ -25,6 +25,8 @@ gallery:
     alt: "placeholder image 3"
 
 ---
+
+{% include header.html %}
 
 ![full](/images/Racerloop.jpg){: full}
 
