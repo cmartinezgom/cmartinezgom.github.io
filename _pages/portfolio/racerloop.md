@@ -4,12 +4,12 @@ title: "🚀 Racerloop @ Maniac Panda Games"
 excerpt: "Unity3D PC-mobile arcade racing game."
 permalink: /portfolio/racerloop/
 sidebar:
-  - title: "Role"
+  - title: "   Role"
     image: /images/foto.jpg
     image_alt: "logo"
-    text: "Junior Unity Programmer"
-  - title: "Responsibilities"
-    text: "Implementing and designing different game systems, mainly on AI and the Synchronous Online Mode."
+    text: "   Junior Unity Programmer"
+  - title: "   Responsibilities"
+    text: "   Implementing and designing different game systems, mainly on AI and the Synchronous Online Mode."
 gallery:
   - url: /images/Racerloop2.jpg
     image_path: images/Racerloop2.jpg
