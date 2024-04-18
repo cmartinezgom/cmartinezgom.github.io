@@ -40,6 +40,7 @@ Contributions in: AI, Synchronous Online Game Mode, Gameplay Systems, Automated 
 
 {% include gallery.html caption="Images from the Racerloop.com webpage." %}
 
+Worked on:
 - AI Players: Movement, tracking, obstacle avoidance, gameplay systems, ideal racing
 lane, AI skill, fine tunning...
 - Synchronous Online Game Mode: Menu, lobby, remote connection, player position,
