@@ -53,7 +53,7 @@ gallery:
 
 <div style="display: flex;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Versatile, commited and resolutive programmer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
+  <p style="margin-left: 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over two years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Creative programmer and designer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.</p>
 </div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
@@ -172,7 +172,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 
 <!--
-EDUCATION
+------------------------------------------------------------------------------------------------------EDUCATION
 -->
 <div align="center" id="education-section">
 
@@ -189,7 +189,7 @@ EDUCATION
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.<br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;">Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.<br><br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
 
@@ -227,10 +227,12 @@ languages and design patterns.</p>
     wide grounding in maths and calculus.</p>
  <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/motiontracker/">
-     <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>
+
+### 📚 Aditional Education
 
 - Baccalaureate in Science and Technology. With honors.
 
@@ -248,14 +250,6 @@ the agreement M.E.C./British Council.
 </div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
-
-## 📚 Courses
-
-Aquí puedes encontrar los cursos que he creado o en los que he participado.
-
-- Curso 1
-- Curso 2
-- Curso 3
 
 
 <div class="tiles">
