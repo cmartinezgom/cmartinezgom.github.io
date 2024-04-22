@@ -6,15 +6,24 @@
   }
 
   .image-container {
-    flex: 1 0 33%; /* puedes ajustar este valor para manejar las imágenes por fila */
+    position: relative;
+    flex: 1 0 21%; /* puedes ajustar este valor para manejar las imágenes por fila */
     margin: 5px;
-    text-align: center;
   }
 
-  .image-container img {
-    width: 100%; /* esto hace que la imagen sea del tamaño exacto del contenedor */
-    height: 100%; /* esto hace que la imagen sea del tamaño exacto del contenedor */
-    object-fit: cover; /* esto asegura que la imagen cubra todo el contenedor */
+    .image-container img {
+      width: 100%;
+      height: auto;
+      opacity: 0.7;
+    }
+
+  .image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: white; /* puedes cambiar esto al color que prefieras */
   }
 </style>
 
