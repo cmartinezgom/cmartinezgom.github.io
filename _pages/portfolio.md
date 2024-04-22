@@ -15,9 +15,22 @@ gallery:
     image_path: /images/MotionTracker.gif
     alt: "placeholder image 2"
     caption: "MotionTracker"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /portfolio/flashyourfears/
+    image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
+    caption: "Flash Your Fears"
+  - url: /portfolio/flashyourfears/
+    image_path: /images/FlashYourFears.jpg
+    alt: "placeholder image 3"
+    caption: "Flash Your Fears"
+  - url: /portfolio/flashyourfears/
+    image_path: /images/FlashYourFears.jpg
+    alt: "placeholder image 3"
+    caption: "Flash Your Fears"
+  - url: /portfolio/flashyourfears/
+    image_path: /images/FlashYourFears.jpg
+    alt: "placeholder image 3"
+    caption: "Flash Your Fears"
 
 ---
 
