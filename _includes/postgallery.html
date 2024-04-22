@@ -1,14 +1,14 @@
 <head>
   <style>
-    div.gallery {
+    div.postgallery {
       border: 1px solid #ccc;
     }
 
-      div.gallery:hover {
+      div.postgallery:hover {
         border: 1px solid #777;
       }
 
-      div.gallery img {
+      div.postgallery img {
         width: 100%;
         height: auto;
       }
@@ -50,27 +50,27 @@
 </head>
 
 {% if include.id %}
-  {% assign gallery = page[include.id] %}
+  {% assign postgallery = page[include.id] %}
 {% else %}
-  {% assign gallery = page.gallery %}
+  {% assign postgallery = page.postgallery %}
 {% endif %}
 
 {% if include.layout %}
-  {% assign gallery_layout = include.layout %}
+  {% assign postgallery = include.layout %}
 {% else %}
-  {% if gallery.size == 2 %}
-    {% assign gallery_layout = 'half' %}
-  {% elsif gallery.size >= 3 %}
-    {% assign gallery_layout = 'third' %}
+  {% if postgallery.size == 2 %}
+    {% assign postgallery_layout = 'half' %}
+  {% elsif postgallery.size >= 3 %}
+    {% assign postgallery_layout = 'third' %}
   {% else %}
-    {% assign gallery_layout = '' %}
+    {% assign postgallery_layout = '' %}
   {% endif %}
 {% endif %}
 
-<div class="{{ gallery_layout }} {{ include.class }}">
-  {% for img in gallery %}
+<div class="{{ postgallery_layout }} {{ include.class }}">
+  {% for img in postgallery %}
   <div class="responsive">
-    <div class="gallery">
+    <div class="postgallery">
       {% if img.url %}
       <a href="{{ img.url | relative_url }}"
          {% if img.title %}title="{{ img.title }}" {% endif %}>
