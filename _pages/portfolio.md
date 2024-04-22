@@ -26,7 +26,7 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 {% for image in page.gallery %}
   <a href="{{ image.url }}">
     <img src="{{ image.image_path }}" alt="{{ image.alt }}">
-    <figcaption>{{ image.caption }}</figcaption>
+    image.caption
   </a>
 {% endfor %}
 
