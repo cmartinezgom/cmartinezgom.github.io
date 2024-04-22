@@ -19,10 +19,15 @@ gallery:
 
 ---
 
-![full](/images/MotionTracker.gif){: full}
+Katergáris’ Labyrinth is a 2D dungeon crawler videogame set in mithologycal Greece, where little Katergáris will have to go deep into the bowels of the well-known minotaur’s labyrinth to survive his randomly generated chambers and flee with as much loot as posible without being able to defend himself.
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+![full](/images/KatergarisLabyrinthUI.gif){: full}
+
+
+This game mainly consists of mechanics of the roguelite genre seen in The Binding of Isaac (Nicalis, 2011), Moonlighter (Digital Sun, 2018) or Pokémon Mystery Dungeon: Rescue Team DX (Spike Chunsoft, 2020), with elements taken from stealth games like Metal Gear Solid V: The Phanton Pain (Kojima Productions, 2015) or Sly 3: Honor Among Thieves (Sucker Punch Productions, 2005), adding up player’s inability to attack enemies, taking inspiration from, for example, Amnesia: The Dark Descent (Frictional Games, 2010).
+All the mechanics and possible strategies offered to the player revolve around non-agression and stealth: hiding inside chests, sneaking around to make less noise or skills to unlock (like freezing, paralysis, invisibility, generating noise, etc). All of this encourages the player to take an stealthy and premeditated approach to each floor of the dungeon, encouraging first to recognise the terrain to memorize possible hiding places, escape routes, enemy behaviour, the location of loot or traps… Within the range of dynamics of the same nature, the player will be able to choose and execute the ones that best suit each situation, the ones that they find more fun or that make their adventure through the maze more efficient.
 
 {% include gallery.html caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+You can check my Master's Thesis repository [here](https://openaccess.uoc.edu/handle/10609/138167).
