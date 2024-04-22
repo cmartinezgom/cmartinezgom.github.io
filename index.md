@@ -22,11 +22,13 @@ gallery:
     alt: "placeholder image 1"
     title: "Strengths"
     excerpt: "Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
+    caption: "PIUUUUM"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /images/chibi.png
     alt: "placeholder image 2"
     title: "Skills"
     excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
+    caption: "PIUUUUM2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /images/chibi.png
     alt: "placeholder image 3"
