@@ -98,6 +98,8 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 {: .notice--primary}
 -->
 
+{% include gallery.html %}
+
 <div align="center" id="experience-section">
 
   <h2>💼 Experience</h2>
@@ -264,8 +266,6 @@ the agreement M.E.C./British Council.
 - Basketball player and coach. Played the National Championship and won leagues.
 
 - Several speeches about videogames. Environmental Storytelling in Video Games Level Up León, 08/2018. Panel Discussion about Video Games with industry professionals Level Up León, 08/2018
-
-
 
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
