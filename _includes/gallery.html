@@ -1,17 +1,17 @@
 <head>
   <style>
-    div.gallery-container {
+    div.gallery {
       border: 1px solid #ccc;
     }
 
-      div.gallery-container:hover {
+      div.gallery:hover {
         border: 1px solid #777;
       }
 
-    div.image-container img {
-      width: 100%;
-      height: auto;
-    }
+      div.gallery img {
+        width: 100%;
+        height: auto;
+      }
 
     div.desc {
       padding: 15px;
@@ -48,9 +48,6 @@
     }
   </style>
 </head>
-...
-
-
 
 {% if include.id %}
   {% assign gallery = page[include.id] %}
@@ -70,10 +67,10 @@
   {% endif %}
 {% endif %}
 
-<figure class="{{ gallery_layout }} {{ include.class }}">
-  <div class="gallery-container">
-    {% for img in gallery %}
-    <div class="image-container">
+<div class="{{ gallery_layout }} {{ include.class }}">
+  {% for img in gallery %}
+  <div class="responsive">
+    <div class="gallery">
       {% if img.url %}
       <a href="{{ img.url | relative_url }}"
          {% if img.title %}title="{{ img.title }}" {% endif %}>
@@ -85,12 +82,13 @@
            alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       {% endif %}
       {% if img.caption %}
-      <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+      <div class="desc">{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</div>
       {% endif %}
     </div>
-    {% endfor %}
   </div>
+  {% endfor %}
+  <div class="clearfix"></div>
   {% if include.caption %}
   <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
-</figure>
+</div>
