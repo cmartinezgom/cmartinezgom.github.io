@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "💻 My Portfolio"
+excerpt: "Here you'll find most of my work both in Programming and Design."
 permalink: /portfolio/
 header:
   image: /assets/images/foo-bar-identity.jpg
