@@ -10,29 +10,29 @@ postgalleryProgramming:
   - url: /portfolio/racerloop/
     image_path: /images/Racerloop1.jpg
     alt: "placeholder image 1"
-    caption: "Racerloop"
+    caption: "[Racerloop](/portfolio/racerloop/)"
   - url: /portfolio/motiontracker/
     image_path: /images/MotionTracker.gif
     alt: "placeholder image 2"
-    caption: "MotionTracker"
+    caption: "[MotionTracker](/portfolio/motiontracker/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "Flash Your Fears"
+    caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "Katergáris' Labyrinth"
+    caption: "[Katergáris' Labyrinth](/portfolio/katergarislabyrinth/)"
 
 postgalleryDesign:
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "Flash Your Fears"
+    caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "Katergáris' Labyrinth"
+    caption: "[Katergáris' Labyrinth](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/LevelDesignPortalLvl3.jpg
     alt: "placeholder image 3"
