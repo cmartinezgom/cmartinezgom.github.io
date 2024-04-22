@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Katergáris' Labyrinth"
+excerpt: "My Master's Thesis for my Master's Degree in Video Game Design and Programming at the UOC"
 permalink: /portfolio/katergarislabyrinth/
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/KatergarisLabyrinthUI.jpg
+  teaser: /assets/images/KatergarisLabyrinthUI.jpg
 gallery:
   - url: /images/labyrinth/image11.png
     image_path: /images/labyrinth/image11.png
