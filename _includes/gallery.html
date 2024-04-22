@@ -1,3 +1,12 @@
+<head>
+  <style>
+    .image-container {
+      display: inline-block;
+      vertical-align: top;
+    }
+  </style>
+</head>
+
 {% if include.id %}
   {% assign gallery = page[include.id] %}
 {% else %}
@@ -18,22 +27,23 @@
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
-  {% if img.url %}
-  <a href="{{ img.url | relative_url }}"
-     {% if img.title %}title="{{ img.title }}" {% endif %}>
+  <div class="image-container">
+    {% if img.url %}
+    <a href="{{ img.url | relative_url }}"
+       {% if img.title %}title="{{ img.title }}" {% endif %}>
+      <img src="{{ img.image_path | relative_url }}"
+           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+    </a>
+    {% else %}
     <img src="{{ img.image_path | relative_url }}"
          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-  </a>
-  {% else %}
-  <img src="{{ img.image_path | relative_url }}"
-       alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-  {% endif %}
-  {% if img.caption %}
-  <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-  {% endif %}
+    {% endif %}
+    {% if img.caption %}
+    <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+    {% endif %}
+  </div>
   {% endfor %}
   {% if include.caption %}
   <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
 </figure>
-
