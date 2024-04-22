@@ -100,8 +100,6 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 {: .notice--primary}
 -->
 
-{% include gallery.html %}
-
 <div align="center" id="experience-section">
 
   <h2>💼 Experience</h2>
