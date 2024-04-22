@@ -20,7 +20,7 @@ postgallery:
     alt: "placeholder image 3"
     caption: "Flash Your Fears"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
     caption: "Katergáris' Labyrinth"
   - url: /portfolio/flashyourfears/
