@@ -29,4 +29,4 @@ process was divided for each of the meetings, carried out according to the agile
 
 This project has been carried out in collaboration with HP-SCDS.
 
-<iframe src="https://hpscds.com/xv-observatorio-hp-2020/" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+https://hpscds.com/xv-observatorio-hp-2020/
