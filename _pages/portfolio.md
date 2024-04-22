@@ -10,9 +10,11 @@ gallery:
   - url: /portfolio/racerloop/
     image_path: /images/Racerloop1.jpg
     alt: "placeholder image 1"
+    caption: "Racerloop"
   - url: /portfolio/motiontracker/
     image_path: /images/MotionTracker.gif
     alt: "placeholder image 2"
+    caption: "MotionTracker"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
