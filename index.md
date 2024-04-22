@@ -249,11 +249,13 @@ the agreement M.E.C./British Council.
   </a>
 </div>
 
+
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 
 <div align="center" id="achivements-section">
 
-  <h2> 🏆 Other Achievements </h2>
+  <h2> 🏆 Other Achivements </h2>
 
 </div>
 
