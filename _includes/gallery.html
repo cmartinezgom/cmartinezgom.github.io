@@ -1,9 +1,20 @@
-<<head>
+<head>
   <style>
-    .image-container {
-      display: inline-block;
-      vertical-align: top;
+    .gallery-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
     }
+
+    .image-container {
+      flex: 1 0 21%; /* you can adjust this value to manage the images per row */
+      margin: 5px;
+      text-align: center;
+    }
+
+      .image-container img {
+        max-width: 100%;
+      }
   </style>
 </head>
 
@@ -26,26 +37,25 @@
 {% endif %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
-  {% for img in gallery %}
-  <div class="image-container">
-    {% if img.url %}
-    <a href="{{ img.url | relative_url }}"
-       {% if img.title %}title="{{ img.title }}" {% endif %}>
+  <div class="gallery-container">
+    {% for img in gallery %}
+    <div class="image-container">
+      {% if img.url %}
+      <a href="{{ img.url | relative_url }}"
+         {% if img.title %}title="{{ img.title }}" {% endif %}>
+        <img src="{{ img.image_path | relative_url }}"
+             alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      </a>
+      {% else %}
       <img src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-    </a>
-    {% if img.caption %}
-    <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-    {% endif %}
-    {% else %}
-    <img src="{{ img.image_path | relative_url }}"
-         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-    {% endif %}
-    {% if img.caption %}
-    <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-    {% endif %}
+      {% endif %}
+      {% if img.caption %}
+      <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+      {% endif %}
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
   {% if include.caption %}
   <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
