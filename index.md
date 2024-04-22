@@ -219,7 +219,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 languages and design patterns.</p>
 </div>
 
-### <i class="fa-solid fa-calculator"></i> Joint studies of Mathematics and Computer Science @ University of Valladolid
+### 🧮 Joint studies of Mathematics and Computer Science @ University of Valladolid
 09/2014 – 06/2016 | Valladolid, Spain
 
 <div style="display: flex;">
