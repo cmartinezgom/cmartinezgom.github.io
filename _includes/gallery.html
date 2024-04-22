@@ -7,13 +7,19 @@
     }
 
     .image-container {
-      flex: 1 0 21%; /* you can adjust this value to manage the images per row */
+      flex: 1 0 21%; /* puedes ajustar este valor para manejar las imágenes por fila */
       margin: 5px;
       text-align: center;
     }
 
       .image-container img {
         max-width: 100%;
+        height: auto;
+      }
+
+      .image-container figcaption {
+        text-align: center;
+        width: 100%;
       }
   </style>
 </head>
@@ -60,3 +66,4 @@
   <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
 </figure>
+
