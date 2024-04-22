@@ -6,19 +6,12 @@ permalink: /portfolio/
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /portfolio/racerloop/
+    image_path: /images/Racerloop1.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /portfolio/motiontracker/
+    image_path: /images/MotionTracker.gif
     alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
