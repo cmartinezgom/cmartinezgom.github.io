@@ -112,7 +112,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 <div style="display: flex;">
  <div style="width: 450px; height: 200px;">
    <a href="/portfolio/racerloop/">
-     <img src="/images/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/racerloop/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Developed by a small team where I had to work both under lead directions and on my own.<br><br>Contributions in: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other topics.</p>

@@ -5,23 +5,23 @@ excerpt: "Unity3D PC-mobile arcade racing game."
 permalink: /portfolio/racerloop/
 
 gallery:
-  - url: /images/Racerloop2.jpg
-    image_path: images/Racerloop2.jpg
+  - url: /images/racerloop/Racerloop2.jpg
+    image_path: images/racerloop/Racerloop2.jpg
     alt: "Racerloop Screenshot"
-  - url: /images/Racerloop3.jpg
-    image_path: images/Racerloop3.jpg
+  - url: /images/racerloop/Racerloop3.jpg
+    image_path: images/racerloop/Racerloop3.jpg
     alt: "Racerloop Screenshot"
-  - url: /images/Racerloop4.jpg
-    image_path: images/Racerloop4.jpg
+  - url: /images/racerloop/Racerloop4.jpg
+    image_path: images/racerloop/Racerloop4.jpg
     alt: "Racerloop Screenshot"
-  - url: /images/Racerloop5.jpg
-    image_path: images/Racerloop5.jpg
+  - url: /images/racerloop/Racerloop5.jpg
+    image_path: images/racerloop/Racerloop5.jpg
     alt: "Racerloop Screenshot"
-  - url: /images/Racerloop6.jpg
-    image_path: images/Racerloop6.jpg
+  - url: /images/racerloop/Racerloop6.jpg
+    image_path: images/racerloop/Racerloop6.jpg
     alt: "Racerloop Screenshot"
-  - url: /images/Racerloop7.jpg
-    image_path: images/Racerloop7.jpg
+  - url: /images/racerloop/Racerloop7.jpg
+    image_path: images/racerloop/Racerloop7.jpg
     alt: "Racerloop Screenshot"
 ---
 <!--
@@ -33,7 +33,7 @@ sidebar:
   - title: "   Responsibilities"
     text: "   Implementing and designing different game systems, mainly on AI and the Synchronous Online Mode."
 -->
-![full](/images/Racerloop.jpg){: full}
+![full](/images/Racerloop1.jpg){: full}
 
 Worked on Racerloop, a PC arcade racing game. Made with Unity. Developed by a
 small team where I had to work both under lead directions and on my own.
