@@ -7,19 +7,18 @@
     }
 
     .image-container {
-      flex: 1 0 33%; /* puedes ajustar este valor para manejar las imágenes por fila */
+      flex: 1 0 auto; /* ajusta el tamaño automáticamente basado en el contenido */
       margin: 5px;
       text-align: center;
     }
 
       .image-container img {
-        max-width: 100%;
+        width: 100%; /* asegura que la imagen ocupe todo el ancho del contenedor */
         height: auto;
       }
 
       .image-container figcaption {
         text-align: center;
-        width: 100%;
       }
   </style>
 </head>
@@ -66,4 +65,3 @@
   <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
 </figure>
-
