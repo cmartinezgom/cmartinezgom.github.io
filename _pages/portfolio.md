@@ -16,7 +16,7 @@ postgalleryProgramming:
     alt: "placeholder image 2"
     caption: "[MotionTracker](/portfolio/motiontracker/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/FlashYourFears.png
     alt: "placeholder image 3"
     caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
