@@ -1,33 +1,27 @@
-<style>
-  .gallery-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  .image-container {
-    position: relative;
-    flex: 1 0 21%; /* puedes ajustar este valor para manejar las imágenes por fila */
-    margin: 5px;
-  }
-
-    .image-container img {
-      width: 100%;
-      height: auto;
-      opacity: 0.7;
+<head>
+  <style>
+    .gallery-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
     }
 
-  .image-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 18px;
-    color: white; /* puedes cambiar esto al color que prefieras */
-  }
-</style>
+    .image-container {
+      flex: 1 0 auto; /* ajusta el tamaño automáticamente basado en el contenido */
+      margin: 5px;
+      text-align: center;
+    }
 
+      .image-container img {
+        width: 100%; /* asegura que la imagen ocupe todo el ancho del contenedor */
+        height: auto;
+      }
 
+      .image-container figcaption {
+        text-align: center;
+      }
+  </style>
+</head>
 
 {% if include.id %}
   {% assign gallery = page[include.id] %}
