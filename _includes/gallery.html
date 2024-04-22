@@ -10,11 +10,14 @@
       flex: 1 0 auto; /* ajusta el tamaño automáticamente basado en el contenido */
       margin: 5px;
       text-align: center;
+      display: flex;
+      flex-direction: column;
     }
 
       .image-container img {
         width: 100%; /* asegura que la imagen ocupe todo el ancho del contenedor */
         height: auto;
+        flex-grow: 1;
       }
 
       .image-container figcaption {
@@ -22,6 +25,7 @@
       }
   </style>
 </head>
+
 
 {% if include.id %}
   {% assign gallery = page[include.id] %}
