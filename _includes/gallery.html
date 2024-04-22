@@ -19,25 +19,21 @@
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
   {% if img.url %}
-  <div>
-    <a href="{{ img.url | relative_url }}"
-       {% if img.title %}title="{{ img.title }}" {% endif %}>
-      <img src="{{ img.image_path | relative_url }}"
-           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-    </a>
-    {% if img.caption %}
-    <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-    {% endif %}
-  </div>
-  {% else %}
-  <div>
+  <a href="{{ img.url | relative_url }}"
+     {% if img.title %}title="{{ img.title }}" {% endif %}>
     <img src="{{ img.image_path | relative_url }}"
          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-    {% if img.caption %}
-    <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-    {% endif %}
-  </div>
+  </a>
+  {% else %}
+  <img src="{{ img.image_path | relative_url }}"
+       alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+  {% endif %}
+  {% if img.caption %}
+  <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
   {% endfor %}
+  {% if include.caption %}
+  <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
 </figure>
 
