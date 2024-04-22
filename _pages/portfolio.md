@@ -23,20 +23,8 @@ postgalleryProgramming:
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
     caption: "Katergáris' Labyrinth"
-  - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
-    alt: "placeholder image 3"
-    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
 
 postgalleryDesign:
-  - url: /portfolio/racerloop/
-    image_path: /images/Racerloop1.jpg
-    alt: "placeholder image 1"
-    caption: "Racerloop"
-  - url: /portfolio/motiontracker/
-    image_path: /images/MotionTracker.gif
-    alt: "placeholder image 2"
-    caption: "MotionTracker"
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
