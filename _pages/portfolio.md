@@ -12,11 +12,11 @@ postgalleryProgramming:
     alt: "placeholder image 1"
     caption: "[Racerloop](/portfolio/racerloop/)"
   - url: /portfolio/motiontracker/
-    image_path: /images/MotionTracker.jpg
+    image_path: /images/MotionTracker.png
     alt: "placeholder image 2"
     caption: "[MotionTracker](/portfolio/motiontracker/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.png
+    image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
     caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
