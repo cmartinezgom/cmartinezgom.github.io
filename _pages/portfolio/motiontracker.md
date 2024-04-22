@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "MotionTracker"
+title: "🧿 MotionTracker"
 excerpt: "A Python-based target tracking system that worked with both moving targets and cameras for HP SCDS."
 permalink: /portfolio/motiontracker/
 header:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " Katergáris' Labyrinth"
+title: "🏛 Katergáris' Labyrinth"
 excerpt: "My Master's Thesis for my Master's Degree in Video Game Design and Programming at the UOC"
 permalink: /portfolio/katergarislabyrinth/
 header:
@@ -33,9 +33,6 @@ gallery:
     alt: "placeholder image 3"
 
 ---
-
-<h1><i class="fa-solid fa-building-columns"></i> {{ page.title }}</h1>
-
 
 Katergáris’ Labyrinth is a 2D dungeon crawler videogame set in mithologycal Greece, where little Katergáris will have to go deep into the bowels of the well-known minotaur’s labyrinth to survive his randomly generated chambers and flee with as much loot as posible without being able to defend himself.
 

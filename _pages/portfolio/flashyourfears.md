@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "👻 Flash Your Fears"
+excerpt: "A Survival Pixelart game developed in one week for Brackeys’ Game Jam 2022.1."
 permalink: /portfolio/flashyourfears/
 header:
   image: /assets/images/foo-bar-identity.jpg
