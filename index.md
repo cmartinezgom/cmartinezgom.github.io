@@ -239,9 +239,9 @@ languages and design patterns.</p>
 - **English-Spanish Bilingual** Primary and Secondary Education within the framework of
 the agreement M.E.C./British Council.
 
-- ESTALMAT
+- Selected for the Stimulation of Mathematical Talent Project (ESTALMAT CyL)
 
-- Courses
+- Several Gamedev Courses.
 
 <div style="text-align: center;">
   <a href="/education/" class="btn" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
@@ -250,6 +250,24 @@ the agreement M.E.C./British Council.
 </div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
+<div align="center" id="achivements-section">
+
+  <h2> 🏆 Other Achievements </h2>
+
+</div>
+
+- Musician. Professional Degree in Music, specialty: French Horn.
+
+- Basketball player and coach. Played the National Championship and won leagues.
+
+- Several speeches about videogames. Environmental Storytelling in Video Games Level Up León, 08/2018. Panel Discussion about Video Games with industry professionals Level Up León, 08/2018
+
+
+
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 
 <div class="tiles">
 {% for post in site.posts %}
