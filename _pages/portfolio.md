@@ -24,15 +24,11 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "Katergáris' Labyrinth"
   - url: /portfolio/flashyourfears/
-    image_path: /images/LevelDesignPortalLvl3.jpg
-    alt: "placeholder image 3"
-    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
-  - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
     caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
 
-postgalleryLevelDesign:
+postgalleryDesign:
   - url: /portfolio/racerloop/
     image_path: /images/Racerloop1.jpg
     alt: "placeholder image 1"
@@ -65,4 +61,4 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a [knife fight](/portfolio/racerloop/).
 
-{% include postgallery.html caption="Level Design Portfolio." id="postgalleryLevelDesign" %}
+{% include postgallery.html caption="Design Portfolio." id="postgalleryDesign" %}
