@@ -1,18 +1,18 @@
 <style>
   .gallery-container {
     display: flex;
-    flex-direction: column; /* cambia la dirección de la galería a vertical */
-    align-items: center; /* centra los elementos horizontalmente */
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
 
   .image-container {
-    width: 100%; /* asegura que el contenedor de la imagen ocupe todo el ancho disponible */
+    flex: 1 0 auto; /* ajusta el tamaño automáticamente basado en el contenido */
     margin: 5px;
     text-align: center;
   }
 
     .image-container img {
-      width: 100%;
+      width: 80%; /* limita el ancho de la imagen al 80% del ancho del contenedor */
       height: auto;
     }
 
