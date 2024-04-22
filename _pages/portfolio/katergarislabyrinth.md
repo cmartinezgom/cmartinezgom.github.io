@@ -17,6 +17,22 @@ gallery:
     image_path: /images/labyrinth/image54.png
     alt: "placeholder image 3"
 
+  - url: /images/labyrinth/image28.png
+    image_path: /images/labyrinth/image28.png
+    alt: "placeholder image 3"
+  - url: /images/labyrinth/image41.png
+    image_path: /images/labyrinth/image41.png
+    alt: "placeholder image 3"
+  - url: /images/labyrinth/image53.png
+    image_path: /images/labyrinth/image53.png
+    alt: "placeholder image 3"
+  - url: /images/labyrinth/image57.png
+    image_path: /images/labyrinth/image57.png
+    alt: "placeholder image 3"
+  - url: /images/labyrinth/image12.png
+    image_path: /images/labyrinth/image12.png
+    alt: "placeholder image 3"
+
 ---
 
 Katergáris’ Labyrinth is a 2D dungeon crawler videogame set in mithologycal Greece, where little Katergáris will have to go deep into the bowels of the well-known minotaur’s labyrinth to survive his randomly generated chambers and flee with as much loot as posible without being able to defend himself.
