@@ -16,9 +16,8 @@ gallery:
   - url: /images/labyrinth/image54.png
     image_path: /images/labyrinth/image54.png
     alt: "placeholder image 3"
-
-  - url: /images/labyrinth/image28.png
-    image_path: /images/labyrinth/image28.png
+  - url: /images/labyrinth/image14.png
+    image_path: /images/labyrinth/image14.png
     alt: "placeholder image 3"
   - url: /images/labyrinth/image41.png
     image_path: /images/labyrinth/image41.png
