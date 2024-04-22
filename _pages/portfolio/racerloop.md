@@ -3,7 +3,9 @@ layout: archive
 title: "🚀 Junior Unity Programmer for Racerloop @ Maniac Panda Games"
 excerpt: "Unity3D PC-mobile arcade racing game."
 permalink: /portfolio/racerloop/
-
+header:
+  image: /images/Racerloop1.jpg
+  teaser: /images/Racerloop1.jpg
 gallery:
   - url: /images/racerloop/Racerloop2.jpg
     image_path: images/racerloop/Racerloop2.jpg
