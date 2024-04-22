@@ -28,6 +28,9 @@
   <img src="{{ img.image_path | relative_url }}"
        alt="{% if img.alt %}{{ img.alt }}{% endif %}">
   {% endif %}
+  {% if include.caption %}
+  <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
   {% endfor %}
   {% if include.caption %}
   <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
