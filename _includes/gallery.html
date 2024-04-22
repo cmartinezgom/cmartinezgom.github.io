@@ -1,4 +1,4 @@
-<head>
+<<head>
   <style>
     .image-container {
       display: inline-block;
@@ -34,6 +34,9 @@
       <img src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     </a>
+    {% if img.caption %}
+    <figcaption>{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+    {% endif %}
     {% else %}
     <img src="{{ img.image_path | relative_url }}"
          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
