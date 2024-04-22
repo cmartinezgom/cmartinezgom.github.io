@@ -24,13 +24,13 @@ postgallery:
     alt: "placeholder image 3"
     caption: "Katergáris' Labyrinth"
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/LevelDesignPortalLvl3.jpg
     alt: "placeholder image 3"
-    caption: "Flash Your Fears"
+    caption: ""
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "Flash Your Fears"
+    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
 
 ---
 
