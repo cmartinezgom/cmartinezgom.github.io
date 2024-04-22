@@ -44,3 +44,5 @@ the program’s code.
 {% include gallery.html caption="This is a sample gallery to go along with this case study." %}
 
 This project has been carried out in collaboration with HP-SCDS.
+
+https://hpscds.com/xv-observatorio-hp-2020/
