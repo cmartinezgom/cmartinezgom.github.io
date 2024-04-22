@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Katergáris' Labyrinth"
+title: "Katergáris' Labyrinth "
 excerpt: "My Master's Thesis for my Master's Degree in Video Game Design and Programming at the UOC"
 permalink: /portfolio/katergarislabyrinth/
 header:
@@ -40,6 +40,7 @@ Katergáris’ Labyrinth is a 2D dungeon crawler videogame set in mithologycal G
 
 
 This game mainly consists of mechanics of the roguelite genre seen in The Binding of Isaac (Nicalis, 2011), Moonlighter (Digital Sun, 2018) or Pokémon Mystery Dungeon: Rescue Team DX (Spike Chunsoft, 2020), with elements taken from stealth games like Metal Gear Solid V: The Phanton Pain (Kojima Productions, 2015) or Sly 3: Honor Among Thieves (Sucker Punch Productions, 2005), adding up player’s inability to attack enemies, taking inspiration from, for example, Amnesia: The Dark Descent (Frictional Games, 2010).
+
 All the mechanics and possible strategies offered to the player revolve around non-agression and stealth: hiding inside chests, sneaking around to make less noise or skills to unlock (like freezing, paralysis, invisibility, generating noise, etc). All of this encourages the player to take an stealthy and premeditated approach to each floor of the dungeon, encouraging first to recognise the terrain to memorize possible hiding places, escape routes, enemy behaviour, the location of loot or traps… Within the range of dynamics of the same nature, the player will be able to choose and execute the ones that best suit each situation, the ones that they find more fun or that make their adventure through the maze more efficient.
 
 {% include gallery.html caption="This is a sample gallery to go along with this case study." %}
