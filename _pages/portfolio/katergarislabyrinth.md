@@ -21,7 +21,7 @@ gallery:
 
 Katergáris’ Labyrinth is a 2D dungeon crawler videogame set in mithologycal Greece, where little Katergáris will have to go deep into the bowels of the well-known minotaur’s labyrinth to survive his randomly generated chambers and flee with as much loot as posible without being able to defend himself.
 
-![full](/images/labyrinth/KatergarisLabyrinthUI.gif){: full}
+![full](/images/KatergarisLabyrinthUI.jpg){: full}
 
 
 This game mainly consists of mechanics of the roguelite genre seen in The Binding of Isaac (Nicalis, 2011), Moonlighter (Digital Sun, 2018) or Pokémon Mystery Dungeon: Rescue Team DX (Spike Chunsoft, 2020), with elements taken from stealth games like Metal Gear Solid V: The Phanton Pain (Kojima Productions, 2015) or Sly 3: Honor Among Thieves (Sucker Punch Productions, 2005), adding up player’s inability to attack enemies, taking inspiration from, for example, Amnesia: The Dark Descent (Frictional Games, 2010).
