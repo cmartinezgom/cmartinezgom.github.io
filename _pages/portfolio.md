@@ -12,7 +12,7 @@ postgalleryProgramming:
     alt: "placeholder image 1"
     caption: "[Racerloop](/portfolio/racerloop/)"
   - url: /portfolio/motiontracker/
-    image_path: /images/MotionTracker.gif
+    image_path: /images/MotionTracker.jpg
     alt: "placeholder image 2"
     caption: "[MotionTracker](/portfolio/motiontracker/)"
   - url: /portfolio/flashyourfears/
