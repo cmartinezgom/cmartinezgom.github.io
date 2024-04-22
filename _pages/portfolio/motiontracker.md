@@ -21,8 +21,26 @@ gallery:
 
 ![full](/images/MotionTracker.gif){: full}
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+This project gathers all the development that has been carried out for a year
+and a half for the realization of an application capable of tracking a moving
+object with a camera also in motion. The program has been developed using the
+Python programming language and the OpenCV library, both the treatment of
+videos and images and the implementation of the detection algorithms. Since
+one of the main objectives of this project was to create a modular application
+that could be improved in the future or coupled to other systems, the study and
+the corresponding documentation on the technologies used are also collected,
+including the one for libraries used and for the motion detection algorithms so
+that, in the future, we have a clear record of the reasons behind each design
+decision and of the internal workings of the program. For that purpose, this
+document includes, in addition to the aforementioned, all the development of
+the project with a specific explanation of the partial objectives into which the
+process was divided for each of the meetings, carried out according to the agile
+methodology. Finally, further possible improvements or extensions of this
+application are proposed, such as the implementation of deep learning with
+some of the investigated libraries or the coupling to a mechanical system to
+carry out a fully automated target tracking thanks to the current operation of
+the program’s code.
 
 {% include gallery.html caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+This project has been carried out in collaboration with HP-SCDS.
