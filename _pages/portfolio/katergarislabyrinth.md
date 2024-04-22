@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <i class="fa-solid fa-building-columns"></i> "Katergáris' Labyrinth "
+title: "<i class="fa-solid fa-building-columns"></i> Katergáris' Labyrinth"
 excerpt: "My Master's Thesis for my Master's Degree in Video Game Design and Programming at the UOC"
 permalink: /portfolio/katergarislabyrinth/
 header:
