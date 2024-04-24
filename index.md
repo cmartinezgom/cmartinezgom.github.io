@@ -53,20 +53,20 @@ gallery:
 
 <!-- <i class="fa fa-user-secret" style="color: DeepSkyBlue">  <i class="fa fa-user-secret" style="color: DarkSlateGray"> <i class="fa fa-user-secret" style="color: indigo"> <i class="fa fa-user-secret" style="color: navy">  <i class="fa fa-user-secret" style="color: royalblue"> -->
 
-<div style="display: flex;">
+<div style="display: flex;  margin-bottom: 20px;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin-left: 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over three years of professional programming <a href="#experience-section">experience</a>, including experience as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and as a <strong>Software Engineering Intern</strong> at HP SCDS.<br>Creative programmer and designer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.<br>I also have a wide and robust <a href="#education-section">education</a>.</p>
 </div>
 
 <!-- Segundo párrafo con imágenes a ambos lados -->
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin: 0 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over three years of professional programming <a href="#experience-section">experience</a>, including experience as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and as a <strong>Software Engineering Intern</strong> at HP SCDS.<br>Creative programmer and designer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.<br>I also have a wide and robust <a href="#education-section">education</a>.<br></p>
   <img src="/images/labyrinth/image12.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="/images/KatergarisLabyrinthUI2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin: 0 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over three years of professional programming <a href="#experience-section">experience</a>, including experience as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and as a <strong>Software Engineering Intern</strong> at HP SCDS.<br>Creative programmer and designer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.<br>I also have a wide and robust <a href="#education-section">education</a>.</p>
   <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
