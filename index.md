@@ -60,13 +60,13 @@ gallery:
 
 <!-- Segundo párrafo con imagen a la derecha -->
 <div style="display: flex; flex-direction: row-reverse;">
-  <img src="/images/racerloop/Racerloop6.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin-right: 20px;">Aquí va el texto del segundo párrafo... PROGRAMACIÓN</p>
 </div>
 
 <!-- Tercer párrafo con imagen a la izquierda -->
 <div style="display: flex;">
-  <img src="/images/csumb/character/R-0L1concepts.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin-left: 20px;">Aquí va el texto del tercer párrafo... DISEÑO</p>
 </div>
 
