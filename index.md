@@ -55,7 +55,7 @@ gallery:
 
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over three years of professional programming <a href="#experience-section">experience</a>, including experience as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and as a <strong>Software Engineering Intern</strong> at HP SCDS.<br>Creative programmer and designer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.<br>I also have a wide and robust <a href="#education-section">education</a>.</p>
+  <p style="margin: 0 20px;">I am a creative and passionate <strong>programmer and game developer</strong> who is independently driven but also a solid team player, with over three years of professional programming <a href="#experience-section">experience</a>, including experience as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and as a <strong>Software Engineering Intern</strong> at HP SCDS.<br>With a <strong>Computer Science Engineering Bachelor</strong> and a <strong>Master’s degree in Video Game Design and Programming</strong>, I also have a wide and robust <a href="#education-section">education</a>.</p>
   <img src="/images/chibi.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
