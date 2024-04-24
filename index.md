@@ -58,6 +58,25 @@ gallery:
   <p style="margin-left: 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over three years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Creative programmer and designer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.<br>I also have a wide and robust <a href="#education-section">education</a>.</p>
 </div>
 
+<!-- Primer párrafo con imagen a la izquierda -->
+<div style="display: flex;">
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <p style="margin-left: 20px;">Aquí va el texto del primer párrafo...</p>
+</div>
+
+<!-- Segundo párrafo con imagen a la derecha -->
+<div style="display: flex; flex-direction: row-reverse;">
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <p style="margin-right: 20px;">Aquí va el texto del segundo párrafo...</p>
+</div>
+
+<!-- Tercer párrafo con imagen a la izquierda -->
+<div style="display: flex;">
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <p style="margin-left: 20px;">Aquí va el texto del tercer párrafo...</p>
+</div>
+
+
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <!--
