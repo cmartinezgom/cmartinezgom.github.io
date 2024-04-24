@@ -62,12 +62,12 @@ gallery:
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin: 0 20px;">Aquí va el texto del segundo párrafo... PROGRAMACIÓN</p>
-  <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/labyrinth/image12.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between;">
-  <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/KatergarisLabyrinthUI2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin: 0 20px;">Aquí va el texto del tercer párrafo... DISEÑO</p>
   <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
