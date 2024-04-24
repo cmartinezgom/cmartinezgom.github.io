@@ -58,23 +58,11 @@ gallery:
   <p style="margin-left: 20px;">I am a <strong>Computer Science graduate</strong> with a <strong>Master’s degree in Video Game Design and Programming</strong>.<br>With over three years of professional programming <a href="#experience-section">experience</a>, including experience as a Junior Unity Programmer and a Software Engineering Intern at HP SCDS.<br>Creative programmer and designer who is independently driven but also a solid team player. Although my professional experience has been as a programmer, I am also a creative designer at heart.<br>I also have a wide and robust <a href="#education-section">education</a>.</p>
 </div>
 
-<!-- Segundo párrafo con imagen a la derecha -->
-<div style="display: flex; flex-direction: row-reverse;">
-  <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-right: 20px;">Aquí va el texto del segundo párrafo... PROGRAMACIÓN</p>
-</div>
-
-<!-- Tercer párrafo con imagen a la izquierda -->
-<div style="display: flex;">
-  <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin-left: 20px;">Aquí va el texto del tercer párrafo... DISEÑO</p>
-</div>
-
 <!-- Segundo párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin: 0 20px;">Aquí va el texto del segundo párrafo... PROGRAMACIÓN</p>
-  <img src="//images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
