@@ -43,7 +43,7 @@ gallery:
 
 <div align="center">
 
-  <h1> Hi! I am Carlos Martínez! <i class="fa fa-user-secret fa-bounce"></i> </h1>
+  <h1> Hi! I'm Carlos Martínez! <i class="fa fa-user-secret fa-bounce"></i> </h1>
 
 </div>
 
@@ -62,17 +62,16 @@ gallery:
 <!-- Segundo párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px">
-  <p style="margin: 0 20px;">I'm a versatile programmer with <strong>experience with C#, C++, C, Python, Java, Matlab, Lua</strong> and more. My experience in game modding demonstrates my <strong>ability to adapt quickly to new technologies and projects</strong>.<br>This adaptability is showcased in my diverse portfolio, which includes 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
+  <p style="margin: 0 20px;">I'm a versatile programmer with <strong><a href="#experience-section">experience</a> with C#, C++, C, Python, Java, Matlab, Lua</strong> and more. My <a href="#experience-section">experience</a> in game modding demonstrates my <strong>ability to adapt quickly to new technologies and projects</strong>.<br>This adaptability is showcased in my diverse <a href="/portfolio/">portfolio</a>, which includes 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
   <img src="/images/labyrinth/image12.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="/images/KatergarisLabyrinthUI2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">But I'm <strong>much more than a programmer</strong>!<br>I love to create and design, and have some <strong>experience with character and environment design, 3D modelling skills, level and UI design, storytelling and worldbuilding</strong>...<br>A good example of this is my original idea for my Master's Thesis, Katergáris' Labyrinth, in which I created a new, original and unique twist to the world of mythological Greece.</p>
+  <p style="margin: 0 20px;">But I'm <strong>much more than a programmer</strong>!<br>I love to create and design, and have some <strong><a href="#experience-section">experience</a> with character and environment design, 3D modelling skills, level and UI design, storytelling and worldbuilding</strong>...<br>A good example of this is my original idea for my Master's Thesis, Katergáris' Labyrinth, in which I created a new, original and unique twist to the world of mythological Greece.</p>
   <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
-
 
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
