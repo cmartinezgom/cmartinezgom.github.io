@@ -71,6 +71,28 @@ gallery:
 </div>
 
 
+<!-- Primer párrafo con imagen a la izquierda -->
+<div style="display: flex;">
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <p style="margin-left: 20px;">Aquí va el texto del primer párrafo...</p>
+</div>
+
+<!-- Segundo párrafo con imágenes a ambos lados -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <p style="margin: 0 20px;">Aquí va el texto del segundo párrafo...</p>
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
+
+<!-- Tercer párrafo con imágenes a ambos lados -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <p style="margin: 0 20px;">Aquí va el texto del tercer párrafo...</p>
+  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
+
+
+
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <!--
