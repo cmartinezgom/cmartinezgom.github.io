@@ -55,21 +55,21 @@ gallery:
 
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">Driven by a passion for interactive experiences, I'm a creative <strong>programmer and game developer</strong> who thrives independently and in team environments. I have over three years of professional programming <a href="#experience-section">experience</a>, including roles as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and as a <strong>Software Engineering Intern</strong> at HP SCDS.<br> My <a href="#education-section">education</a> includes a Bachelor's in Computer Science Engineering and a Master's in Video Game Design and Programming, providing me with a strong foundation for any challenge that I may face.</p>
+  <p style="margin: 0 20px;">Driven by a passion for interactive experiences, I'm a creative <strong>programmer and game developer</strong> who thrives independently and in team environments. I have over three years of professional programming <a href="#experience-section">experience</a>, including roles as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and as a <strong>Software Engineering Intern</strong> at HP SCDS.<br> My <a href="#education-section">education</a> includes a Bachelor's in <strong>Computer Science Engineering</strong> and a <strong>Master's in Video Game Design and Programming</strong>, providing me with a strong foundation for any challenge that I may face.</p>
   <img src="/images/chibi.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Segundo párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px">
-  <p style="margin: 0 20px;">I'm a versatile programmer with expertise in C#, C++, C, Python, Java, Matlab, and Lua. My experience in game modding demonstrates my ability to adapt quickly to new technologies and projects.<br>This adaptability is showcased in my diverse portfolio, which includes 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
+  <p style="margin: 0 20px;">I'm a versatile programmer with <strong>experience with C#, C++, C, Python, Java, Matlab, Lua</strong> and more. My experience in game modding demonstrates my <strong>ability to adapt quickly to new technologies and projects</strong>.<br>This adaptability is showcased in my diverse portfolio, which includes 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
   <img src="/images/labyrinth/image12.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="/images/KatergarisLabyrinthUI2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">But I'm much more than a programmer!<br>I love to create and design, and have some experience with character and environment design, 3D modelling skills, level and UI design, storytelling and worldbuilding...<br>A good example of this is my original idea for my Master's Thesis, Katergáris' Labyrinth, in which I created a new, original and unique twist to the world of mythological Greece.</p>
+  <p style="margin: 0 20px;">But I'm <strong>much more than a programmer</strong>!<br>I love to create and design, and have some <strong>experience with character and environment design, 3D modelling skills, level and UI design, storytelling and worldbuilding</strong>...<br>A good example of this is my original idea for my Master's Thesis, Katergáris' Labyrinth, in which I created a new, original and unique twist to the world of mythological Greece.</p>
   <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
