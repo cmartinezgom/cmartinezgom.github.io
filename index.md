@@ -62,14 +62,14 @@ gallery:
 <!-- Segundo párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px">
-  <p style="margin: 0 20px;">I'm a versatile programmer with expertise in C#, C++, C, Python, Java, Matlab, and Lua. My experience in game modding demonstrates my ability to adapt quickly to new technologies and projects. This adaptability is showcased in my diverse portfolio, which includes 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
+  <p style="margin: 0 20px;">I'm a versatile programmer with expertise in C#, C++, C, Python, Java, Matlab, and Lua. My experience in game modding demonstrates my ability to adapt quickly to new technologies and projects.<br>This adaptability is showcased in my diverse portfolio, which includes 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
   <img src="/images/labyrinth/image12.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="/images/KatergarisLabyrinthUI2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">But I'm much more than a programmer! I love to create and design in almost every way possible, having some experience with both character and environment design, including some 3D modelling skills for simple characters, rigs and blockmeshes. I also have some experience with player behaviour, both for level and UI design, easily understanding how to design a UI to be more accessible or a level to guide the player effectively. I also love storytelling and worldbuilding, having a keen eye for deep lore, narrative connections and overall world structure, as I have actively analyze game worlds and stories since 10 years ago. A good example of this is my original idea for my Master's Thesis, Katergáris' Labyrinth, in which I created a new, original and unique twist to the world of mythological Greece.</p>
+  <p style="margin: 0 20px;">But I'm much more than a programmer!<br>I love to create and design, and have some experience with character and environment design, 3D modelling skills, level and UI design, storytelling and worldbuilding...<br>A good example of this is my original idea for my Master's Thesis, Katergáris' Labyrinth, in which I created a new, original and unique twist to the world of mythological Greece.</p>
   <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
