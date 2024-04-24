@@ -291,5 +291,5 @@ the agreement M.E.C./British Council.
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
--->
+</div>-->
+<!-- /.tiles -->
