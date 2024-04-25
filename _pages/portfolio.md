@@ -68,19 +68,19 @@ postgalleryModding:
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
+    caption: "[Pokémon, but you can only buy Pokémon](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[Katergáris' Labyrinth](/portfolio/katergarislabyrinth/)"
+    caption: "[Ratchet & Clank, but you die when bolts-timer gets to 0](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/LevelDesignPortalLvl3.jpg
     alt: "placeholder image 3"
-    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
+    caption: "[Pokémon, but you steal the oponent's team](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
+    caption: "[Pokémon, but you loose health with every step](/portfolio/flashyourfears/)"
 ---
 
 You can check my professional and personal experience divided in three sections: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
