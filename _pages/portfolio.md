@@ -60,13 +60,9 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Introduction, learning and usage of Repulsion Gel in Portal 2](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
-    alt: "placeholder image 3"
-    caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
     image_path: /images/csumb/character/R-0L1concepts2.jpg
     alt: "placeholder image 3"
-    caption: "[Dark Star<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
+    caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/csumb/character/Render.png
     alt: "placeholder image 3"
