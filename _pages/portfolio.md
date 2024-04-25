@@ -74,7 +74,7 @@ postgalleryDesign:
   - url: /portfolio/flashyourfears/
     image_path: /images/uoc/level/image1.png
     alt: "placeholder image 3"
-    caption: "[Ratchet & Clank-like planet](/portfolio/katergarislabyrinth/)"
+    caption: "[Ratchet & Clank-like planet<br>(Level Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/csumb/character/R-0L1concepts2.jpg
     alt: "placeholder image 3"
