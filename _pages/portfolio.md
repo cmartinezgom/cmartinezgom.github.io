@@ -40,6 +40,18 @@ postgalleryProgramming:
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
+    caption: "[Labyrinth Crawler<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/KatergarisLabyrinthUI.jpg
+    alt: "placeholder image 3"
+    caption: "[Town Plaza<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/KatergarisLabyrinthUI.jpg
+    alt: "placeholder image 3"
+    caption: "[Reinforced Learning<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/KatergarisLabyrinthUI.jpg
+    alt: "placeholder image 3"
     caption: "[Tanks Multiplayer Online and Local<br>(Multiplayer Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
