@@ -63,6 +63,10 @@ postgalleryDesign:
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
     caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/flashyourfears/
+    image_path: /images/FlashYourFears.jpg
+    alt: "placeholder image 3"
+    caption: "[Dark Star<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
   
 postgalleryModding:
   - url: /portfolio/flashyourfears/
