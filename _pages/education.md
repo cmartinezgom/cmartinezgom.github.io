@@ -22,7 +22,7 @@ postgalleryProgramming:
   - url: /education/bachelorUVA/
     image_path: /images/logoUVa.png
     alt: "placeholder image 3"
-    caption: "[Joint Studies Maths + Computer Science](/education/bachelorUVA/)"
+    caption: "[Joint Studies Maths + Computer Science UVa](/education/bachelorUVA/)"
 
 postgalleryDesign:
   - url: /education/flashyourfears/
