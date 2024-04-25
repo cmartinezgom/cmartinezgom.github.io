@@ -50,7 +50,7 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[Reinforced Learning<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/uoc/ia/image27.png
     alt: "placeholder image 3"
     caption: "[Tanks Multiplayer Online and Local<br>(Multiplayer Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
@@ -68,13 +68,25 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Katergáris' Labyrinth<br>(Master's Thesis)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/LevelDesignPortalLvl3.jpg
+    image_path: /images/uoc/level/portal/LevelDesignPortalLvl3.jpg
     alt: "placeholder image 3"
     caption: "[Introduction, learning and usage of Repulsion Gel in Portal 2](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/flashyourfears/
+    image_path: /images/uoc/level/image1.jpg
+    alt: "placeholder image 3"
+    caption: "[Ratchet & Clank-like planet](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/csumb/character/R-0L1concepts2.jpg
     alt: "placeholder image 3"
     caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/flashyourfears/
+    image_path: /images/csumb/environment/image2.png
+    alt: "placeholder image 3"
+    caption: "[3R P1NCH0<br>(Media for Videogames Course)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/flashyourfears/
+    image_path: /images/csumb/environment/image2.png
+    alt: "placeholder image 3"
+    caption: "[Salvatore DeIngranaggio<br>(Media for Videogames Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/csumb/environment/Render1.jpg
     alt: "placeholder image 3"
