@@ -68,7 +68,7 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Astropolis<br>(Environment Modeling Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/csumb/character/Render.png
+    image_path: /images/csumb/character/Turnaround.jpg
     alt: "placeholder image 3"
     caption: "[Dark Star<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
@@ -125,7 +125,7 @@ Secondly, you can check my personal and educational projects. This includes a Ga
 
 </div>
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a [knife fight](/portfolio/racerloop/).
+Here you can check my design portfolio, where you can find my skills in game, level, character, environment design. Also some basic 3D modeling skills.
 
 {% include postgallery.html caption="Design Portfolio." id="postgalleryDesign" %}
 
@@ -136,6 +136,6 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
 
 </div>
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a [knife fight](/portfolio/racerloop/).
+Here you can find my modding portfolio, some of them made as a comission for professional content creators.
 
 {% include postgallery.html caption="Modding Portfolio." id="postgalleryModding" %}
