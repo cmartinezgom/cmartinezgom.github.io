@@ -29,6 +29,14 @@ postgalleryProgramming:
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
     caption: "[Time Racer](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/KatergarisLabyrinthUI.jpg
+    alt: "placeholder image 3"
+    caption: "[Lab Mace](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/KatergarisLabyrinthUI.jpg
+    alt: "placeholder image 3"
+    caption: "[Super Mario Bros. replica in Unity](/portfolio/katergarislabyrinth/)"
 
 postgalleryDesign:
   - url: /portfolio/flashyourfears/
