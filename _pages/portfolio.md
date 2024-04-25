@@ -73,11 +73,10 @@ You can check my professional and personal experience divided in three sections:
 
 Firstly, you can check my professional work as a Junior Unity Programmer at Maniac Panda Games developing Racerloop and MotionTracker, the app I developed for HP-SCDS as a Software Engineering Intern.
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div style="flex-grow: 0;">
-    {% include postgallery.html caption="Professional Portfolio." id="postgalleryProfProgramming" %}
-  </div>
+<div style="display: grid; justify-content: center;">
+  {% include postgallery.html caption="Professional Portfolio." id="postgalleryProfProgramming" %}
 </div>
+
 
 {% include postgallery.html caption="Professional Portfolio." id="postgalleryProfProgramming" %}
 
