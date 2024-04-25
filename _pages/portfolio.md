@@ -80,11 +80,11 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/csumb/environment/image2.png
+    image_path: /images/uoc/media/boceto3RP1NCHOtecnico.jpg
     alt: "placeholder image 3"
     caption: "[3R P1NCH0<br>(Media for Videogames Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/csumb/environment/image2.png
+    image_path: /images/uoc/media/BocetoSalvatoreDeIngranaggiotecnico.jpg
     alt: "placeholder image 3"
     caption: "[Salvatore DeIngranaggio<br>(Media for Videogames Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
