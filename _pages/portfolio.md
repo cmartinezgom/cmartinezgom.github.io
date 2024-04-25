@@ -37,6 +37,10 @@ postgalleryProgramming:
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
     caption: "[Super Mario Bros. replica in Unity](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/KatergarisLabyrinthUI.jpg
+    alt: "placeholder image 3"
+    caption: "[Tanks Multiplayer Online and Local](/portfolio/katergarislabyrinth/)"
 
 postgalleryDesign:
   - url: /portfolio/flashyourfears/
