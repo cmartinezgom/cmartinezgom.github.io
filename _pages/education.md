@@ -8,13 +8,13 @@ header:
   teaser: /assets/images/foo-bar-identity-th.jpg
 postgalleryProgramming:
   - url: /education/masterUOC/
-    image_path: /images/Racerloop1.jpg
+    image_path: /images/logoUOC.jpg
     alt: "placeholder image 1"
-    caption: "[Racerloop](/education/racerloop/)"
+    caption: "[Master's Degree in Video Game Design and Programming](/education/masterUOC/)"
   - url: /education/bachelorCSUMB/
-    image_path: /images/MotionTracker.png
+    image_path: /images/logoCSUMB2.png
     alt: "placeholder image 2"
-    caption: "[MotionTracker](/education/motiontracker/)"
+    caption: "[CSUMB](/education/bachelorsCSUMB/)"
   - url: /education/bachelorULE/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
