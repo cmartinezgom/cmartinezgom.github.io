@@ -75,7 +75,7 @@ Firstly, you can check my professional work as a Junior Unity Programmer at Mani
 
 {% include postgallery.html caption="Professional Portfolio." id="postgalleryProfProgramming" %}
 
-Secondly, you can check my personal and educational projects.
+Secondly, you can check my personal and educational projects. This includes a Game Jam game, my Master's Theis and several games done during my Master's degree and international movility at California.
 
 {% include postgallery.html caption="Personal and Educational Portfolio." id="postgalleryProgramming" %}
 
