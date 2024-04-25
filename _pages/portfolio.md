@@ -20,11 +20,11 @@ postgalleryProgramming:
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "[Flash Your Fears (Game Jam)](/portfolio/flashyourfears/)"
+    caption: "[Flash Your Fears<br>(Game Jam)](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[Katergáris' Labyrinth (Master's Thesis)](/portfolio/katergarislabyrinth/)"
+    caption: "[Katergáris' Labyrinth<br>(Master's Thesis)](/portfolio/katergarislabyrinth/)"
 
 postgalleryDesign:
   - url: /portfolio/flashyourfears/
@@ -72,6 +72,11 @@ You can check my professional and personal experience divided in three sections:
 </div>
 
 Firstly, you can check my professional work as a Junior Unity Programmer at Maniac Panda Games developing Racerloop and MotionTracker, the app I developed for HP-SCDS as a Software Engineering Intern.
+
+<div style="display: flex; justify-content: center;">
+  {% include postgallery.html caption="Professional Portfolio." id="postgalleryProfProgramming" %}
+</div>
+
 
 {% include postgallery.html caption="Professional Portfolio." id="postgalleryProfProgramming" %}
 
