@@ -6,7 +6,7 @@ permalink: /portfolio/
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
-postgalleryProgramming:
+postgalleryProfProgramming:
   - url: /portfolio/racerloop/
     image_path: /images/Racerloop1.jpg
     alt: "placeholder image 1"
@@ -15,6 +15,8 @@ postgalleryProgramming:
     image_path: /images/MotionTracker.png
     alt: "placeholder image 2"
     caption: "[MotionTracker](/portfolio/motiontracker/)"
+
+postgalleryProgramming:
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
@@ -69,7 +71,11 @@ You can check my professional and personal experience divided in three sections:
 
 </div>
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Firstly, you can check my professional work as a Junior Unity Programmer at Maniac Panda Games developing Racerloop and MotionTracker, the app I developed for HP-SCDS as a Software Engineering Intern.
+
+{% include postgallery.html caption="Programming Portfolio." id="postgalleryProfProgramming" %}
+
+Secondly, you can check my personal and educational projects.
 
 {% include postgallery.html caption="Programming Portfolio." id="postgalleryProgramming" %}
 
