@@ -63,7 +63,7 @@ gallery:
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px">
   <p style="margin: 0 20px;">I'm a versatile programmer with <strong><a href="#experience-section">experience</a> with C#, C++, C, Python, Java, Matlab, Lua</strong> and more. My <a href="#experience-section">experience</a> in game modding demonstrates my <strong>ability to adapt quickly to new technologies and projects</strong>.<br>This adaptability is showcased in my diverse <a href="/portfolio/">portfolio</a>, which includes 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
-  <img src="/images/labyrinth/image12.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/uoc/labyrinth/image12.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
