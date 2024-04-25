@@ -10,11 +10,11 @@ postgalleryProfProgramming:
   - url: /portfolio/racerloop/
     image_path: /images/Racerloop1.jpg
     alt: "placeholder image 1"
-    caption: "[Racerloop](/portfolio/racerloop/)"
+    caption: "[Racerloop<br>(Junior Unity Programmer)](/portfolio/racerloop/)"
   - url: /portfolio/motiontracker/
     image_path: /images/MotionTracker.png
     alt: "placeholder image 2"
-    caption: "[MotionTracker](/portfolio/motiontracker/)"
+    caption: "[MotionTracker\n(Software Engineering Intern)](/portfolio/motiontracker/)"
 
 postgalleryProgramming:
   - url: /portfolio/flashyourfears/
@@ -30,11 +30,11 @@ postgalleryDesign:
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
+    caption: "[Flash Your Fears (Game Jam)](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[Katergáris' Labyrinth](/portfolio/katergarislabyrinth/)"
+    caption: "[Katergáris' Labyrinth (Master's Thesis)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/LevelDesignPortalLvl3.jpg
     alt: "placeholder image 3"
@@ -73,11 +73,11 @@ You can check my professional and personal experience divided in three sections:
 
 Firstly, you can check my professional work as a Junior Unity Programmer at Maniac Panda Games developing Racerloop and MotionTracker, the app I developed for HP-SCDS as a Software Engineering Intern.
 
-{% include postgallery.html caption="Programming Portfolio." id="postgalleryProfProgramming" %}
+{% include postgallery.html caption="Professional Portfolio." id="postgalleryProfProgramming" %}
 
 Secondly, you can check my personal and educational projects.
 
-{% include postgallery.html caption="Programming Portfolio." id="postgalleryProgramming" %}
+{% include postgallery.html caption="Personal and Educational Portfolio." id="postgalleryProgramming" %}
 
 <div align="center" id="design-section">
 
