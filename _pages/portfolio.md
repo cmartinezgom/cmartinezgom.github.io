@@ -44,25 +44,25 @@ postgalleryProgramming:
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[2D Zombie Survival](/portfolio/katergarislabyrinth/)"
+    caption: "[2D Zombie Survival <br>(Game Design Course)](/portfolio/katergarislabyrinth/)"
 
 postgalleryDesign:
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
+    caption: "[Flash Your Fears<br>(Game Jam)](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[Katergáris' Labyrinth](/portfolio/katergarislabyrinth/)"
+    caption: "[Katergáris' Labyrinth<br>(Master's Thesis)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/LevelDesignPortalLvl3.jpg
     alt: "placeholder image 3"
-    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
+    caption: "[Introduction, learning and usage of Repulsion Gel in Portal 2](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
+    caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
   
 postgalleryModding:
   - url: /portfolio/flashyourfears/
