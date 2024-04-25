@@ -14,19 +14,9 @@ postgalleryProfProgramming:
   - url: /portfolio/motiontracker/
     image_path: /images/MotionTracker.png
     alt: "placeholder image 2"
-    caption: "[MotionTracker\n(Software Engineering Intern)](/portfolio/motiontracker/)"
+    caption: "[MotionTracker<br>(Software Engineering Intern)](/portfolio/motiontracker/)"
 
 postgalleryProgramming:
-  - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
-    alt: "placeholder image 3"
-    caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
-  - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
-    alt: "placeholder image 3"
-    caption: "[Katergáris' Labyrinth](/portfolio/katergarislabyrinth/)"
-
-postgalleryDesign:
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
@@ -35,6 +25,16 @@ postgalleryDesign:
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
     caption: "[Katergáris' Labyrinth (Master's Thesis)](/portfolio/katergarislabyrinth/)"
+
+postgalleryDesign:
+  - url: /portfolio/flashyourfears/
+    image_path: /images/FlashYourFears.jpg
+    alt: "placeholder image 3"
+    caption: "[Flash Your Fears](/portfolio/flashyourfears/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/KatergarisLabyrinthUI.jpg
+    alt: "placeholder image 3"
+    caption: "[Katergáris' Labyrinth](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/LevelDesignPortalLvl3.jpg
     alt: "placeholder image 3"
