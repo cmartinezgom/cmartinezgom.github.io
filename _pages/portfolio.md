@@ -41,6 +41,10 @@ postgalleryProgramming:
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
     caption: "[Tanks Multiplayer Online and Local](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/KatergarisLabyrinthUI.jpg
+    alt: "placeholder image 3"
+    caption: "[2D Zombie Survival](/portfolio/katergarislabyrinth/)"
 
 postgalleryDesign:
   - url: /portfolio/flashyourfears/
