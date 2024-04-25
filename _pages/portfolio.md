@@ -46,11 +46,11 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[Town Plaza<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/uoc/ia/image27.png
     alt: "placeholder image 3"
     caption: "[Reinforced Learning<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/uoc/ia/image27.png
+    image_path: /images/uoc/multi/image5.png
     alt: "placeholder image 3"
     caption: "[Tanks Multiplayer Online and Local<br>(Multiplayer Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
@@ -72,7 +72,7 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Introduction, learning and usage of Repulsion Gel in Portal 2](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/uoc/level/image1.jpg
+    image_path: /images/uoc/level/image1.png
     alt: "placeholder image 3"
     caption: "[Ratchet & Clank-like planet](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
