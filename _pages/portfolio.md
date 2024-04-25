@@ -78,9 +78,17 @@ postgalleryModding:
     alt: "placeholder image 3"
     caption: "[Pokémon, but you steal the oponent's team](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
+    image_path: /images/LevelDesignPortalLvl3.jpg
+    alt: "placeholder image 3"
+    caption: "[Pokémon Xamorlocke (Custom BDSP ROM)](/portfolio/flashyourfears/)"
+  - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
     caption: "[Pokémon, but you loose health with every step](/portfolio/flashyourfears/)"
+  - url: /portfolio/flashyourfears/
+    image_path: /images/LevelDesignPortalLvl3.jpg
+    alt: "placeholder image 3"
+    caption: "[Pokémon BDSP Simple Randomizer](/portfolio/flashyourfears/)"
 ---
 
 You can check my professional and personal experience divided in three sections: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
