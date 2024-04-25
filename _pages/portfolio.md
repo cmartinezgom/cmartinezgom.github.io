@@ -28,19 +28,19 @@ postgalleryProgramming:
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[Time Racer](/portfolio/katergarislabyrinth/)"
+    caption: "[Time Racer<br>(3D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[Lab Mace](/portfolio/katergarislabyrinth/)"
+    caption: "[Lab Mace<br>(3D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[Super Mario Bros. replica in Unity](/portfolio/katergarislabyrinth/)"
+    caption: "[Super Mario Bros. replica in Unity<br>(2D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
-    caption: "[Tanks Multiplayer Online and Local](/portfolio/katergarislabyrinth/)"
+    caption: "[Tanks Multiplayer Online and Local<br>(Multiplayer Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
