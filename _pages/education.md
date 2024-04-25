@@ -16,13 +16,13 @@ postgalleryProgramming:
     alt: "placeholder image 2"
     caption: "[CSUMB](/education/bachelorsCSUMB/)"
   - url: /education/bachelorULE/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/logoULE.jpg
     alt: "placeholder image 3"
-    caption: "[Flash Your Fears](/education/flashyourfears/)"
+    caption: "[Computer Science Engineering ULE](/education/bachelorULE/)"
   - url: /education/bachelorUVA/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/logoUVa.png
     alt: "placeholder image 3"
-    caption: "[Katergáris' Labyrinth](/education/katergarislabyrinth/)"
+    caption: "[Joint Studies Maths + Computer Science](/education/bachelorUVA/)"
 
 postgalleryDesign:
   - url: /education/flashyourfears/
