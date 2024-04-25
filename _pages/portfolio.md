@@ -64,6 +64,10 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
+    image_path: /images/csumb/environment/Render1.jpg
+    alt: "placeholder image 3"
+    caption: "[Astropolis<br>(Environment Modeling Course)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/flashyourfears/
     image_path: /images/csumb/character/Render.png
     alt: "placeholder image 3"
     caption: "[Dark Star<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
@@ -71,10 +75,6 @@ postgalleryDesign:
     image_path: /images/csumb/environment/image2.png
     alt: "placeholder image 3"
     caption: "[Hellcat from Jak 3<br>(Environment Modeling Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
-    image_path: /images/csumb/environment/Render1.jpg
-    alt: "placeholder image 3"
-    caption: "[Astropolis<br>(Environment Modeling Course)](/portfolio/katergarislabyrinth/)"
   
 postgalleryModding:
   - url: /portfolio/flashyourfears/
