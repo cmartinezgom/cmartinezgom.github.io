@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/foo-bar-identity-th.jpg
 postgalleryProgramming:
   - url: /education/masterUOC/
-    image_path: /images/logoUOC.jpg
+    image_path: /images/logoUOC.png
     alt: "placeholder image 1"
     caption: "[Master's Degree in Video Game Design and Programming](/education/masterUOC/)"
   - url: /education/bachelorCSUMB/
