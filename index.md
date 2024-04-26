@@ -198,8 +198,8 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 </div>
 
-### 🚀 Master’s Degree in Video Game Design and Programming @ Open University of Catalonia
-09/2020 – 01/2022 | Online
+### <i class="fa-solid fa-gamepad"></i> Master’s Degree in Video Game Design and Programming
+09/2020 – 01/2022 | Online @ Open University of Catalonia
 
 <div style="display: flex;">
  <div style="border-radius: 50%; width: 150px; height: 150px;">
@@ -207,11 +207,11 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Multidisciplinary course including 2D and 3D programming, game design, level design, UI design or artificial intelligence.<br><br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;">Multidisciplinary official master that specialized in the whole process of game development. Including 2D and 3D programming, multiplayer games, game design, level design, UI design and AI.<br><br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
 
-### 👁 International Student Exchange @ California State University Monterey Bay
+### <i class="fa-solid fa-flag-usa"></i> International Student Exchange @ California State University Monterey Bay
 08/2019 – 01/2020 | Seaside, CA, USA
 
 <div style="display: flex;">
@@ -224,7 +224,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  </div>
 </div>
 
-### 🚀 Degree in Computer Science @ University of León
+### <i class="fa-solid fa-terminal"></i> Bachelor in Computer Science Engineering @ University of León
 09/2016 – 06/2020 | León, Spain
 
 <div style="display: flex;">
@@ -237,7 +237,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 languages and design patterns.</p>
 </div>
 
-### 🧮 Joint studies of Mathematics and Computer Science @ University of Valladolid
+### 🧮 Joint Bachelors in Mathematics and Computer Science @ University of Valladolid
 09/2014 – 06/2016 | Valladolid, Spain
 
 <div style="display: flex;">
