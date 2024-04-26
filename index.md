@@ -207,7 +207,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Multidisciplinary official master</a> that specialized in the whole process of game development. Including 2D and 3D programming, multiplayer games, game design, level design, UI design and AI.<br><br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Multidisciplinary official master</a> that specialized in the whole process of game development.<br>Includes 2D and 3D programming, multiplayer games, game design, level design, UI design and AI.<br><br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
 
@@ -215,7 +215,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 08/2019 – 01/2020 | Seaside, CA, USA
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">One semester abroad</a> studying Computer Science, Game Design and Cinematics Arts Technology at California. Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
+  <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">One semester abroad</a> studying Computer Science, Game Design and Cinematics Arts Technology at California.<br>Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
@@ -234,14 +234,14 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
    </a>
  </div>
   <p style="margin-left: 20px;">Strong and wide grounding in the basic principles of maths, programming in different
-languages and design patterns. Foundations in C, C++, C#, Python, Java, Lua, Matlab and other programming languages. Learning of Agile methodologies, project management, networking, databases, AI, operative systems and more. Ending with my Final Project, MotionTracker, developed in a Software Engineering Internship for HP SCDS with a grade of 9.8/10.</p>
+languages and design patterns.<br>Foundations in C, C++, C#, Python, Java, Lua, Matlab and other programming languages. Learning of Agile methodologies, project management, networking, databases, AI, operative systems and more.<br>Ending with my Final Project, MotionTracker, developed in a Software Engineering Internship for HP SCDS with a grade of 9.8/10.</p>
 </div>
 
 ### <i class="fa-solid fa-calculator"></i> Joint Bachelors in Mathematics and Computer Science @ University of Valladolid
 09/2014 – 06/2016 | Valladolid, Spain
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;">Strong and wide grounding in maths and calculus, along with Software Engineering. Courses such as Lineal Algebra and Geometry, Infinitesimal Calculus, Probability and Descriptive Statistics, General Physics, Differential Equations, Applied Mathematics, Automatic Treatment of Information and more. 93 credits passed. </p>
+  <p style="margin-right: 20px;">Strong and wide grounding in maths and calculus, along with Software Engineering.<br>Courses such as Lineal Algebra and Geometry, Infinitesimal Calculus, Probability and Descriptive Statistics, General Physics, Differential Equations, Applied Mathematics, Automatic Treatment of Information and more. 93 credits passed. </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
