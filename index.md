@@ -234,15 +234,14 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
    </a>
  </div>
   <p style="margin-left: 20px;">Strong and wide grounding in the basic principles of maths, programming in different
-languages and design patterns.</p>
+languages and design patterns. Foundations in C, C++, C#, Python, Java, Lua, Matlab and other programming languages. Learning of Agile methodologies, project management, networking, databases, AI, operative systems and more. Ending with my Final Project, MotionTracker, developed in a Software Engineering Internship for HP SCDS with a grade of 9.8/10.</p>
 </div>
 
-### 🧮 Joint Bachelors in Mathematics and Computer Science @ University of Valladolid
+### <i class="fa-solid fa-calculator"></i> Joint Bachelors in Mathematics and Computer Science @ University of Valladolid
 09/2014 – 06/2016 | Valladolid, Spain
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;">• 93 credits. Strong and
-    wide grounding in maths and calculus.</p>
+  <p style="margin-right: 20px;">Strong and wide grounding in maths and calculus, along with Software Engineering. Courses such as Lineal Algebra and Geometry, Infinitesimal Calculus, Probability and Descriptive Statistics, General Physics, Differential Equations, Applied Mathematics, Automatic Treatment of Information and more. 93 credits passed. </p>
  <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
@@ -250,16 +249,18 @@ languages and design patterns.</p>
  </div>
 </div>
 
-### 📚 Aditional Education
+### <i class="fa-solid fa-book"></i> Aditional Education
 
-- Baccalaureate in Science and Technology. With honors.
+- University Entrance Exam (PAU) with a grade of 10.5/14.
+
+- Baccalaureate in Science and Technology @ IES Eras de Renueva. With honors (Average grade: 9.7/10).
 
 - **English-Spanish Bilingual** Primary and Secondary Education within the framework of
 the agreement M.E.C./British Council.
 
-- Selected for the Stimulation of Mathematical Talent Project (ESTALMAT CyL)
+- Selected for the Stimulation of Mathematical Talent Project (ESTALMAT CyL).
 
-- Several Gamedev Courses.
+- Several Gamedev Courses, focused on Unreal Engine, Unity, Gamification and more.
 
 <div style="text-align: center;">
   <a href="/education/" class="btn" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
