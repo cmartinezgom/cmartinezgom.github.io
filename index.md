@@ -224,8 +224,8 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  </div>
 </div>
 
-### <i class="fa-solid fa-terminal"></i> Bachelor in Computer Science Engineering @ University of León
-09/2016 – 06/2020 | León, Spain
+### <i class="fa-solid fa-terminal"></i> Bachelor in Computer Science Engineering
+09/2016 – 06/2020 | León, Spain @ University of León
 
 <div style="display: flex;">
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
@@ -237,8 +237,8 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 languages and design patterns.<br>Foundations in C, C++, C#, Python, Java, Lua, Matlab and other programming languages. Learning of Agile methodologies, project management, networking, databases, AI, operative systems and more.<br>Ending with my Final Project, MotionTracker, developed in a Software Engineering Internship for HP SCDS with a grade of 9.8/10.</p>
 </div>
 
-### <i class="fa-solid fa-calculator"></i> Joint Bachelors in Mathematics and Computer Science @ University of Valladolid
-09/2014 – 06/2016 | Valladolid, Spain
+### <i class="fa-solid fa-calculator"></i> Joint Bachelors in Mathematics and Computer Science
+09/2014 – 06/2016 | Valladolid, Spain @ University of Valladolid
 
 <div style="display: flex;">
   <p style="margin-right: 20px;">Strong and wide grounding in maths and calculus, along with Software Engineering.<br>Courses such as Lineal Algebra and Geometry, Infinitesimal Calculus, Probability and Descriptive Statistics, General Physics, Differential Equations, Applied Mathematics, Automatic Treatment of Information and more. 93 credits passed. </p>
