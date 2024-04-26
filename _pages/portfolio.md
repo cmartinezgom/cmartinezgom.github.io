@@ -26,15 +26,19 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[Katergáris' Labyrinth<br>(Master's Thesis)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/uoc/3d/timeracermenu.png
     alt: "placeholder image 3"
     caption: "[Time Racer<br>(3D Programming Course)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/katergarislabyrinth/
+    image_path: /images/uoc/2d/descentmain.png
+    alt: "placeholder image 3"
+    caption: "[Descent<br>(2D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/KatergarisLabyrinthUI.jpg
     alt: "placeholder image 3"
     caption: "[Lab Mace<br>(3D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/uoc/2d/mariounity.png
     alt: "placeholder image 3"
     caption: "[Super Mario Bros. replica in Unity<br>(2D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
