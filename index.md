@@ -207,15 +207,15 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Multidisciplinary official master that specialized in the whole process of game development. Including 2D and 3D programming, multiplayer games, game design, level design, UI design and AI.<br><br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Multidisciplinary official master</a> that specialized in the whole process of game development. Including 2D and 3D programming, multiplayer games, game design, level design, UI design and AI.<br><br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
 
-### <i class="fa-solid fa-flag-usa"></i> International Student Exchange @ California State University Monterey Bay
+### <i class="fa-solid fa-flag-usa"></i> International Student @ California State University Monterey Bay
 08/2019 – 01/2020 | Seaside, CA, USA
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;">• Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
+  <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">One semester abroad</a> studying Computer Science, Game Design and Cinematics Arts Technology at California. Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  <div style="border-radius: 50%; width: 150px; height: 150px;">
    <a href="/portfolio/motiontracker/">
