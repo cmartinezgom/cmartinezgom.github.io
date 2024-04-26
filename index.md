@@ -217,7 +217,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 <div style="display: flex;">
   <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">One semester abroad</a> studying Computer Science, Game Design and Cinematics Arts Technology at California. Courses: The Art of Storytelling (A+), Graphics Programming (A+), Environment
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
- <div style="border-radius: 50%; width: 150px; height: 150px;">
+ <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
@@ -228,7 +228,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 09/2016 – 06/2020 | León, Spain
 
 <div style="display: flex;">
- <div style="border-radius: 50%; width: 150px; height: 150px;">
+ <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/racerloop/">
      <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
@@ -242,7 +242,7 @@ languages and design patterns. Foundations in C, C++, C#, Python, Java, Lua, Mat
 
 <div style="display: flex;">
   <p style="margin-right: 20px;">Strong and wide grounding in maths and calculus, along with Software Engineering. Courses such as Lineal Algebra and Geometry, Infinitesimal Calculus, Probability and Descriptive Statistics, General Physics, Differential Equations, Applied Mathematics, Automatic Treatment of Information and more. 93 credits passed. </p>
- <div style="border-radius: 50%; width: 150px; height: 150px;">
+ <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
