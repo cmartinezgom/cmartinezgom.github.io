@@ -138,8 +138,8 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 09/2018 – 06/2020 | León, Spain
 
 <div style="display: flex;">
-  <p style="margin-right: 10px;">Built <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a>, a Python-based target tracking system for moving targets and cameras. Employed agile methodologies under the direction of HP SCDS.<br><br>
-  Recognised as a <a href="https://hpscds.com/xv-observatorio-hp-2020/"><strong>finalist in the XV "Programa Observatorio Tecnológico HP" awards.</strong></a></p>
+  <p style="margin-right: 10px;">Built <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a>, a Python-based target tracking system for moving targets and cameras using agile methodologies under the direction of HP SCDS.<br><br>
+  This project's excellence was underscored by:<br>- <a href="https://hpscds.com/xv-observatorio-hp-2020/"><strong>Finalist in the XV "Programa Observatorio Tecnológico HP" awards.</strong></a><br>- High marks from both HP SCDS lead (9.5/10) and as my Final Degree Project (9,8/10).</p>
  <div style="width: 450px; height: 200px;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/MotionTracker.gif" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
