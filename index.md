@@ -202,15 +202,13 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 09/2020 – 01/2022 | Online @ Open University of Catalonia
 
 <div style="display: flex;">
- <div style="width: 150px; height: 150px;">
+ <div style="width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/racerloop/">
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;"><a href="/education/masterUOC/">Multidisciplinary official master</a> that specialized in the whole process of game development. Including 2D and 3D programming, multiplayer games, game design, level design, UI design and AI.<br><br>Master’s Thesis: Development of the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
-
-
 
 
 ### <i class="fa-solid fa-flag-usa"></i> International Student @ California State University Monterey Bay
