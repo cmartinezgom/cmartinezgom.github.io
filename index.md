@@ -260,6 +260,8 @@ the agreement M.E.C./British Council.
 
 - Selected for the Stimulation of Mathematical Talent Project (ESTALMAT CyL).
 
+- Participation in several academic tournaments, mainly in mathematics, physics and grammar.
+
 - Several Gamedev Courses, focused on Unreal Engine, Unity, Gamification and more.
 
 <div style="text-align: center;">
