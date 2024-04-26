@@ -55,21 +55,21 @@ gallery:
 
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a creative <strong>programmer and game developer</strong> who excels both independently and in teams. With over three years of professional programming <a href="#experience-section">experience</a>, including roles as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br> My <a href="#education-section">education</a> gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
+  <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a <strong>creative programmer and game developer</strong> who excels both independently and in teams. With over <strong>three years of professional programming <a href="#experience-section">experience</a></strong>, including roles as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br>My <a href="#education-section">education</a> gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
   <img src="/images/chibi.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Segundo párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px">
-  <p style="margin: 0 20px;">I'm a versatile programmer with <strong><a href="#experience-section">experience</a> in C#, C++, C, Python, Java, Matlab, Lua</strong> and more. My <a href="#experience-section">experience</a> in game modding highlights my <strong>ability to learn new technologies quickly and adapt to diverse projects</strong>.<br>This adaptability is evident in my <a href="/portfolio/">portfolio</a>, which spans 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
+  <p style="margin: 0 20px;">I'm a versatile programmer with <strong><a href="#experience-section">experience</a> in C#, C++, C, Python, Java, Matlab, Lua</strong> and more. My <a href="#experience-section">experience</a> in game modding highlights my <strong>ability to learn new technologies quickly and adapt to diverse projects</strong>.<br>This adaptability is <strong>evident in my <a href="/portfolio/">portfolio</a></strong>, which spans 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
   <img src="/images/uoc/labyrinth/image12.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="/images/KatergarisLabyrinthUI2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">But my skills extend far beyond programming!<br>I have a passion for creation and design, with experience in character and environment design, 3D modeling, level design, UI design, storytelling, and worldbuilding. My Master's Thesis project, Katergáris' Labyrinth, perfectly showcases this, as I reimagined the world of mythological Greece with a unique and original twist.</p>
+  <p style="margin: 0 20px;">But my skills extend <strong>far beyond programming!</strong><br>I have a <strong>passion for creation and design</strong>, with experience in character and environment design, 3D modeling, level design, UI design, storytelling, and worldbuilding. My Master's Thesis project, Katergáris' Labyrinth, perfectly showcases this, as I reimagined the world of mythological Greece with a unique and original twist.</p>
   <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
@@ -84,7 +84,7 @@ gallery:
 <div class="row">
   <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FF9F6A); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2><i class="fa fa-headset"></i> Skills</h2>
-    <p style="line-height: 2;"><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Unity 2D/3D</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C#</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C++</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Java</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Python</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Matlab</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Git</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Jira</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Agile</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Photoshop</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Video editing</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Microsoft Office</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Linux/Ubuntu</span></p>
+    <p style="line-height: 2;"><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Unity 2D/3D</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C#</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C++</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Java</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Python</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Matlab</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Git</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Jira</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Agile</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Photoshop</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Video editing</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Microsoft Office</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Linux/Ubuntu</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Maya</span></p>
   </div>
   <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2><i class="fa fa-language"></i> Languages</h2>
@@ -155,7 +155,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
      <img src="/images/FlashYourFears.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Diverse <a href="/portfolio/">personal projects</a> in game development and modding demonstrate my adaptability across various games and languages.<br><br>Examples include: C# (Unity), C++ (Unreal Engine 4 and 5), C modding (Pokémon), Java modding (Minecraft), Lua scripting (Ratchet & Clank)...</p>
+  <p style="margin-left: 20px;">Diverse <strong><a href="/portfolio/">personal and educational projects</a></strong> in game development and modding demonstrate my adaptability across various games and languages.<br><br>Examples include: C# (Unity), C++ (Unreal Engine 4 and 5), C modding (Pokémon), Java modding (Minecraft), Lua scripting (Ratchet & Clank)...</p>
 </div>
 
 <!--
@@ -207,7 +207,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> specializing in the complete game development process.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
 
@@ -215,7 +215,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 08/2019 – 01/2020 | Seaside, CA, USA
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">Studied abroad</a> for a semester in California, focusing on Computer Science, Game Design, and Cinematic Arts Technology.<br>Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
+  <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">Studied abroad</a> for a semester in California, focusing on <strong>Computer Science, Game Design, and Cinematic Arts Technology</strong>.<br>Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
@@ -233,14 +233,14 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
      <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Developed a robust foundation in mathematics, design patterns, and diverse programming languages (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in agile methodologies, project management, networking, databases, AI, and operating systems. Culminated my studies with the 'MotionTracker' project during a Software Engineering Internship at HP SCDS, earning a 9.8/10 grade.</p>
+  <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems. Culminated my studies with the <a href="/portfolio/motiontracker/">MotionTracker</a> project during a Software Engineering Internship at HP SCDS, earning a 9.8/10 grade.</p>
 </div>
 
 ### <i class="fa-solid fa-calculator"></i> Dual Degree in Mathematics and Computer Science
 09/2014 – 06/2016 | Valladolid, Spain @ University of Valladolid
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;">Developed a robust foundation in mathematics (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core software engineering principles. Completed 93 credits. </p>
+  <p style="margin-right: 20px;">Developed a <strong>robust foundation in mathematics</strong> (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core Software Engineering principles. Completed 93 credits. </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
@@ -252,15 +252,15 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 - University Entrance Exam (PAU) with a grade of 10.5/14.
 
-- Baccalaureate in Science and Technology @ IES Eras de Renueva. With honors (Average grade: 9.7/10).
+- Baccalaureate in Science and Technology @ IES Eras de Renueva. **With honors** (Average grade: 9.7/10).
 
-- **Bilingual Education (English-Spanish)**. Primary and Secondary Education within the M.E.C./British Council agreement.
+- **Bilingual Education (English-Spanish)**. Primary and Secondary Education within the **M.E.C./British Council agreement**.
 
-- ESTALMAT CyL Program Participant: Selected for the Stimulation of Mathematical Talent Project.
+- ESTALMAT CyL Program Participant: Selected for the **Stimulation of Mathematical Talent Project**.
 
-- Academic Competitions: Participated in tournaments focused on mathematics, physics, and grammar.
+- **Academic Competitions**: Participated in tournaments focused on mathematics, physics, and grammar.
 
-- Game Development Courses: Completed specialization training in Unreal Engine, Unity, gamification, and more.
+- **Game Development Courses**: Completed specialization training in Unreal Engine, Unity, gamification, and more.
 
 <div style="text-align: center;">
   <a href="/education/" class="btn" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
@@ -278,13 +278,13 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 </div>
 
-- Musician. Professional Degree in Music, specializing in French Horn.
+- **Musician**. Professional Degree in Music, specializing in French Horn.
 
-- Basketball player & coach. Competed at the National Championship and winner of multiple leagues.
+- **Basketball player & coach**. Competed at the **National Championship** and winner of multiple leagues.
 
-- Industry Speaker: Delivered lectures and participated in discussions on "Environmental Storytelling in Video Games" and other game development topics (Level Up León, 08/2018).
+- **Industry Speaker**: Delivered lectures and participated in discussions on "Environmental Storytelling in Video Games" and other game development topics (Level Up León, 08/2018).
 
-- Certified Recreational Activities Coordinator: Gained expertise in planning and leading engaging activities.
+- **Certified Recreational Activities Coordinator**: Gained expertise in planning and leading engaging activities.
 
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
