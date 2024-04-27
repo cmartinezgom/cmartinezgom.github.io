@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "💻 My Portfolio"
-excerpt: "Here you'll find most of my work both in Programming and Design."
+excerpt: "Here you'll find most of my work both in Programming and Design!"
 permalink: /portfolio/
 header:
   image: /assets/images/foo-bar-identity.jpg
@@ -131,7 +131,7 @@ postgalleryModding:
     caption: "[Pokémon BDSP Simple Randomizer](/portfolio/flashyourfears/)"
 ---
 
-You can check my professional and personal experience divided in three sections: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
+Explore my professional and personal projects divided in three categories: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
 
 <div align="center" id="programming-section">
 
@@ -139,21 +139,24 @@ You can check my professional and personal experience divided in three sections:
 
 </div>
 
-Firstly, you can check my professional work as a Junior Unity Programmer at Maniac Panda Games developing Racerloop and MotionTracker, the app I developed for HP-SCDS as a Software Engineering Intern.
+Let's begin with my **professional work**.
+This includes **nearly two years as a Junior Unity Programmer** at Maniac Panda Games, where I primarily focused on developing "Racerloop"; and over **a year and a half as a Software Engineering Intern at HP SCDS**, where I built the "MotionTracker" app.
+While programming was my main focus, I also took design responsabilities, particularly in the MotionTracker project.
 
-{% include postgallery.html caption="Professional Portfolio." id="postgalleryProfProgramming" %}
+{% include postgallery.html caption="Professional Programming Portfolio." id="postgalleryProfProgramming" %}
 
-Secondly, you can check my personal and educational projects. This includes a Game Jam game, my Master's Theis and several games done during my Master's degree and international movility at California.
+Next, let's dive into my **personal and educational projects**.
+Highlights include a unique game created during a Game Jam, my Master's Thesis original game, and diverse game projects completed during both my Master's degree and my international studies at California, ranging from full vertical slices to focused projects exporing AI, animations, procedural generation, game porting, and other game development aspects.
 
 {% include postgallery.html caption="Personal and Educational Portfolio." id="postgalleryProgramming" %}
 
 <div align="center" id="design-section">
 
-  <h2> 💻 Design Portfolio</h2>
+  <h2> 🎨 Design Portfolio</h2>
 
 </div>
 
-Here you can check my design portfolio, where you can find my skills in game, level, character, environment design. Also some basic 3D modeling skills.
+In this section you can explore my design portfolio, where you'll find my skills in game design, level design, character design, environment design, and even basic 3D modeling.
 
 {% include postgallery.html caption="Design Portfolio." id="postgalleryDesign" %}
 
@@ -164,6 +167,7 @@ Here you can check my design portfolio, where you can find my skills in game, le
 
 </div>
 
-Here you can find my modding portfolio, some of them made as a comission for professional content creators.
+Here you can find my **modding portfolio**.
+Explore commissioned mods for professional content creators and independent projects spanning multiple games and programming languages.
 
 {% include postgallery.html caption="Modding Portfolio." id="postgalleryModding" %}
