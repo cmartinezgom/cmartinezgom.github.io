@@ -34,7 +34,7 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[Descent<br>(2D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/uoc/3d/labmaze6.png
     alt: "placeholder image 3"
     caption: "[Lab Mace<br>(3D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
@@ -42,11 +42,11 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[Super Mario Bros. replica in Unity<br>(2D Programming Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/uoc/ia/maze2.png
     alt: "placeholder image 3"
     caption: "[Labyrinth Crawler<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/uoc/ia/plaza2.jpg
     alt: "placeholder image 3"
     caption: "[Town Plaza<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
@@ -80,7 +80,7 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Ratchet & Clank-like planet<br>(Level Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/csumb/environment/image2.png
+    image_path: /images/shaders.png
     alt: "placeholder image 3"
     caption: "[Simple VFX<br>(Shaders and Particles)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
