@@ -46,7 +46,7 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[Labyrinth Crawler<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/uoc/ia/plaza2.jpg
+    image_path: /images/uoc/ia/plaza2.png
     alt: "placeholder image 3"
     caption: "[Town Plaza<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
