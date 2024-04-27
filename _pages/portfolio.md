@@ -80,6 +80,10 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Ratchet & Clank-like planet<br>(Level Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
+    image_path: /images/csumb/environment/image2.png
+    alt: "placeholder image 3"
+    caption: "[Simple VFX<br>(Shaders and Particles)](/portfolio/katergarislabyrinth/)"
+  - url: /portfolio/flashyourfears/
     image_path: /images/csumb/character/R-0L1concepts2.jpg
     alt: "placeholder image 3"
     caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
@@ -128,7 +132,7 @@ postgalleryModding:
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
-    caption: "[Pokémon BDSP Simple Randomizer](/portfolio/flashyourfears/)"
+    caption: "[Pokémon BDSP Simple Randomizer and 0 Exp](/portfolio/flashyourfears/)"
 ---
 
 Explore my professional and personal projects divided in three categories: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
@@ -156,7 +160,7 @@ Next, let's dive into my **personal and educational projects**.
 
 </div>
 
-In this section you can explore my **design portfolio**, where you'll find my skills in game design, level design, character design, environment design, and even basic 3D modeling.
+In this section you can explore my **design portfolio**, where you'll find my skills in game design, level design, character design, environment design, simple VFX (Shaders and Particles), and even basic 3D modeling.
 
 {% include postgallery.html caption="Design Portfolio." id="postgalleryDesign" %}
 
