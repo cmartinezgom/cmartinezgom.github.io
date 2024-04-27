@@ -56,7 +56,7 @@ postgalleryProgramming:
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/uoc/multi/image5.png
     alt: "placeholder image 3"
-    caption: "[Tanks Multiplayer Online and Local<br>(Multiplayer Games Course)](/portfolio/katergarislabyrinth/)"
+    caption: "[Tanks Online and Local<br>(Multiplayer Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
     image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
     alt: "placeholder image 3"
