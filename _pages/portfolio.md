@@ -140,13 +140,13 @@ Explore my professional and personal projects divided in three categories: <a hr
 </div>
 
 Let's begin with my **professional work**.
-This includes **nearly two years as a Junior Unity Programmer** at Maniac Panda Games, where I primarily focused on developing "Racerloop"; and over **a year and a half as a Software Engineering Intern at HP SCDS**, where I built the "MotionTracker" app.
-While programming was my main focus, I also took design responsabilities, particularly in the MotionTracker project.
+<br>This includes **nearly two years as a Junior Unity Programmer** at Maniac Panda Games, where I primarily focused on developing "Racerloop"; and over **a year and a half as a Software Engineering Intern at HP SCDS**, where I built the "MotionTracker" app.
+<br>While programming was my main focus, I also took design responsabilities, particularly in the MotionTracker project.
 
 {% include postgallery.html caption="Professional Programming Portfolio." id="postgalleryProfProgramming" %}
 
 Next, let's dive into my **personal and educational projects**.
-Highlights include a unique game created during a Game Jam, my Master's Thesis original game, and diverse game projects completed during both my Master's degree and my international studies at California, ranging from full vertical slices to focused projects exporing AI, animations, procedural generation, game porting, and other game development aspects.
+<br>Highlights include a unique game created during a Game Jam, my Master's Thesis original game, and diverse game projects completed during both my Master's degree and my international studies at California, ranging from full vertical slices to focused projects exporing AI, animations, procedural generation, game porting, and other game development aspects.
 
 {% include postgallery.html caption="Personal and Educational Portfolio." id="postgalleryProgramming" %}
 
@@ -156,7 +156,7 @@ Highlights include a unique game created during a Game Jam, my Master's Thesis o
 
 </div>
 
-In this section you can explore my design portfolio, where you'll find my skills in game design, level design, character design, environment design, and even basic 3D modeling.
+In this section you can explore my **design portfolio**, where you'll find my skills in game design, level design, character design, environment design, and even basic 3D modeling.
 
 {% include postgallery.html caption="Design Portfolio." id="postgalleryDesign" %}
 
@@ -168,6 +168,6 @@ In this section you can explore my design portfolio, where you'll find my skills
 </div>
 
 Here you can find my **modding portfolio**.
-Explore commissioned mods for professional content creators and independent projects spanning multiple games and programming languages.
+<br>Explore commissioned mods for professional content creators and independent projects spanning multiple games and programming languages.
 
 {% include postgallery.html caption="Modding Portfolio." id="postgalleryModding" %}
