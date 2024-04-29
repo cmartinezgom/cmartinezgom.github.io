@@ -59,10 +59,13 @@ gallery:
     image_path: /images/flashyourfears/flashyourfears22.png
     alt: "placeholder image 3"
   - url: /images/flashyourfears/flashyourfears23.png
-    image_path: /images/flashyourfears/flashyourfears22.png
+    image_path: /images/flashyourfears/flashyourfears23.png
     alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears23.png
-    image_path: /images/flashyourfears/flashyourfears22.png
+  - url: /images/flashyourfears/flashyourfears24.png
+    image_path: /images/flashyourfears/flashyourfears24.png
+    alt: "placeholder image 3"
+  - url: /images/flashyourfears/particlepixelartfire.png
+    image_path: /images/flashyourfears/particlepixelartfire.png
     alt: "placeholder image 3"
 ---
 [**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://cmartinezgom.itch.io/flash-your-fears) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://youtu.be/fLouIlEPH-s) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://itch.io/jam/brackeys-7)
