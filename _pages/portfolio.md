@@ -130,7 +130,7 @@ postgalleryModding:
     alt: "placeholder image 3"
     caption: "[Pokémon, but you loose health with every step](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/mods/comprarpokemon.png
+    image_path: /images/mods/pokemonbdsprandom.jpg
     alt: "placeholder image 3"
     caption: "[Pokémon BDSP Simple Randomizer and 0 Exp](/portfolio/flashyourfears/)"
 ---
