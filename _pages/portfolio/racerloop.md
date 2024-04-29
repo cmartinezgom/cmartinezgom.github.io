@@ -44,7 +44,7 @@ I had contributions all along the game since the first prototypes, but my main w
 <br>![full](/images/racerloop/ezgif-5-32998c4530.gif){: .align-left}
 
 - **Testing Automation**: Automatic Testing of the game using Unity Test Framework.
-<br>![full](/images/racerloop/racerlooptests.png){: .align-center}
+<br>![full](/images/racerloop/racerlooptests.png){: .align-center width="33%" height="auto"}
 
 - **UI implementation**: Login, Leaderboards, Online and Lobby screens, as well as a general modular pop up error window.
 
