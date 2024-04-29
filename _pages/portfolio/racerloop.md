@@ -41,10 +41,12 @@ I had contributions all along the game since the first prototypes, but **my main
 <br>![full](/images/racerloop/ezgif-3-2279a6cc27.gif){: style="display: block; margin: auto; width="50%"}
 
 - **Gameplay Systems**: Player Orbital Camera with Spring Damper System, Ship’s hovering, Power Ups, Debug Renderer, AbstractInputs, Dynamic Gravity System...
-<br>![full](/images/racerloop/ezgif-2-6595f0e17e.gif){: style="display: block; margin: auto; width="50%"} ![full](/images/racerloop/ezgif-5-32998c4530.gif){: style="display: block; margin: 30%; width="50%"}
+<br>![full](/images/racerloop/ezgif-2-6595f0e17e.gif){: style="display: block; margin: auto; width="50%"} ![full](/images/racerloop/ezgif-5-32998c4530.gif){: style="display: block; margin: auto; width="50%"}
 
 - **Testing Automation**: Automatic Testing of the game using Unity Test Framework.
-<br>![full](/images/racerloop/racerlooptests.png){: style="display: block; margin: 30%; width="50%"}
+<div style="width: 50%; margin: auto;">
+  <br>![full](/images/racerloop/racerlooptests.png){: style="display: block; margin: 30%; width="50%"}
+</div>
 
 - **UI implementation**: Login, Leaderboards, Online and Lobby screens, as well as a general modular pop up error window.
 
