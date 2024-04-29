@@ -21,14 +21,6 @@ gallery:
 
 ![full](/images/FlashYourFears.jpg){: full}
 
-<!--
-<iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" allowfullscreen="" width="1920" height="1100"><a href="https://cmartinezgom.itch.io/flash-your-fears">Play Flash your Fears on itch.io</a></iframe>
--->
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" allowfullscreen=""></iframe>
-</div>
-
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
