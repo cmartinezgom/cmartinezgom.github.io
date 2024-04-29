@@ -7,8 +7,8 @@ header:
   image: /images/MotionTracker.png
   teaser: /images/MotionTracker.png
 gallery:
-  - url: /images/motiontracker/MotionTracker.png
-    image_path: /images/motiontracker/MotionTracker.png
+  - url: /images/MotionTracker.png
+    image_path: /images/MotionTracker.png
     alt: "placeholder image 1"
   - url: /images/motiontracker/CSRTcoche1-ezgif.com-optimize.gif
     image_path: /images/motiontracker/CSRTcoche1-ezgif.com-optimize.gif
@@ -57,8 +57,3 @@ This **emphasis on documentation** ensured an ease of future enhancements or **i
 - **Industry Recognition**: Selected as a [**finalist in the HP SCDS Awards**](https://hpscds.com/xv-observatorio-hp-2020/).
 
 {% include gallery.html caption="Work samples of MotionTracker using different tracking algorithms." %}
-
-**Key Features & Future Directions**
-- **Robust Object Tracking**: Tracks targets in dynamic environments.
-- **Extensive Documentation**: Facilitates future development and understanding.
-- **Potential Enhancements**: Exploration of deep learning integration for advanced tracking, or coupling the system with mechanical components to enable fully automated target tracking.
