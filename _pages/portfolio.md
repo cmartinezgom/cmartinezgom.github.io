@@ -122,7 +122,7 @@ postgalleryModding:
     alt: "placeholder image 3"
     caption: "[Pokémon, but you steal the oponent's team](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/mods/xamorlocke.jpg
     alt: "placeholder image 3"
     caption: "[Pokémon Xamorlocke (Custom BDSP ROM)](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
