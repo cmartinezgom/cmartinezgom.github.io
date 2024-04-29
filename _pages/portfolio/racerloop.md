@@ -27,7 +27,7 @@ gallery:
     alt: "Racerloop Screenshot"
 ---
 
-[Web <i class="fa-solid fa-globe"></i>](https://www.racerloop.com/) | [Trailer <i class="fa-brands fa-youtube"></i>](https://youtu.be/fLouIlEPH-s)
+[Web <i class="fa-solid fa-globe"></i>](https://www.racerloop.com/) - | - [Trailer <i class="fa-brands fa-youtube"></i>](https://youtu.be/fLouIlEPH-s)
 
 <div style="width: 70%; margin: auto;">
   <img src="/images/Racerloop1.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
