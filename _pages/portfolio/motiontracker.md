@@ -19,13 +19,11 @@ gallery:
 
 ---
 
-[**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://cmartinezgom.itch.io/flash-your-fears) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://youtu.be/fLouIlEPH-s) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://itch.io/jam/brackeys-7)
+[**HP SCDS Project** <i class="fa-brands fa-itch-io"></i>](https://hpscds.com/innovacion/observatorio-tecnologico/observatorio-hp-18-19/#MotionTracker) ||| [**HP SCDS Awards** <i class="fa-brands fa-github"></i>](https://hpscds.com/xv-observatorio-hp-2020/)
 
 <div style="width: 70%; margin: auto;">
   <img src="/images/MotionTracker.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
-
-![full](/images/MotionTracker.gif){: full}
 
 This project gathers all the development that has been carried out for a year and a half for the realization of an application capable of tracking a moving object with a camera also in motion. The program has been developed using the Python programming language and the OpenCV library, both the treatment of videos and images and the implementation of the detection algorithms. Since
 one of the main objectives of this project was to create a modular application that could be improved in the future or coupled to other systems, the study and the corresponding documentation on the technologies used are also collected, including the one for libraries used and for the motion detection algorithms so that, in the future, we have a clear record of the reasons behind each design decision and of the internal workings of the program. For that purpose, this document includes, in addition to the aforementioned, all the development of the project with a specific explanation of the partial objectives into which the
@@ -33,6 +31,8 @@ process was divided for each of the meetings, carried out according to the agile
 
 {% include gallery.html caption="This is a sample gallery to go along with this case study." %}
 
-This project has been carried out in collaboration with HP-SCDS.
+This project has been carried out in collaboration with HP-SCDS, receiving a final grade of 9.5/10.
 
-https://hpscds.com/xv-observatorio-hp-2020/
+Was developed as my Final Degree Project, receiving a final grade of 9.8/10.
+
+Was recognised as one of the [finalist of the HP SCDS Awards](https://hpscds.com/xv-observatorio-hp-2020/).
