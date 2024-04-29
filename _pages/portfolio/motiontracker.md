@@ -42,7 +42,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-[**HP SCDS Project** <i class="fa-brands fa-itch-io"></i>](https://hpscds.com/innovacion/observatorio-tecnologico/observatorio-hp-18-19/#MotionTracker) ||| [**HP SCDS Awards** <i class="fa-brands fa-github"></i>](https://hpscds.com/xv-observatorio-hp-2020/)
+[**HP SCDS Project** <i class="fa-solid fa-print"></i>](https://hpscds.com/innovacion/observatorio-tecnologico/observatorio-hp-18-19/#MotionTracker) ||| [**HP SCDS Awards** <i class="fa-solid fa-award"></i>](https://hpscds.com/xv-observatorio-hp-2020/)
 
 <div style="width: 70%; margin: auto;">
   <img src="/images/MotionTracker.png" alt="full" style="display: block; margin: auto; width: 100%;">
