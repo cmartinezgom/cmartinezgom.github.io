@@ -114,7 +114,7 @@ postgalleryModding:
     alt: "placeholder image 3"
     caption: "[Pokémon, but you can only buy Pokémon](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+    image_path: /images/mods/ratchetbolts.png
     alt: "placeholder image 3"
     caption: "[Ratchet & Clank, but you die when bolts-timer gets to 0](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
@@ -126,11 +126,11 @@ postgalleryModding:
     alt: "placeholder image 3"
     caption: "[Pokémon Xamorlocke (Custom BDSP ROM)](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/mods/comprarpokemon.png
     alt: "placeholder image 3"
     caption: "[Pokémon, but you loose health with every step](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/mods/comprarpokemon.png
     alt: "placeholder image 3"
     caption: "[Pokémon BDSP Simple Randomizer and 0 Exp](/portfolio/flashyourfears/)"
 ---
