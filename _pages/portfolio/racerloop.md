@@ -34,6 +34,7 @@ gallery:
 <a href="https://youtu.be/fLouIlEPH-s" class="button" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Trailer <i class="fa-brands fa-youtube"></i></a>
 
 
+
 <div style="width: 70%; margin: auto;">
   <img src="/images/Racerloop1.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
