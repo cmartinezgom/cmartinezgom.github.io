@@ -84,7 +84,7 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Simple VFX<br>(Shaders and Particles)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/csumb/character/R-0L1concepts2.jpg
+    image_path: /images/csumb/character/R-0L1concepts.jpg
     alt: "placeholder image 3"
     caption: "[R0L-1<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
@@ -104,7 +104,7 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Dark Star<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/csumb/environment/image2.png
+    image_path: /images/csumb/environment/image2_2.png
     alt: "placeholder image 3"
     caption: "[Hellcat from Jak 3<br>(Environment Modeling Course)](/portfolio/katergarislabyrinth/)"
   
