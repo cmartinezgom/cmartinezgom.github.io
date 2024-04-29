@@ -19,6 +19,12 @@ gallery:
 
 ---
 
+[**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://cmartinezgom.itch.io/flash-your-fears) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://youtu.be/fLouIlEPH-s) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://itch.io/jam/brackeys-7)
+
+<div style="width: 70%; margin: auto;">
+  <img src="/images/MotionTracker.png" alt="full" style="display: block; margin: auto; width: 100%;">
+</div>
+
 ![full](/images/MotionTracker.gif){: full}
 
 This project gathers all the development that has been carried out for a year and a half for the realization of an application capable of tracking a moving object with a camera also in motion. The program has been developed using the Python programming language and the OpenCV library, both the treatment of videos and images and the implementation of the detection algorithms. Since
