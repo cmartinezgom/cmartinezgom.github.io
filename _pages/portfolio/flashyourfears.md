@@ -25,19 +25,18 @@ gallery:
 
 Flash Your Fears is a **Unity Survival 2D game** in which you fight ghosts using only your flashlight!
 
-It was developed by me and three other friends in **only one week** for Brackeys’ Game Jam 2022.1.
+It was developed by me and three other friends in **only one week** for [Brackeys’ Game Jam 2022.1. following the theme "It Is Not Real"](https://itch.io/jam/brackeys-7).
 
-As back then I was the member with the most gamedev and programming experience, I was like the **director, lead designer and lead programmer** of the game.
+As back then I was the member with the most gamedev and programming experience, I was the **director, lead designer (environment, level, audio...) and lead programmer** of the game.
 
-It's a pretty short game, so try it out here!
+In Flash Your Fears you play as Gwen, a small girl that has to explore a haunted house to find her friend Boo. Gwen can use Mark's flashlight to 
+
+It's a pretty short game and I built it using Unity WebGL, so try it out here!
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" allowfullscreen=""></iframe>
 </div>
 
-
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
-
-{% include gallery.html caption="This is a sample gallery to go along with this case study." %}
-
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+{% include gallery.html caption="Flash Your Fear screenshots." %}
