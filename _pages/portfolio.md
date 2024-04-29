@@ -22,7 +22,7 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[Flash Your Fears<br>(Game Jam)](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/uoc/labyrinth/image17.jpg
+    image_path: /images/uoc/labyrinth/image17.png
     alt: "placeholder image 3"
     caption: "[Katergáris' Labyrinth<br>(Master's Thesis)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
@@ -68,7 +68,7 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[Flash Your Fears<br>(Game Jam)](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/uoc/labyrinth/image17.jpg
+    image_path: /images/uoc/labyrinth/image17.png
     alt: "placeholder image 3"
     caption: "[Katergáris' Labyrinth<br>(Master's Thesis)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
