@@ -53,6 +53,9 @@ I had contributions all along the game since the first prototypes, but **my main
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-5-32998c4530.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
+<div style="width: 50%; margin: auto;">
+  <img src="/images/racerloop/ezgif-2-50eed2125b.gif" alt="full" style="display: block; margin: auto; width: 100%;">
+</div>
 
 - **Testing Automation**: Automatic Testing of the game using Unity Test Framework.
 <div style="width: 50%; margin: auto;">
