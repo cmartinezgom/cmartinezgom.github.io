@@ -38,7 +38,7 @@ I worked on **Racerloop** at Maniac Panda Games as a **Junior Unity Programmer**
 
 I had contributions all along the game since the first prototypes, but **my main work** was in:
 
-- **AI Players**: I implemented almost everything that had to do with AI ships. Their movement, pathfinding, progress tracking, obstacle avoidance, power-up usage, ideal racing lane, AI skill, fine tunning, testing...
+- **AI Systems**: I implemented almost everything that had to do with AI players. Their movement, pathfinding, progress tracking, obstacle avoidance, power-up usage, ideal racing lane, AI skill, fine tunning, testing...
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-1-b6f170d22e.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
