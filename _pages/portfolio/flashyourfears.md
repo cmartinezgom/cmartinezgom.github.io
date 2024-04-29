@@ -23,9 +23,11 @@ gallery:
   <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-<!--
-<iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" allowfullscreen="" width="1920" height="1100"><a href="https://cmartinezgom.itch.io/flash-your-fears">Play Flash your Fears on itch.io</a></iframe>
--->
+Flash Your Fears is a Survival 2D game in which you fight ghosts using only your flashlight!
+
+It was developed by me and three other friends in only one week for Brackeys’ Game Jam 2022.1. using Unity.
+
+As back then I was the member with the most gamedev and programming experience, I was like the director, lead designer and lead programmer of the game.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" allowfullscreen=""></iframe>
