@@ -68,7 +68,7 @@ gallery:
     image_path: /images/flashyourfears/particlepixelartfire.png
     alt: "placeholder image 3"
 ---
-[**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://cmartinezgom.itch.io/flash-your-fears) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://youtu.be/fLouIlEPH-s) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://itch.io/jam/brackeys-7)
+[**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://cmartinezgom.itch.io/flash-your-fears) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/cmartinezgom/ItsNotReal/tree/masters) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://itch.io/jam/brackeys-7)
 
 <div style="width: 70%; margin: auto;">
   <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
