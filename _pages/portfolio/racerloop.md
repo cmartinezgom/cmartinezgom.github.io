@@ -45,11 +45,13 @@ I had contributions all along the game since the first prototypes, but my main w
 <br>![full](/images/racerloop/ezgif-2-ce9b629215.gif){: .align-center}
 
 - **Synchronous Online Game Mode**: I developed the first full-working prototype of the Synchronous Online Game Mode, this included working both on Unity Networking and UI. Implementing the Online Screen, the lobbies, remote connection, player synchronization, race progress, AI players and power up sync, reconnection handling...
+<br>![full](/images/racerloop/ezgif-3-2279a6cc27.gif){: .align-center}
 
 
 - PlayFab: Implementation of PlayFab’s server initial login, user save and load along with their statistics, global leaderboards...
 
 - Gameplay Systems: Player Orbital Camera with Spring Damper System, Ship’s hovering, Power Ups, Debug Renderer, AbstractInputs...
+<br>![full](/images/racerloop/ezgif-2-6595f0e17e.gif){: .align-center}
 
 - Testing Automation: Automatic Testing of the game using Unity Test Framework.
 
@@ -59,9 +61,9 @@ I had contributions all along the game since the first prototypes, but my main w
 
 - Offline Build: Worked on adapting back-end services from the server into the file system. Just for events with no internet connection.
 
-- Hovering System: Developed the prorotype for the ship's hovering system.
-
 - Dynamic Gravity System: Developed the dynamic gravity sistem for the zero-gravity races.
+<br>![full](/images/racerloop/ezgif-5-32998c4530.gif){: .align-center}
+
 
 - Simple VFX: Simple shaders and particles.
 
