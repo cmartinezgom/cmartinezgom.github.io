@@ -126,7 +126,7 @@ postgalleryModding:
     alt: "placeholder image 3"
     caption: "[Pokémon Xamorlocke (Custom BDSP ROM)](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/mods/comprarpokemon.png
+    image_path: /images/mods/pokemonpoison.png
     alt: "placeholder image 3"
     caption: "[Pokémon, but you loose health with every step](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
