@@ -10,11 +10,11 @@ postgalleryProfProgramming:
   - url: /portfolio/racerloop/
     image_path: /images/Racerloop1.jpg
     alt: "placeholder image 1"
-    caption: "[Racerloop<br>(Junior Unity Programmer)](/portfolio/racerloop/)"
+    caption: "[**Racerloop**<br>(Junior Unity Programmer)](/portfolio/racerloop/)"
   - url: /portfolio/motiontracker/
     image_path: /images/MotionTracker_2.png
     alt: "placeholder image 2"
-    caption: "[MotionTracker<br>(Software Engineering Intern)](/portfolio/motiontracker/)"
+    caption: "[**MotionTracker**<br>(Software Engineering Intern)](/portfolio/motiontracker/)"
 
 postgalleryProgramming:
   - url: /portfolio/flashyourfears/
