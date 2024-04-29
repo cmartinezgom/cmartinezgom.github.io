@@ -34,16 +34,16 @@ I worked on **Racerloop** at Maniac Panda Games as a **Junior Unity Programmer**
 
 I had contributions all along the game since the first prototypes, but my main work was in:
 - **AI Players**: I implemented almost everything that had to do with AI ships. Their movement, pathfinding, progress tracking, obstacle avoidance, power-up usage, ideal racing lane, AI skill, fine tunning, testing...
-<br>![full](/images/racerloop/ezgif-1-b6f170d22e.gif){: .align-center}
+<br>![full](/images/racerloop/ezgif-1-b6f170d22e.gif){: .align-center width="50%" height="auto"}
 
 - **Synchronous Online Game Mode**: I developed the first full-working prototype of the Synchronous Online Game Mode, this included working both on Unity Networking and UI. Implementing the Online Screen, the lobbies, remote connection, player synchronization, race progress, AI players and power up sync, reconnection handling...
-<br>![full](/images/racerloop/ezgif-3-2279a6cc27.gif){: .align-center}
+<br>![full](/images/racerloop/ezgif-3-2279a6cc27.gif){: .align-center width="50%" height="auto"}
 
 - **Gameplay Systems**: Player Orbital Camera with Spring Damper System, Ship’s hovering, Power Ups, Debug Renderer, AbstractInputs, Dynamic Gravity System...
-<br>![full](/images/racerloop/ezgif-2-6595f0e17e.gif){: .align-left} ![full](/images/racerloop/ezgif-5-32998c4530.gif){: .align-right}
+<br>![full](/images/racerloop/ezgif-2-6595f0e17e.gif){: .align-left width="50%" height="auto"} ![full](/images/racerloop/ezgif-5-32998c4530.gif){: .align-right width="50%" height="auto"}
 
 - **Testing Automation**: Automatic Testing of the game using Unity Test Framework.
-<br>![full](/images/racerloop/racerlooptests.png){: .align-center width="40%" height="auto"}
+<br>![full](/images/racerloop/racerlooptests.png){: .align-center width="50%" height="auto"}
 
 - **UI implementation**: Login, Leaderboards, Online and Lobby screens, as well as a general modular pop up error window.
 
