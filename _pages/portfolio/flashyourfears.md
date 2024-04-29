@@ -74,7 +74,7 @@ gallery:
   <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-Face your nightmares in this spooky 2D Unity survival game in which you fight ghosts only using your flashlight!  
+Face your nightmares in this **spooky 2D Unity survival game** in which you fight ghosts only using your flashlight!  
 
 It was developed by me and three other friends in **only one week** for [Brackeys’ Game Jam 2022.1. following the theme "It Is Not Real"](https://itch.io/jam/brackeys-7).
 
