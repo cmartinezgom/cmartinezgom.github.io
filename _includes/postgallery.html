@@ -68,14 +68,14 @@
       <img src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       {% endif %}
-      {% if img.caption %}
-      <div class="desc">{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</div>
-      {% endif %}
     </div>
+    {% if img.caption %}
+    <div class="desc">{{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}</div>
+    {% endif %}
   </div>
   {% endfor %}
   <div class="clearfix"></div>
-  {% if include.caption %}
-  <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-  {% endif %}
 </div>
+{% if include.caption %}
+<figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+{% endif %}
