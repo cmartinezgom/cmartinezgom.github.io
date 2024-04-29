@@ -7,16 +7,39 @@ header:
   image: /images/MotionTracker.png
   teaser: /images/MotionTracker.png
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /images/motiontracker/MotionTracker.png
+    image_path: /images/motiontracker/MotionTracker.png
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /images/motiontracker/CSRTcoche1-ezgif.com-optimize.gif
+    image_path: /images/motiontracker/CSRTcoche1-ezgif.com-optimize.gif
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /images/motiontracker/image48.png
+    image_path: /images/motiontracker/image48.png
     alt: "placeholder image 3"
-
+  - url: /images/motiontracker/CSRTcoche2-ezgif.com-optimize.gif
+    image_path: /images/motiontracker/CSRTcoche2-ezgif.com-optimize.gif
+    alt: "placeholder image 3"
+  - url: /images/motiontracker/image44.png
+    image_path: /images/motiontracker/image44.png
+    alt: "placeholder image 3"
+  - url: /images/motiontracker/CSRT-ezgif.com-optimize.gif
+    image_path: /images/motiontracker/CSRT-ezgif.com-optimize.gif
+    alt: "placeholder image 3"
+  - url: /images/motiontracker/image12.png
+    image_path: /images/motiontracker/image12.png
+    alt: "placeholder image 3"
+  - url: /images/motiontracker/KNN-ezgif.com-optimize.gif
+    image_path: /images/motiontracker/KNN-ezgif.com-optimize.gif
+    alt: "placeholder image 3"
+  - url: /images/motiontracker/MOG2-ezgif.com-optimize.gif
+    image_path: /images/motiontracker/MOG2-ezgif.com-optimize.gif
+    alt: "placeholder image 3"
+  - url: /images/motiontracker/sustraccion-ezgif.com-optimize.gif
+    image_path: /images/motiontracker/sustraccion-ezgif.com-optimize.gif
+    alt: "placeholder image 3"
+  - url: /images/motiontracker/hpawards.jpg
+    image_path: /images/motiontracker/hpawards.jpg
+    alt: "placeholder image 3"
 ---
 
 [**HP SCDS Project** <i class="fa-brands fa-itch-io"></i>](https://hpscds.com/innovacion/observatorio-tecnologico/observatorio-hp-18-19/#MotionTracker) ||| [**HP SCDS Awards** <i class="fa-brands fa-github"></i>](https://hpscds.com/xv-observatorio-hp-2020/)
@@ -25,14 +48,17 @@ gallery:
   <img src="/images/MotionTracker.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-This project gathers all the development that has been carried out for a year and a half for the realization of an application capable of tracking a moving object with a camera also in motion. The program has been developed using the Python programming language and the OpenCV library, both the treatment of videos and images and the implementation of the detection algorithms. Since
-one of the main objectives of this project was to create a modular application that could be improved in the future or coupled to other systems, the study and the corresponding documentation on the technologies used are also collected, including the one for libraries used and for the motion detection algorithms so that, in the future, we have a clear record of the reasons behind each design decision and of the internal workings of the program. For that purpose, this document includes, in addition to the aforementioned, all the development of the project with a specific explanation of the partial objectives into which the
-process was divided for each of the meetings, carried out according to the agile methodology. Finally, further possible improvements or extensions of this application are proposed, such as the implementation of deep learning with some of the investigated libraries or the coupling to a mechanical system to carry out a fully automated target tracking thanks to the current operation of the program’s code.
+The MotionTracker project, part of my Internship with HP-SCDS during my Computer Science degree, encompassed the development of a **modular, Python-based application capable of tracking moving objects** with a camera, even when the camera itself is in motion. Built utilizing the **OpenCV library**, it included an **extensive documentation and investigation** on design decisions, algorithms, and utilized technologies.
 
-{% include gallery.html caption="This is a sample gallery to go along with this case study." %}
+This **emphasis on documentation** ensured an ease of future enhancements or **integration into larger systems**. Developed iteratively using **agile methodologies**, the project was highly successful:
 
-This project has been carried out in collaboration with HP-SCDS, receiving a final grade of 9.5/10.
+- **HP SCDS Internship**: Received a grade of **9.5/10**.
+- **Final Degree Project**: Awarded a grade of **9.8/10**.
+- **Industry Recognition**: Selected as a [**finalist in the HP SCDS Awards**](https://hpscds.com/xv-observatorio-hp-2020/).
 
-Was developed as my Final Degree Project, receiving a final grade of 9.8/10.
+{% include gallery.html caption="Work samples of MotionTracker using different tracking algorithms." %}
 
-Was recognised as one of the [finalist of the HP SCDS Awards](https://hpscds.com/xv-observatorio-hp-2020/).
+**Key Features & Future Directions**
+- **Robust Object Tracking**: Tracks targets in dynamic environments.
+- **Extensive Documentation**: Facilitates future development and understanding.
+- **Potential Enhancements**: Exploration of deep learning integration for advanced tracking, or coupling the system with mechanical components to enable fully automated target tracking.
