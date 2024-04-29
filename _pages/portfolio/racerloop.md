@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "🚀 Junior Unity Programmer for Racerloop @ Maniac Panda Games"
-excerpt: "Unity3D PC-mobile arcade racing game."
+excerpt: "Unity3D PC-mobile arcade racing game"
 permalink: /portfolio/racerloop/
 header:
   image: /images/Racerloop1.jpg
@@ -27,7 +27,13 @@ gallery:
     alt: "Racerloop Screenshot"
 ---
 
+[Web <i class="fa-solid fa-globe"></i>](https://www.racerloop.com/) | [Trailer <i class="fa-brands fa-youtube"></i>](https://youtu.be/fLouIlEPH-s)
+
 ![full](/images/Racerloop1.jpg){: full}
+
+<div style="width: 70%; margin: auto;">
+  <img src="/images/Racerloop1.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
+</div>
 
 I worked on **Racerloop** at Maniac Panda Games as a **Junior Unity Programmer**.
 <br><br>Racerloop is a **PC/mobile 3D arcade zero-gravity racing game** with ship-building components, developed using **Unity (C#)**. We were a small remote-based team where I had to work both under lead directions and on my own.

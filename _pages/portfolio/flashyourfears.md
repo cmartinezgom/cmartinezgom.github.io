@@ -19,7 +19,9 @@ gallery:
 
 ---
 
-![full](/images/FlashYourFears.jpg){: full}
+<div style="width: 70%; margin: auto;">
+  <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
+</div>
 
 <!--
 <iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" allowfullscreen="" width="1920" height="1100"><a href="https://cmartinezgom.itch.io/flash-your-fears">Play Flash your Fears on itch.io</a></iframe>
