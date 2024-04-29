@@ -42,7 +42,7 @@ I worked on Racerloop at Maniac Panda Games as a Junior Unity Programmer.
 
 I had contributions all along the game since the first prototypes, but my main work was in:
 - **AI Players**: I implemented almost everything that had to do with AI ships. Their movement, pathfinding, progress tracking, obstacle avoidance, powe-up usage, ideal racing lane, AI skill, fine tunning, testing...
-![full](/images/racerloop/ezgif-2-ce9b629215.gif){: .align-center}
+<br>![full](/images/racerloop/ezgif-2-ce9b629215.gif){: .align-center}
 
 - **Synchronous Online Game Mode**: I developed the first full-working prototype of the Synchronous Online Game Mode, this included working both on Unity Networking and UI. Implementing the Online Screen, the lobbies, remote connection, player synchronization, race progress, AI players and power up sync, reconnection handling...
 
