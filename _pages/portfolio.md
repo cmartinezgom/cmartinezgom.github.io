@@ -118,7 +118,7 @@ postgalleryModding:
     alt: "placeholder image 3"
     caption: "[Ratchet & Clank, but you die when bolts-timer gets to 0](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/mods/robarpokemon.jpg
     alt: "placeholder image 3"
     caption: "[Pokémon, but you steal the oponent's team](/portfolio/flashyourfears/)"
   - url: /portfolio/flashyourfears/
