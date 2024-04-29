@@ -54,7 +54,7 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[Reinforced Learning<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
-    image_path: /images/uoc/multi/image5.png
+    image_path: /images/uoc/multi/image5_2.png
     alt: "placeholder image 3"
     caption: "[Tanks Online and Local<br>(Multiplayer Games Course)](/portfolio/katergarislabyrinth/)"
   - url: /portfolio/katergarislabyrinth/
