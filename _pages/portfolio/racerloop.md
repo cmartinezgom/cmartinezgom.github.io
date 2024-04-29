@@ -45,7 +45,7 @@ I had contributions all along the game since the first prototypes, but **my main
 
 - **Testing Automation**: Automatic Testing of the game using Unity Test Framework.
 <div style="width: 50%; margin: auto;">
-  <br>![full](/images/racerloop/racerlooptests.png){: style="display: block; margin: 30%; width="50%"}
+  <img src="/images/racerloop/racerlooptests.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
 - **UI implementation**: Login, Leaderboards, Online and Lobby screens, as well as a general modular pop up error window.
