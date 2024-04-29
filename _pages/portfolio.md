@@ -110,7 +110,7 @@ postgalleryDesign:
   
 postgalleryModding:
   - url: /portfolio/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+    image_path: /images/mods/comprarpokemon.png
     alt: "placeholder image 3"
     caption: "[Pokémon, but you can only buy Pokémon](/portfolio/flashyourfears/)"
   - url: /portfolio/katergarislabyrinth/
