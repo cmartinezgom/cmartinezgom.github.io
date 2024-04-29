@@ -30,7 +30,7 @@ gallery:
 ![full](/images/Racerloop1.jpg){: full}
 
 I worked on **Racerloop** at Maniac Panda Games as a **Junior Unity Programmer**.
-<br><br>Racerloop is a PC 3D arcade zero-gravity racing game with ship-building components, developed using Unity (C#). We were a small remote-based team where I had to work both under lead directions and on my own.
+<br><br>Racerloop is a **PC/mobile 3D arcade zero-gravity racing game** with ship-building components, developed using **Unity (C#)**. We were a small remote-based team where I had to work both under lead directions and on my own.
 
 I had contributions all along the game since the first prototypes, but my main work was in:
 - **AI Players**: I implemented almost everything that had to do with AI ships. Their movement, pathfinding, progress tracking, obstacle avoidance, power-up usage, ideal racing lane, AI skill, fine tunning, testing...
@@ -57,5 +57,4 @@ I had contributions all along the game since the first prototypes, but my main w
 
 {% include gallery.html caption="Images from the Racerloop.com webpage." %}
 
-You can play the demo at the Racerloop webpage or Wishlist the game in the Epic Store:
-https://store.epicgames.com/en-US/p/racerloop-4d3ab2
+You can play the demo at the Racerloop webpage or Wishlist the game in the [Epic Store](https://store.epicgames.com/en-US/p/racerloop-4d3ab2).
