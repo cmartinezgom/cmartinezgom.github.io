@@ -155,7 +155,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
      <img src="/images/FlashYourFears.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Diverse <strong><a href="/portfolio/">personal and educational projects</a></strong> in game development and modding demonstrate my adaptability across various games and languages.<br><br>Examples include: C# (Unity), C++ (Unreal Engine 4 and 5), C modding (Pokémon), Java modding (Minecraft), Lua scripting (Ratchet & Clank)...</p>
+  <p style="margin-left: 20px;">Diverse <strong><a href="/portfolio/#programming-section">personal and educational projects</a></strong> in game development and modding demonstrate my adaptability across various games and languages.<br><br>Examples include: C# (Unity), C++ (Unreal Engine 4 and 5), C modding (Pokémon), Java modding (Minecraft), Lua scripting (Ratchet & Clank)...</p>
 </div>
 
 <!--
