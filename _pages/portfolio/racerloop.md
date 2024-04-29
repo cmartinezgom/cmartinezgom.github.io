@@ -40,8 +40,7 @@ I had contributions all along the game since the first prototypes, but my main w
 <br>![full](/images/racerloop/ezgif-3-2279a6cc27.gif){: .align-center}
 
 - **Gameplay Systems**: Player Orbital Camera with Spring Damper System, Ship’s hovering, Power Ups, Debug Renderer, AbstractInputs, Dynamic Gravity System...
-<br>![full](/images/racerloop/ezgif-2-6595f0e17e.gif){: .align-right}
-<br>![full](/images/racerloop/ezgif-5-32998c4530.gif){: .align-left}
+<br>![full](/images/racerloop/ezgif-2-6595f0e17e.gif){: .align-left} ![full](/images/racerloop/ezgif-5-32998c4530.gif){: .align-right}
 
 - **Testing Automation**: Automatic Testing of the game using Unity Test Framework.
 <br>![full](/images/racerloop/racerlooptests.png){: .align-center width="33%" height="auto"}
