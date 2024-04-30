@@ -254,23 +254,15 @@ Courses:
 
 - **Game Development Courses**: Completed specialization training in Unreal Engine, Unity, gamification, and more.
 
- Unreal Engine 5
-02/2024, by Carlos
-Coronado (Udemy)
- Unreal Engine 4
-12/2023, by Carlos
-Coronado (Udemy)
- C++ Programming for
-Unreal Game Development Specialization
-11/2023, by the University of Colorado
-System (Coursera)
- Design, organization
-and evaluation of
-video games and gamification
-2017, by the European
-University of Madrid
-(Miriadax)
- Unity3D
+- Unreal Engine 5
+02/2024, by Carlos Coronado (Udemy)
+- Unreal Engine 4
+12/2023, by Carlos Coronado (Udemy)
+- C++ Programming for Unreal Game Development Specialization
+11/2023, by the University of Colorado System (Coursera)
+- Design, organization and evaluation of video games and gamification
+2017, by the European University of Madrid (Miriadax)
+- Unity3D
 2016, by the University of León
 
 
@@ -290,7 +282,7 @@ University of Madrid
 
 - **Bilingual Education (English-Spanish)**. Primary and Secondary Education within the **M.E.C./British Council agreement**.
 
-- ESTALMAT CyL Program Participant: Selected for the **Stimulation of Mathematical Talent Project**.
+- ESTALMAT CyL Program Participant: Selected for the **Stimulation of Mathematical Talent Project**. 2008 - 2012
 
 - **Academic Competitions**: Participated in tournaments focused on mathematics, physics, and grammar.
 
