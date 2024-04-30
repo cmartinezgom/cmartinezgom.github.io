@@ -84,7 +84,7 @@ Here you'll find my education divided into three categories: <a href="#education
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Many practical projects that covered 2D and 3D programming (sprites, animations), multiplayer games, game design, level design, UI design, and AI.<br><br>**Master’s Thesis**: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>, a 2D dungeon crawler roguelite that had a unique twist in its mythological greek setting. All the programming and design was done by me.<br><br>
+  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Many practical projects that covered 2D and 3D programming (sprites, animations), multiplayer games, game design, level design, UI design, and AI.<br><br>**Master’s Thesis**: Developed the video game <a href="/portfolio/katergarislabyrinth/"><strong>Katergaris’ Labyrinth</strong></a>, a 2D dungeon crawler roguelite made with Unity that had a unique twist in its mythological greek setting. All the programming and design was done by me.<br><br>
   </p>
 </div>
 
@@ -154,7 +154,7 @@ Courses (Computer Science):
      <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems.<br>Culminated my studies with the <a href="/portfolio/motiontracker/">**MotionTracker**</a> project during a **Software Engineering Internship at HP SCDS**, earning a 9.8/10 grade.
+  <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems.<br>Culminated my studies with the <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a> project during a <strong>Software Engineering Internship at HP SCDS</strong>, earning a 9.8/10 grade.
   
   This degree allowed me to practise the controlled-entry profession of computer engineer. Programmes in Computing are widespread in most universities in the world that offer qualifications in Engineering.
   </p>
@@ -209,7 +209,7 @@ The areas studied in such programmes are wide-ranging:
   - Final Year Project: MotionTracker: Target Tracking System with Camera in Motion (9.8)
 
 
-  Taken Courses at Universities abroad in mobility Programs
+  Taken Courses at Universities abroad in mobility Program:
   - Neural and Evolutional Computation (10)
   - Computer Animation (10)
   - Technological Innovation (10)
