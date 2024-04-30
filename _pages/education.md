@@ -84,19 +84,20 @@ Here you'll find my education divided into three categories: <a href="#education
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.
-  Courses:
-  - Game Design (9)
-  - Video game Media (8,8)
-  - Design of User Experience and Interfaces (8)
-  - Video Game Artificial Intelligence (9,2)
-  - Multiplayer Games (5,9)
-  - Modding and Level Design (8)
-  - 2D Video Game Programming (9)
-  - 3D Video Game Programming (9.5)
-  - TFM in Game Experience Design (9)
+  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Many practical projects that covered 2D and 3D programming (sprites, animations), multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.<br><br>
   </p>
 </div>
+
+Courses, all grades over 10:
+- Game Design (9)
+- Video game Media (8,8)
+- Design of User Experience and Interfaces (8)
+- Video Game Artificial Intelligence (9,2)
+- Multiplayer Games (5,9)
+- Modding and Level Design (8)
+- 2D Video Game Programming (9)
+- 3D Video Game Programming (9.5)
+- TFM in Game Experience Design (9)
 
 {% include gallery.html caption="Programming education." id="galleryUOC" %}
 
@@ -104,7 +105,16 @@ Here you'll find my education divided into three categories: <a href="#education
 08/2019 – 01/2020 | Seaside, CA, USA
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">Studied abroad</a> for a semester in California, focusing on <strong>Computer Science, Game Design, and Cinematic Arts Technology</strong>.<br>Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
+  <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">Studied abroad</a> for a semester in California, focusing on <strong>Computer Science, Game Design, and Cinematic Arts Technology</strong>.<br>
+  </p>
+ <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
+   <a href="/portfolio/motiontracker/">
+     <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+   </a>
+ </div>
+</div>
+
+Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
   Modelling (A+), Character Design (A+) and Game Design II (A).
   Courses (Computer Science):
   - Graphics Programming (A+)
@@ -116,13 +126,6 @@ Here you'll find my education divided into three categories: <a href="#education
 
   Courses (Cinematics Arts Technology):
   - The Art of Storytelling (A+)
-  </p>
- <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
-   <a href="/portfolio/motiontracker/">
-     <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-   </a>
- </div>
-</div>
 
 {% include gallery.html caption="Design education." id="galleryCSUMB" %}
 
@@ -140,7 +143,11 @@ Here you'll find my education divided into three categories: <a href="#education
   Strong and wide grounding in the basic principles of maths, programming in different languages and design patterns.
 
   This degree allows its graduates to practise the controlled-entry profession of computer engineer. Programmes in Computing are widespread in most universities in the world
-  that offer qualifications in Engineering. The areas studied in such programmes are wide-ranging:
+  that offer qualifications in Engineering.
+  </p>
+</div>
+
+The areas studied in such programmes are wide-ranging:
   Software engineering.
   Databases.
   Programming.
@@ -198,33 +205,12 @@ Here you'll find my education divided into three categories: <a href="#education
   Technological Innovation (10)
   Grid Computing and Supercomputing (10)
   Artificial Vision (9.5)
-  
-  </p>
-</div>
 
 ### <i class="fa-solid fa-calculator"></i> Dual Degree in Mathematics and Computer Science
 09/2014 – 06/2016 | Valladolid, Spain @ University of Valladolid
 
 <div style="display: flex;">
   <p style="margin-right: 20px;">Developed a <strong>robust foundation in mathematics</strong> (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core Software Engineering principles. Completed 93 credits.
-  
-  Courses:
-  - Lineal Algebra and Geometry
-  - Infinitesimal Calculus
-  - Basic Mathematics
-  - Elements of Probability and Descriptive Statistics
-  - Computer Science
-  - Numeric Calculus
-  - Introduction to Operative Investigation
-  - General Physics
-  - Computer Structure and Technology (3º)
-  - Automatic Treatment of Information
-  - Differential Equations (2º)
-  - Applied Mathematics to Natural and Social Sciences (2º)
-  - Usage of Operative Systems (3º)
-
-  93 credits
-  
   </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
@@ -232,6 +218,21 @@ Here you'll find my education divided into three categories: <a href="#education
    </a>
  </div>
 </div>
+
+Courses:
+- Lineal Algebra and Geometry
+- Infinitesimal Calculus
+- Basic Mathematics
+- Elements of Probability and Descriptive Statistics
+- Computer Science
+- Numeric Calculus
+- Introduction to Operative Investigation
+- General Physics
+- Computer Structure and Technology (3º)
+- Automatic Treatment of Information
+- Differential Equations (2º)
+- Applied Mathematics to Natural and Social Sciences (2º)
+- Usage of Operative Systems (3º)
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
