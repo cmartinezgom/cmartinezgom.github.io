@@ -45,6 +45,8 @@ postgalleryDesign:
 
 Here you'll find my education divided into three categories: <a href="#education-section">Education</a>, <a href="#courses-section">Courses</a> and <a href="#additional-section">Additional Education</a>.
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 <div align="center" id="education-section">
 
   <h2>🎓 Education</h2>
@@ -115,6 +117,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 - **Game Development Courses**: Completed specialization training in Unreal Engine, Unity, gamification, and more.
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="courses-section">
 
@@ -122,6 +125,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="additional-section">
 
@@ -136,3 +140,6 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a [knife fight](/education/racerloop/).
 
 {% include postgallery.html caption="Design education." id="postgalleryDesign" %}
+
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
