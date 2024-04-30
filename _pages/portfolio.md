@@ -25,42 +25,42 @@ postgalleryProgramming:
     image_path: /images/uoc/labyrinth/image17.png
     alt: "placeholder image 3"
     caption: "[**Katergáris' Labyrinth**<br>(Master's Thesis)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+  - url: /portfolio/programming/
     image_path: /images/uoc/3d/timeracermenu.png
     alt: "placeholder image 3"
-    caption: "[**Time Racer**<br>(3D Programming Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+    caption: "[**Time Racer**<br>(3D Programming Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/uoc/2d/descentmain.png
     alt: "placeholder image 3"
-    caption: "[**Descent**<br>(2D Programming Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+    caption: "[**Descent**<br>(2D Programming Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/uoc/3d/labmaze6.png
     alt: "placeholder image 3"
-    caption: "[**Lab Mace**<br>(3D Programming Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+    caption: "[**Lab Mace**<br>(3D Programming Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/uoc/2d/mariounity.png
     alt: "placeholder image 3"
-    caption: "[**Super Mario Bros. replica in Unity**<br>(2D Programming Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+    caption: "[**Super Mario Bros. replica in Unity**<br>(2D Programming Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/uoc/ia/maze2.png
     alt: "placeholder image 3"
-    caption: "[**Labyrinth Crawler**<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+    caption: "[**Labyrinth Crawler**<br>(AI for Video Games Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/uoc/ia/plaza2.png
     alt: "placeholder image 3"
-    caption: "[**Town Plaza AI**<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+    caption: "[**Town Plaza AI**<br>(AI for Video Games Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/uoc/ia/image27_2.png
     alt: "placeholder image 3"
-    caption: "[**Reinforced Learning**<br>(AI for Video Games Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+    caption: "[**Reinforced Learning**<br>(AI for Video Games Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/uoc/multi/image5_2.png
     alt: "placeholder image 3"
-    caption: "[**Tanks Online and Local**<br>(Multiplayer Games Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/katergarislabyrinth/
+    caption: "[**Tanks Online and Local**<br>(Multiplayer Games Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
     alt: "placeholder image 3"
-    caption: "[**2D Zombie Survival**<br>(Game Design Course)](/portfolio/katergarislabyrinth/)"
+    caption: "[**2D Zombie Survival**<br>(Game Design Course)](/portfolio/programming/)"
 
 postgalleryDesign:
   - url: /portfolio/flashyourfears/
@@ -71,42 +71,42 @@ postgalleryDesign:
     image_path: /images/uoc/labyrinth/image17.png
     alt: "placeholder image 3"
     caption: "[**Katergáris' Labyrinth**<br>(Master's Thesis)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+  - url: /portfolio/design/
     image_path: /images/uoc/level/portal/LevelDesignPortalLvl3.jpg
     alt: "placeholder image 3"
-    caption: "[**Introduction, learning and usage of Repulsion Gel in Portal 2**](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+    caption: "[**Introduction, learning and usage of Repulsion Gel in Portal 2**](/portfolio/design/)"
+  - url: /portfolio/design/
     image_path: /images/uoc/level/image1_2.png
     alt: "placeholder image 3"
-    caption: "[**Ratchet & Clank-like planet**<br>(Level Design Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+    caption: "[**Ratchet & Clank-like planet**<br>(Level Design Course)](/portfolio/design/)"
+  - url: /portfolio/design/
     image_path: /images/shaders.png
     alt: "placeholder image 3"
-    caption: "[**Simple VFX**<br>(Shaders and Particles)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+    caption: "[**Simple VFX**<br>(Shaders and Particles)](/portfolio/design/)"
+  - url: /portfolio/design/
     image_path: /images/csumb/character/R-0L1concepts.jpg
     alt: "placeholder image 3"
-    caption: "[**R0L-1**<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+    caption: "[**R0L-1**<br>(Character Design Course)](/portfolio/design/)"
+  - url: /portfolio/design/
     image_path: /images/uoc/media/boceto3RP1NCHOtecnico.jpg
     alt: "placeholder image 3"
-    caption: "[**3R P1NCH0**<br>(Media for Videogames Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+    caption: "[**3R P1NCH0**<br>(Media for Videogames Course)](/portfolio/design/)"
+  - url: /portfolio/design/
     image_path: /images/uoc/media/BocetoSalvatoreDeIngranaggiotecnico.jpg
     alt: "placeholder image 3"
-    caption: "[**Salvatore DeIngranaggio**<br>(Media for Videogames Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+    caption: "[**Salvatore DeIngranaggio**<br>(Media for Videogames Course)](/portfolio/design/)"
+  - url: /portfolio/design/
     image_path: /images/csumb/environment/Render1.jpg
     alt: "placeholder image 3"
-    caption: "[**Astropolis**<br>(Environment Modeling Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+    caption: "[**Astropolis**<br>(Environment Modeling Course)](/portfolio/design/)"
+  - url: /portfolio/design/
     image_path: /images/csumb/character/Turnaround.jpg
     alt: "placeholder image 3"
-    caption: "[**Dark Star**<br>(Character Design Course)](/portfolio/katergarislabyrinth/)"
-  - url: /portfolio/flashyourfears/
+    caption: "[**Dark Star**<br>(Character Design Course)](/portfolio/design/)"
+  - url: /portfolio/design/
     image_path: /images/csumb/environment/image2_2.png
     alt: "placeholder image 3"
-    caption: "[**Hellcat from Jak 3**<br>(Environment Modeling Course)](/portfolio/katergarislabyrinth/)"
+    caption: "[**Hellcat from Jak 3**<br>(Environment Modeling Course)](/portfolio/design/)"
   
 postgalleryModding:
   - url: /portfolio/modding/

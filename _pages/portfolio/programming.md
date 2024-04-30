@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "🔧 Modding"
-excerpt: "Some of my Modding Portfolio."
-permalink: /portfolio/modding/
+title: "💻 Programming Projects"
+excerpt: "Some of my Programming Portfolio."
+permalink: /portfolio/programming/
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpgW

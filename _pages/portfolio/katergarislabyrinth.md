@@ -31,6 +31,9 @@ gallery:
   - url: /images/uoc/labyrinth/image12.png
     image_path: /images/uoc/labyrinth/image12.png
     alt: "placeholder image 3"
+  - url: /images/uoc/labyrinth/image59.png
+    image_path: /images/uoc/labyrinth/image59.png
+    alt: "placeholder image 3"
 
 ---
 
