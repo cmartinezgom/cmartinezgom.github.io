@@ -151,8 +151,6 @@ Here you'll find my education divided into three categories: <a href="#education
   Web technologies.
   Computer security
 
-  {% include gallery.html caption="This is a sample gallery to go along with this case study." %}
-
   Courses:
 
   - Differential and Integral Calculus
