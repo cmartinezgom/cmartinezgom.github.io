@@ -207,7 +207,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;"><a href="/education/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
 
@@ -215,7 +215,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 08/2019 – 01/2020 | Seaside, CA, USA
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">Studied abroad</a> for a semester in California, focusing on <strong>Computer Science, Game Design, and Cinematic Arts Technology</strong>.<br>Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
+  <p style="margin-right: 20px;"><a href="/education/">Studied abroad</a> for a semester in California, focusing on <strong>Computer Science, Game Design, and Cinematic Arts Technology</strong>.<br>Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
