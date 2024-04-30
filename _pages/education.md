@@ -84,7 +84,7 @@ Here you'll find my education divided into three categories: <a href="#education
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Many practical projects that covered 2D and 3D programming (sprites, animations), multiplayer games, game design, level design, UI design, and AI.<br><br>**Master’s Thesis**: Developed the video game <a href="/portfolio/katergarislabyrinth/"><strong>Katergaris’ Labyrinth</strong></a>, a 2D dungeon crawler roguelite made with Unity that had a unique twist in its mythological greek setting. All the programming and design was done by me.<br><br>
+  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Many practical projects that covered 2D and 3D programming (sprites, animations), multiplayer games, game design, level design, UI design, and AI.<br><br><strong>Master’s Thesis</strong>: Developed the video game <a href="/portfolio/katergarislabyrinth/"><strong>Katergaris’ Labyrinth</strong></a>, a 2D dungeon crawler roguelite made with Unity that had a unique twist in its mythological greek setting. All the programming and design was done by me.<br><br>
   </p>
 </div>
 
