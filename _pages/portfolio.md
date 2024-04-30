@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "📂 My Portfolio"
+title: "💼 My Portfolio"
 excerpt: "Here you'll find most of my work both in Programming and Design!"
 permalink: /portfolio/
 header:
