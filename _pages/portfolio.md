@@ -181,3 +181,5 @@ Here you can find my **modding portfolio**.
 <br>Explore commissioned mods for professional content creators and independent projects spanning multiple games and programming languages.
 
 {% include postgallery.html caption="Modding Portfolio." id="postgalleryModding" %}
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">

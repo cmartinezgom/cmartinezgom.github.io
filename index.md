@@ -118,7 +118,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 
 <div align="center" id="experience-section">
 
-  <h2>💼 Experience</h2>
+  <h2>💻 Experience</h2>
 
 </div>
 
@@ -182,7 +182,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 <div style="text-align: center; margin-top: 30px;">
   <a href="/portfolio/" class="btn" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5); color: #000; text-decoration: none; padding: 10px 20px;">
-    For further details, please check my <strong>💻 Portfolio</strong>
+    For further details, please check my <strong>💼 Portfolio</strong>
   </a>
 </div>
 
