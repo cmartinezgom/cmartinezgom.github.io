@@ -34,6 +34,9 @@ gallery:
 
 ---
 
+> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+> **Under construction**.
+
 Katergáris’ Labyrinth is a 2D dungeon crawler videogame set in mithologycal Greece, where little Katergáris will have to go deep into the bowels of the well-known minotaur’s labyrinth to survive his randomly generated chambers and flee with as much loot as posible without being able to defend himself.
 
 ![full](/images/KatergarisLabyrinthUI.jpg){: full}
