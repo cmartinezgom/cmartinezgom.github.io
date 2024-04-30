@@ -108,7 +108,7 @@ Courses, all grades over 10:
 
 - TFM in Game Experience Design (9)
 
-<br><br>
+<br>
 
 {% include gallery.html caption="UOC Projects." id="galleryUOC" %}
 
@@ -141,7 +141,7 @@ Courses (Computer Science):
 
   - The Art of Storytelling (A+)
 
-<br><br>
+<br>
 
 {% include gallery.html caption="CSUMB Projects." id="galleryCSUMB" %}
 
