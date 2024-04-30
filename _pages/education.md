@@ -6,41 +6,63 @@ permalink: /education/
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
-postgalleryProgramming:
-  - url: /education/masterUOC/
-    image_path: /images/logoUOC.png
-    alt: "placeholder image 1"
-    caption: "[Master's Degree in Video Game Design and Programming](/education/masterUOC/)"
-  - url: /education/bachelorCSUMB/
-    image_path: /images/logoCSUMB2.png
-    alt: "placeholder image 2"
-    caption: "[CSUMB](/education/bachelorsCSUMB/)"
-  - url: /education/bachelorULE/
-    image_path: /images/logoULE.jpg
+galleryUOC:
+  - url: /portfolio/
+    image_path: /images/uoc/labyrinth/image17.png
     alt: "placeholder image 3"
-    caption: "[Computer Science Engineering ULE](/education/bachelorULE/)"
-  - url: /education/bachelorUVA/
-    image_path: /images/logoUVa.png
+  - url: /portfolio/
+    image_path: /images/uoc/3d/timeracermenu.png
     alt: "placeholder image 3"
-    caption: "[Joint Studies Maths + Computer Science UVa](/education/bachelorUVA/)"
+  - url: /portfolio/
+    image_path: /images/uoc/2d/descentmain.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/3d/labmaze6.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/2d/mariounity.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/ia/maze2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/ia/plaza2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/ia/image27_2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/multi/image5_2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/level/portal/LevelDesignPortalLvl3.jpg
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/level/image1_2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/media/boceto3RP1NCHOtecnico.jpg
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/media/BocetoSalvatoreDeIngranaggiotecnico.jpg
+    alt: "placeholder image 3"
 
-postgalleryDesign:
-  - url: /education/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+galleryCSUMB:
+  - url: /portfolio/
+    image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
     alt: "placeholder image 3"
-    caption: "[Flash Your Fears](/education/flashyourfears/)"
-  - url: /education/katergarislabyrinth/
-    image_path: /images/KatergarisLabyrinthUI.jpg
+  - url: /portfolio/
+    image_path: /images/csumb/character/R-0L1concepts.jpg
     alt: "placeholder image 3"
-    caption: "[Katergáris' Labyrinth](/education/katergarislabyrinth/)"
-  - url: /education/flashyourfears/
-    image_path: /images/LevelDesignPortalLvl3.jpg
+  - url: /portfolio/
+    image_path: /images/csumb/environment/Render1.jpg
     alt: "placeholder image 3"
-    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
-  - url: /education/flashyourfears/
-    image_path: /images/FlashYourFears.jpg
+  - url: /portfolio/
+    image_path: /images/csumb/character/Turnaround.jpg
     alt: "placeholder image 3"
-    caption: "Introduction, learning and usage of Repulsion Gel in Portal 2"
+  - url: /portfolio/
+    image_path: /images/csumb/environment/image2_2.png
+    alt: "placeholder image 3"
 ---
 
 Here you'll find my education divided into three categories: <a href="#education-section">Education</a>, <a href="#courses-section">Courses</a> and <a href="#additional-section">Additional Education</a>.
@@ -65,6 +87,7 @@ Here you'll find my education divided into three categories: <a href="#education
   <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
+{% include gallery.html caption="Programming education." id="galleryUOC" %}
 
 ### <i class="fa-solid fa-flag-usa"></i> International Student @ California State University Monterey Bay
 08/2019 – 01/2020 | Seaside, CA, USA
@@ -78,6 +101,8 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
    </a>
  </div>
 </div>
+
+{% include gallery.html caption="Design education." id="galleryCSUMB" %}
 
 ### <i class="fa-solid fa-terminal"></i> Bachelor in Computer Science Engineering
 09/2016 – 06/2020 | León, Spain @ University of León
@@ -133,11 +158,6 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 - **Academic Competitions**: Participated in tournaments focused on mathematics, physics, and grammar.
 
-{% include postgallery.html caption="Programming education." id="postgalleryProgramming" %}
-
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a [knife fight](/education/racerloop/).
-
-{% include postgallery.html caption="Design education." id="postgalleryDesign" %}
-
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
