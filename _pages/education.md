@@ -108,7 +108,7 @@ Courses, all grades over 10:
 
 - TFM in Game Experience Design (9)
 
-{% include gallery.html caption="Programming education." id="galleryUOC" %}
+{% include gallery.html caption="UOC Projects." id="galleryUOC" %}
 
 ### <i class="fa-solid fa-flag-usa"></i> International Student @ California State University Monterey Bay
 08/2019 – 01/2020 | Seaside, CA, USA
@@ -136,10 +136,12 @@ Courses (Computer Science):
   - Game Design II (A)
 
   Courses (Cinematics Arts Technology):
-  
+
   - The Art of Storytelling (A+)
 
-{% include gallery.html caption="Design education." id="galleryCSUMB" %}
+
+
+{% include gallery.html caption="CSUMB Projects." id="galleryCSUMB" %}
 
 ### <i class="fa-solid fa-terminal"></i> Bachelor in Computer Science Engineering
 09/2016 – 06/2020 | León, Spain @ University of León
@@ -256,6 +258,26 @@ Courses:
 
 - **Game Development Courses**: Completed specialization training in Unreal Engine, Unity, gamification, and more.
 
+ Unreal Engine 5
+02/2024, by Carlos
+Coronado (Udemy)
+ Unreal Engine 4
+12/2023, by Carlos
+Coronado (Udemy)
+ C++ Programming for
+Unreal Game Development Specialization
+11/2023, by the University of Colorado
+System (Coursera)
+ Design, organization
+and evaluation of
+video games and gamification
+2017, by the European
+University of Madrid
+(Miriadax)
+ Unity3D
+2016, by the University of León
+
+
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="additional-section">
@@ -275,7 +297,5 @@ Courses:
 - ESTALMAT CyL Program Participant: Selected for the **Stimulation of Mathematical Talent Project**.
 
 - **Academic Competitions**: Participated in tournaments focused on mathematics, physics, and grammar.
-
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a [knife fight](/education/racerloop/).
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
