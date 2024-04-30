@@ -84,7 +84,18 @@ Here you'll find my education divided into three categories: <a href="#education
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.
+  Courses:
+  - Game Design (9)
+  - Video game Media (8,8)
+  - Design of User Experience and Interfaces (8)
+  - Video Game Artificial Intelligence (9,2)
+  - Multiplayer Games (5,9)
+  - Modding and Level Design (8)
+  - 2D Video Game Programming (9)
+  - 3D Video Game Programming (9.5)
+  - TFM in Game Experience Design (9)
+  </p>
 </div>
 
 {% include gallery.html caption="Programming education." id="galleryUOC" %}
@@ -94,7 +105,18 @@ Here you'll find my education divided into three categories: <a href="#education
 
 <div style="display: flex;">
   <p style="margin-right: 20px;"><a href="/education/bachelorCSUMB/">Studied abroad</a> for a semester in California, focusing on <strong>Computer Science, Game Design, and Cinematic Arts Technology</strong>.<br>Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
-Modelling (A+), Character Design (A+) and Game Design II (A).</p>
+  Modelling (A+), Character Design (A+) and Game Design II (A).
+  Courses (Computer Science):
+  - Graphics Programming (A+)
+
+  Courses (Game Design and Interactive Media):
+  - Character Design (A+)
+  - Environment Modeling (A+)
+  - Game Design II (A)
+
+  Courses (Cinematics Arts Technology):
+  - The Art of Storytelling (A+)
+  </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
@@ -113,14 +135,99 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
      <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems. Culminated my studies with the <a href="/portfolio/motiontracker/">MotionTracker</a> project during a Software Engineering Internship at HP SCDS, earning a 9.8/10 grade.</p>
+  <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems. Culminated my studies with the <a href="/portfolio/motiontracker/">MotionTracker</a> project during a Software Engineering Internship at HP SCDS, earning a 9.8/10 grade.
+  
+  Strong and wide grounding in the basic principles of maths, programming in different languages and design patterns.
+
+  This degree allows its graduates to practise the controlled-entry profession of computer engineer. Programmes in Computing are widespread in most universities in the world
+  that offer qualifications in Engineering. The areas studied in such programmes are wide-ranging:
+  Software engineering.
+  Databases.
+  Programming.
+  Artificial intelligence.
+  Knowledge engineering.
+  Formal languages.
+  Computer architecture.
+  Web technologies.
+  Computer security
+
+  {% include gallery.html caption="This is a sample gallery to go along with this case study." %}
+
+  Courses:
+
+  - Differential and Integral Calculus
+  - Discrete Mathematics
+  - Physics
+  - Electronics
+  - Algebra
+  - Numerical and Estatistical Methods
+  - Computer Organization
+  - Fundamentals of Business Administration
+  - Computer Programming I
+  - Operating Systems
+  English for ICT Studies
+  Computer Programming II
+  Databases
+  Algorithms and Graphs
+  Informations Systems I
+  Introduction to Intelligent Systems
+  Operating Systems Extension
+  Data Structures
+  Computer Network Architecture, Design and Management
+  Computer Architecture
+  Knowledge Engineering
+  Software Engineering
+  Project Management
+  Distributed Systems
+  Internet Services
+  Computer Security
+  Informations Systems II
+  Web Aplications
+  Computational Complexity
+  Accessibility
+  Language Processors
+  Software Engineering II
+
+  Practical Placement (9.5)
+
+  Final Year Project: MotionTracker: Target Tracking System with Camera in Motion (9.8)
+
+
+  Taken Courses at Universities abroad in mobility Programs
+
+  Neural and Evolutional Computation (10)
+  Computer Animation (10)
+  Technological Innovation (10)
+  Grid Computing and Supercomputing (10)
+  Artificial Vision (9.5)
+  
+  </p>
 </div>
 
 ### <i class="fa-solid fa-calculator"></i> Dual Degree in Mathematics and Computer Science
 09/2014 – 06/2016 | Valladolid, Spain @ University of Valladolid
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;">Developed a <strong>robust foundation in mathematics</strong> (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core Software Engineering principles. Completed 93 credits. </p>
+  <p style="margin-right: 20px;">Developed a <strong>robust foundation in mathematics</strong> (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core Software Engineering principles. Completed 93 credits.
+  
+  Courses:
+  - Lineal Algebra and Geometry
+  - Infinitesimal Calculus
+  - Basic Mathematics
+  - Elements of Probability and Descriptive Statistics
+  - Computer Science
+  - Numeric Calculus
+  - Introduction to Operative Investigation
+  - General Physics
+  - Computer Structure and Technology (3º)
+  - Automatic Treatment of Information
+  - Differential Equations (2º)
+  - Applied Mathematics to Natural and Social Sciences (2º)
+  - Usage of Operative Systems (3º)
+
+  93 credits
+  
+  </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
