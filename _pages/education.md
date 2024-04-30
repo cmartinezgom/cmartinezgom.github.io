@@ -108,6 +108,8 @@ Courses, all grades over 10:
 
 - TFM in Game Experience Design (9)
 
+<br><br>
+
 {% include gallery.html caption="UOC Projects." id="galleryUOC" %}
 
 ### <i class="fa-solid fa-flag-usa"></i> International Student @ California State University Monterey Bay
@@ -139,7 +141,7 @@ Courses (Computer Science):
 
   - The Art of Storytelling (A+)
 
-
+<br><br>
 
 {% include gallery.html caption="CSUMB Projects." id="galleryCSUMB" %}
 
@@ -184,41 +186,38 @@ The areas studied in such programmes are wide-ranging:
   - Fundamentals of Business Administration
   - Computer Programming I
   - Operating Systems
-  English for ICT Studies
-  Computer Programming II
-  Databases
-  Algorithms and Graphs
-  Informations Systems I
-  Introduction to Intelligent Systems
-  Operating Systems Extension
-  Data Structures
-  Computer Network Architecture, Design and Management
-  Computer Architecture
-  Knowledge Engineering
-  Software Engineering
-  Project Management
-  Distributed Systems
-  Internet Services
-  Computer Security
-  Informations Systems II
-  Web Aplications
-  Computational Complexity
-  Accessibility
-  Language Processors
-  Software Engineering II
-
-  Practical Placement (9.5)
-
-  Final Year Project: MotionTracker: Target Tracking System with Camera in Motion (9.8)
+  - English for ICT Studies
+  - Computer Programming II
+  - Databases
+  - Algorithms and Graphs
+  - Informations Systems I
+  - Introduction to Intelligent Systems
+  - Operating Systems Extension
+  - Data Structures
+  - Computer Network Architecture, Design and Management
+  - Computer Architecture
+  - Knowledge Engineering
+  - Software Engineering
+  - Project Management
+  - Distributed Systems
+  - Internet Services
+  - Computer Security
+  - Informations Systems II
+  - Web Aplications
+  - Computational Complexity
+  - Accessibility
+  - Language Processors
+  - Software Engineering II
+  - Practical Placement (9.5)
+  - Final Year Project: MotionTracker: Target Tracking System with Camera in Motion (9.8)
 
 
   Taken Courses at Universities abroad in mobility Programs
-
-  Neural and Evolutional Computation (10)
-  Computer Animation (10)
-  Technological Innovation (10)
-  Grid Computing and Supercomputing (10)
-  Artificial Vision (9.5)
+  - Neural and Evolutional Computation (10)
+  - Computer Animation (10)
+  - Technological Innovation (10)
+  - Grid Computing and Supercomputing (10)
+  - Artificial Vision (9.5)
 
 ### <i class="fa-solid fa-calculator"></i> Dual Degree in Mathematics and Computer Science
 09/2014 – 06/2016 | Valladolid, Spain @ University of Valladolid
