@@ -46,7 +46,7 @@ This game mainly consists of mechanics of the roguelite genre seen in The Bindin
 
 All the mechanics and possible strategies offered to the player revolve around non-agression and stealth: hiding inside chests, sneaking around to make less noise or skills to unlock (like freezing, paralysis, invisibility, generating noise, etc). All of this encourages the player to take an stealthy and premeditated approach to each floor of the dungeon, encouraging first to recognise the terrain to memorize possible hiding places, escape routes, enemy behaviour, the location of loot or traps… Within the range of dynamics of the same nature, the player will be able to choose and execute the ones that best suit each situation, the ones that they find more fun or that make their adventure through the maze more efficient.
 
-{% include gallery.html caption="This is a sample gallery to go along with this case study." %}
+{% include gallery.html caption="Katergáris' Labyrinth screenshots." %}
 
 
 You can check my Master's Thesis repository [here](https://openaccess.uoc.edu/handle/10609/138167).
