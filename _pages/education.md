@@ -89,14 +89,23 @@ Here you'll find my education divided into three categories: <a href="#education
 </div>
 
 Courses, all grades over 10:
+
 - Game Design (9)
+
 - Video game Media (8,8)
+
 - Design of User Experience and Interfaces (8)
+
 - Video Game Artificial Intelligence (9,2)
+
 - Multiplayer Games (5,9)
+
 - Modding and Level Design (8)
+
 - 2D Video Game Programming (9)
+
 - 3D Video Game Programming (9.5)
+
 - TFM in Game Experience Design (9)
 
 {% include gallery.html caption="Programming education." id="galleryUOC" %}
@@ -114,17 +123,20 @@ Courses, all grades over 10:
  </div>
 </div>
 
-Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
-  Modelling (A+), Character Design (A+) and Game Design II (A).
-  Courses (Computer Science):
+Courses (Computer Science):
+
   - Graphics Programming (A+)
 
   Courses (Game Design and Interactive Media):
+
   - Character Design (A+)
+
   - Environment Modeling (A+)
+
   - Game Design II (A)
 
   Courses (Cinematics Arts Technology):
+  
   - The Art of Storytelling (A+)
 
 {% include gallery.html caption="Design education." id="galleryCSUMB" %}
