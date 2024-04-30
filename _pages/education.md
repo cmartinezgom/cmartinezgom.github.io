@@ -103,6 +103,24 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  </div>
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
+<div align="center" id="courses-section">
+
+  <h2>📚 Courses</h2>
+
+</div>
+
+- **Game Development Courses**: Completed specialization training in Unreal Engine, Unity, gamification, and more.
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
+<div align="center" id="additional-section">
+
+  <h2>📝 Additional Education</h2>
+
+</div>
+
 ### <i class="fa-solid fa-book"></i> Aditional Education
 
 - University Entrance Exam (PAU) with a grade of 10.5/14.
@@ -114,26 +132,6 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 - ESTALMAT CyL Program Participant: Selected for the **Stimulation of Mathematical Talent Project**.
 
 - **Academic Competitions**: Participated in tournaments focused on mathematics, physics, and grammar.
-
-- **Game Development Courses**: Completed specialization training in Unreal Engine, Unity, gamification, and more.
-
-<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
-
-<div align="center" id="courses-section">
-
-  <h2>📚 Courses</h2>
-
-</div>
-
-<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
-
-<div align="center" id="additional-section">
-
-  <h2>📝 Additional Education</h2>
-
-</div>
-
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
 {% include postgallery.html caption="Programming education." id="postgalleryProgramming" %}
 
