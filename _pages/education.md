@@ -61,6 +61,9 @@ galleryCSUMB:
     image_path: /images/csumb/character/Turnaround.jpg
     alt: "placeholder image 3"
   - url: /portfolio/
+    image_path: /images/csumb/character/Render.jpg
+    alt: "placeholder image 3"
+  - url: /portfolio/
     image_path: /images/csumb/environment/image2_2.png
     alt: "placeholder image 3"
 ---
