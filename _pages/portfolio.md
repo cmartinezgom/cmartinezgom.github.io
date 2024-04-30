@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "💻 My Portfolio"
+title: "📂 My Portfolio"
 excerpt: "Here you'll find most of my work both in Programming and Design!"
 permalink: /portfolio/
 header:
@@ -137,6 +137,8 @@ postgalleryModding:
 
 Explore my professional and personal projects divided in three categories: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 <div align="center" id="programming-section">
 
   <h2> 💻 Programming Portfolio</h2>
@@ -154,6 +156,9 @@ Next, let's dive into my **personal and educational projects**.
 
 {% include postgallery.html caption="Personal and Educational Portfolio." id="postgalleryProgramming" %}
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
+
 <div align="center" id="design-section">
 
   <h2> 🎨 Design Portfolio</h2>
@@ -164,6 +169,7 @@ In this section you can explore my **design portfolio**, where you'll find my sk
 
 {% include postgallery.html caption="Design Portfolio." id="postgalleryDesign" %}
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="modding-section">
 
