@@ -26,7 +26,7 @@ gallery:
     image_path: images/racerloop/Racerloop7.jpg
     alt: "Racerloop Screenshot"
 ---
-[<i class="fa-solid fa-globe"></i> **Web**](https://www.racerloop.com/) ||| [<i class="fa-brands fa-youtube"></i> **Trailer**](https://youtu.be/fLouIlEPH-s) ||| [**Epic Store** <i class="fa-solid fa-tag"></i>](https://store.epicgames.com/en-US/p/racerloop-4d3ab2)
+[<i class="fa-solid fa-globe"></i> **Web**](https://www.racerloop.com/) ||| [<i class="fa-brands fa-youtube"></i> **Trailer**](https://youtu.be/fLouIlEPH-s) ||| [<i class="fa-solid fa-tag"></i> **Epic Store**](https://store.epicgames.com/en-US/p/racerloop-4d3ab2)
 
 
 
