@@ -64,7 +64,7 @@ I had contributions all along the game since the first prototypes, but **my main
 - Implemented using **Unity Networking Services, Unity Netcode for GameObjects, Unity Lobbies, Unity Relay, and both Client and Server RPCs**.
 - Adapted the offline game to have all the **online workflow and logic**.
 - Implemented online mode **UI**: This included the Online Screen, Lobby screen...
-- **Game Synchronization between Players**: Ship type selection, Player position, AI position, race progress, race start, power up usage, race finish, health turbo and shield...
+- **Game Synchronization between Players**: Ship type selection, Player position, AI position, race progress, race start, power up usage, race finish, Player's and AI's health turbo and shield...
 - **Online Inputs**.
 - **Missile Power Up Online Pool and Position sync**.
 - **Online Event Propagation logic**.
@@ -76,17 +76,23 @@ I had contributions all along the game since the first prototypes, but **my main
 </div>
 
 
-- **Gameplay Systems**: Player Orbital Camera with Spring Damper System, Ship’s hovering, Power Ups, Debug Renderer, AbstractInputs, Dynamic Gravity System...
-
-<div style="width: 50%; margin: auto;">
-  <img src="/images/racerloop/ezgif-2-6595f0e17e.gif" alt="full" style="display: block; margin: auto; width: 100%;">
-</div>
-<div style="width: 50%; margin: auto;">
-  <img src="/images/racerloop/ezgif-5-32998c4530.gif" alt="full" style="display: block; margin: auto; width: 100%;">
-</div>
+**Gameplay Systems**: Implemented several gameplay systems, mainly in the first design fase.
+- Customizable **Player Orbital Camera with Spring Damper System**.
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-2-50eed2125b.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
+- Customizable **Ship’s hovering** prototype.
+<div style="width: 50%; margin: auto;">
+  <img src="/images/racerloop/ezgif-2-6595f0e17e.gif" alt="full" style="display: block; margin: auto; width: 100%;">
+</div>
+- Customizable **Dynamic Gravity System**.
+<div style="width: 50%; margin: auto;">
+  <img src="/images/racerloop/ezgif-5-32998c4530.gif" alt="full" style="display: block; margin: auto; width: 100%;">
+</div>
+- **Power Up System** and some **Power Ups logic**.
+- **Graphical Debug Renderer** for some features.
+- **Abstract Inputs** for Input Controller: Agnostic inputs that worked for controller, gamepad, keyboard, etc.
+
 
 - **Testing Automation**: Automatic Testing of the game using Unity Test Framework.
 <div style="width: 50%; margin: auto;">
