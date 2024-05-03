@@ -94,20 +94,38 @@ I had contributions all along the game since the first prototypes, but **my main
 - **Abstract Inputs** for Input Controller: Agnostic inputs that worked for controller, gamepad, keyboard, etc.
 
 
-- **Testing Automation**: Automatic Testing of the game using Unity Test Framework.
+**Testing Automation**:
+- **Automatic Testing** using **Unit Test Framework**.
+- **Automatic Testing** from command line for automatic builds in **Jenkins**.
+- Debugging, testing and code refactoring all around my own work and others'.
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/racerlooptests.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-- **UI implementation**: Login, Leaderboards, Online and Lobby screens, as well as a general modular pop up error window.
+**UI implementation**: Implemented some UI screens, such as:
+- First **Register and Login** screen: Using PlayFab API.
+- **Leaderboards** screen: Both local and global using a PlayFab server.
+- **Online Menu and Lobby** screens: Search game, create game, join lobby with code or by name, lobbies list...
+- Customizable **modular Pop-up Error Window**.
 
-- **Math Utils**: Several math scripts for needs such as working with 2D lines or projected positions for AI tracking and pathfinding.
+**Math Utils**: Several math scripts for game needs, such as:
+- Calc Nearest Point in Segment.
+- Calc Intersecting point between lines.
+- Calc Projected point in certain area.
+- 2DLine class.
 
-- **Offline Build**: Worked on adapting back-end services from the server into the file system. Just for events with no internet connection.
+- **Third Party APIs implementation**:
+- PlayFab API: Register, login and logout from PlayFab server, PlayFab metrics and stats load and save from server...
+- Unity Networking Services.
+- Unity Netcode for GameObjects.
+- Unity Lobby.
+- Unity Relay.
 
-- **Third Party APIs implementation**: Implementation of PlayFab’s server initial login, user save and load along with their statistics, global leaderboards...
+**Simple VFX**:
+- Simple **Shaders**: First Hovering force, Shield...
+- Simple **Particle Systems**: First kinetic lines for movement effect in the camera, crash particles...
 
-- **Simple VFX**: Simple shaders and particles.
+- **Offline Build**: Initial work with offline services "No Internet Build" that insted of working from the server worked from files. Just for events where there was no internet, setting it from the command line.
 
 {% include gallery.html caption="Images from the Racerloop.com webpage." %}
 
