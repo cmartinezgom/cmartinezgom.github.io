@@ -137,7 +137,7 @@ postgalleryModding:
 
 Explore my professional and personal projects divided in three categories: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
 
-**Click on the images to check any project in more detail!**
+🖼 **Click on the images to check any project in more detail!** 🖼
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
