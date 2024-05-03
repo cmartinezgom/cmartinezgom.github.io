@@ -43,7 +43,18 @@ I worked on **Racerloop** at Maniac Panda Games as a **Junior Unity Programmer**
 
 I had contributions all along the game since the first prototypes, but **my main work** was in:
 
-- **AI Systems**: I implemented almost everything that had to do with AI players. Their movement, pathfinding, progress tracking, obstacle avoidance, power-up usage, ideal racing lane, AI skill, fine tunning, testing... Includining graphical debugging helpers.
+**AI Systems**:
+- **AI Movement**: Both using WayPoints and an AI track with ahead target position.
+- **AI Track**: Made up by Links and Nodes, with UV coordinates. AI Track creation depending on track's curvature.
+- **AI and Player position Tracking inside AI Track**: Using custom geometry functions. Ex: Calculating nearest point, calculating a projected point in the AI Link...
+- **AI Look Ahead Position**: Target position for the AI movement, creating and ideal Lane that had an offset depending on AI skill.
+- **Ideal Racing Lane**.
+- **AI Player ideal inputs**: Such as ideal throttle, steering, brake, turbo... depending on AI track, ship parameters and AI Skill.
+- **AI Respawn logic**.
+- **AI Obstacle Avoidance**
+- **AI Power Up usage logic**
+- **AI debug and fine tunning**
+
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-1-b6f170d22e.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
