@@ -107,13 +107,13 @@ I had contributions all along the game since the first prototypes, but **my main
 - First **Register and Login** screen: Using PlayFab API.
 - **Leaderboards** screen: Both local and global using a PlayFab server.
 - **Online Menu and Lobby** screens: Search game, create game, join lobby with code or by name, lobbies list...
-- Customizable **modular Pop-up Error Window**.
+- Customizable **Modular Pop-up Error Window**.
 
 <br>
 **Math Utils**: Several math scripts for game needs, such as:
 - Calc Nearest Point in Segment.
-- Calc Intersecting point between lines.
-- Calc Projected point in certain area.
+- Calc Intersecting Point between Lines.
+- Calc Projected Point in certain Area.
 - 2DLine class.
 
 <br>
@@ -126,7 +126,7 @@ I had contributions all along the game since the first prototypes, but **my main
 
 <br>
 **Simple VFX**:
-- Simple **Shaders**: First Hovering force, Shield...
+- Simple **Shaders**: First hovering force, ship's shield...
 - Simple **Particle Systems**: First kinetic lines for movement effect in the camera, crash particles...
 
 <br>
