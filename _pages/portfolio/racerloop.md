@@ -115,6 +115,7 @@ I had contributions all along the game since the first prototypes, but **my main
 - Calc Intersecting point between lines.
 - Calc Projected point in certain area.
 - 2DLine class.
+
 <br>
 **Third Party APIs implementation**:
 - PlayFab API: Register, login and logout from PlayFab server, PlayFab metrics and stats load and save from server...
