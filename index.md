@@ -55,7 +55,7 @@ gallery:
 
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a <strong>creative programmer and game developer</strong> who excels both independently and in teams. With over <strong>three years of professional programming <a href="#experience-section">experience</a></strong>, including roles as a <strong>Junior Unity Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br>My <a href="#education-section">education</a> gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
+  <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a <strong>creative programmer and game developer</strong> who excels both independently and in teams. With over <strong>three years of professional programming <a href="#experience-section">experience</a></strong>, including roles as a <strong>Junior Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br>My <a href="#education-section">education</a> gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
   <img src="/images/chibi.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
@@ -122,7 +122,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 
 </div>
 
-### 🚀 Junior Unity Programmer @ Maniac Panda Games
+### 🚀 Junior Programmer @ Maniac Panda Games
 05/2022 – 09/2023 | Remote
 
 <div style="display: flex;">
