@@ -53,13 +53,24 @@ I had contributions all along the game since the first prototypes, but **my main
 - **AI Respawn logic**.
 - **AI Obstacle Avoidance and Crash Prediction**.
 - **AI Power Up usage logic**.
-- **AI debug and fine tunning**.
+- **AI Graphic Debug Systems**.
+- **AI Manual fine tunning**.
 
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-1-b6f170d22e.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-**Synchronous Online Game Mode**: I developed the first full-working prototype of the Synchronous Online Game Mode using Unity Services, Unity Netcode for GameObjects, Unity Lobbies and Unity Relay. This included working both on the online game mode itself and its UI. Implementing the Online Screen, the lobbies, remote connection, player synchronization, race progress, AI players and power up sync, reconnection handling...
+**Synchronous Online Game Mode**: Developed the first full-working prototype of the Synchronous Online Game Mode.
+- Implemented using **Unity Networking Services, Unity Netcode for GameObjects, Unity Lobbies, Unity Relay, and both Client and Server RPCs**.
+- Adapted the offline game to have all the **online workflow and logic**.
+- Implemented online mode **UI**: This included the Online Screen, Lobby screen...
+- **Game Synchronization between Players**: Ship type selection, Player position, AI position, race progress, race start, power up usage, race finish, health turbo and shield...
+- **Online Inputs**.
+- **Missile Power Up Online Pool and Position sync**.
+- **Online Event Propagation logic**.
+- **Online Reconnection handling**.
+- **Online playtest and debuging**.
+
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-3-2279a6cc27.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
