@@ -129,7 +129,10 @@ I had contributions all along the game since the first prototypes, but **my main
 - Simple **Particle Systems**: First kinetic lines for movement effect in the camera, crash particles...
 
 <br>
-**Offline Build**: Initial work with offline services "No Internet Build" that insted of working from the server worked from files. Just for events where there was no internet, setting it from the command line.
+**Offline Build**:
+- Initial work with offline services that insted of loading from the server worked from files.
+- Just for events where there was no internet (like an Expo)
+- Setting it from the command line.
 
 <br>
 
