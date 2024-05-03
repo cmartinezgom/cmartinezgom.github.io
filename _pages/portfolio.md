@@ -137,6 +137,8 @@ postgalleryModding:
 
 Explore my professional and personal projects divided in three categories: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
 
+<br><br> **Click on the images to check any project in more detail!**
+
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="programming-section">
@@ -148,7 +150,7 @@ Explore my professional and personal projects divided in three categories: <a hr
 Let's begin with my **professional work**.
 <br>This includes **nearly two years as a Junior Programmer** at Maniac Panda Games, where I primarily focused on developing "Racerloop"; and over **a year and a half as a Software Engineering Intern at HP SCDS**, where I built the "MotionTracker" app.
 <br>While programming was my main focus, I also took design responsabilities, particularly in the MotionTracker project.
-<br> **Click on the images to check any of them in more detail!**
+
 {% include postgallery.html caption="Professional Programming Portfolio." id="postgalleryProfProgramming" %}
 
 Next, let's dive into my **personal and educational projects**.
