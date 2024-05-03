@@ -40,7 +40,7 @@ I worked on **Racerloop** at Maniac Panda Games as a **Junior Unity Programmer**
 <div style="width: 70%; margin: auto;">
   <img src="/images/racerloop/highlightedbetacreditsENG.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
-
+<br>
 I had contributions all along the game since the first prototypes, but **my main work** was in:
 
 **AI Systems**:
@@ -59,7 +59,7 @@ I had contributions all along the game since the first prototypes, but **my main
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-1-b6f170d22e.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
-
+<br>
 **Synchronous Online Game Mode**: Developed the first full-working prototype of the Synchronous Online Game Mode.
 - Implemented using **Unity Networking Services, Unity Netcode for GameObjects, Unity Lobbies, Unity Relay, and both Client and Server RPCs**.
 - Adapted the offline game to have all the **online workflow and logic**.
@@ -75,7 +75,7 @@ I had contributions all along the game since the first prototypes, but **my main
   <img src="/images/racerloop/ezgif-3-2279a6cc27.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-
+<br>
 **Gameplay Systems**: Implemented several gameplay systems, mainly in the first design fase.
 - Customizable **Player Orbital Camera with Spring Damper System**.
 <div style="width: 50%; margin: auto;">
@@ -93,7 +93,7 @@ I had contributions all along the game since the first prototypes, but **my main
 - **Graphical Debug Renderer** for some features.
 - **Abstract Inputs** for Input Controller: Agnostic inputs that worked for controller, gamepad, keyboard, etc.
 
-
+<br>
 **Testing Automation**:
 - **Automatic Testing** using **Unit Test Framework**.
 - **Automatic Testing** from command line for automatic builds in **Jenkins**.
@@ -101,32 +101,32 @@ I had contributions all along the game since the first prototypes, but **my main
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/racerlooptests.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
-
+<br>
 **UI implementation**: Implemented some UI screens, such as:
 - First **Register and Login** screen: Using PlayFab API.
 - **Leaderboards** screen: Both local and global using a PlayFab server.
 - **Online Menu and Lobby** screens: Search game, create game, join lobby with code or by name, lobbies list...
 - Customizable **modular Pop-up Error Window**.
-
+<br>
 **Math Utils**: Several math scripts for game needs, such as:
 - Calc Nearest Point in Segment.
 - Calc Intersecting point between lines.
 - Calc Projected point in certain area.
 - 2DLine class.
-
+<br>
 - **Third Party APIs implementation**:
 - PlayFab API: Register, login and logout from PlayFab server, PlayFab metrics and stats load and save from server...
 - Unity Networking Services.
 - Unity Netcode for GameObjects.
 - Unity Lobby.
 - Unity Relay.
-
+<br>
 **Simple VFX**:
 - Simple **Shaders**: First Hovering force, Shield...
 - Simple **Particle Systems**: First kinetic lines for movement effect in the camera, crash particles...
-
+<br>
 - **Offline Build**: Initial work with offline services "No Internet Build" that insted of working from the server worked from files. Just for events where there was no internet, setting it from the command line.
-
+<br>
 {% include gallery.html caption="Images from the Racerloop.com webpage." %}
 
 You can play the demo at the Racerloop webpage or Wishlist the game in the [Epic Store](https://store.epicgames.com/en-US/p/racerloop-4d3ab2).
