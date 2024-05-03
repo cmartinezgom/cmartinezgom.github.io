@@ -38,7 +38,7 @@ I worked on **Racerloop** at Maniac Panda Games as a **Junior Unity Programmer**
 <br><br>Racerloop is a **PC/mobile 3D arcade zero-gravity racing game** with ship-building components, developed using **Unity (C#)**. We were a small remote-based team where I had to work both under lead directions and on my own.
 
 <div style="width: 70%; margin: auto;">
-  <img src="/images/racerloop/highlightedbetacredits.png" alt="full" style="display: block; margin: auto; width: 100%;">
+  <img src="/images/racerloop/highlightedbetacreditsENG.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
 I had contributions all along the game since the first prototypes, but **my main work** was in:
@@ -51,15 +51,15 @@ I had contributions all along the game since the first prototypes, but **my main
 - **Ideal Racing Lane**.
 - **AI Player ideal inputs**: Such as ideal throttle, steering, brake, turbo... depending on AI track, ship parameters and AI Skill.
 - **AI Respawn logic**.
-- **AI Obstacle Avoidance**
-- **AI Power Up usage logic**
-- **AI debug and fine tunning**
+- **AI Obstacle Avoidance and Crash Prediction**.
+- **AI Power Up usage logic**.
+- **AI debug and fine tunning**.
 
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-1-b6f170d22e.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-- **Synchronous Online Game Mode**: I developed the first full-working prototype of the Synchronous Online Game Mode, this included working both on Unity Networking and UI. Implementing the Online Screen, the lobbies, remote connection, player synchronization, race progress, AI players and power up sync, reconnection handling...
+**Synchronous Online Game Mode**: I developed the first full-working prototype of the Synchronous Online Game Mode using Unity Services, Unity Netcode for GameObjects, Unity Lobbies and Unity Relay. This included working both on the online game mode itself and its UI. Implementing the Online Screen, the lobbies, remote connection, player synchronization, race progress, AI players and power up sync, reconnection handling...
 <div style="width: 50%; margin: auto;">
   <img src="/images/racerloop/ezgif-3-2279a6cc27.gif" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
