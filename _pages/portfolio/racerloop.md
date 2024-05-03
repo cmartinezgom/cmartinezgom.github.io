@@ -37,6 +37,10 @@ gallery:
 I worked on **Racerloop** at Maniac Panda Games as a **Junior Unity Programmer**.
 <br><br>Racerloop is a **PC/mobile 3D arcade zero-gravity racing game** with ship-building components, developed using **Unity (C#)**. We were a small remote-based team where I had to work both under lead directions and on my own.
 
+<div style="width: 70%; margin: auto;">
+  <img src="/images/racerloop/highlightedbetacredits.png" alt="full" style="display: block; margin: auto; width: 100%;">
+</div>
+
 I had contributions all along the game since the first prototypes, but **my main work** was in:
 
 - **AI Systems**: I implemented almost everything that had to do with AI players. Their movement, pathfinding, progress tracking, obstacle avoidance, power-up usage, ideal racing lane, AI skill, fine tunning, testing... Includining graphical debugging helpers.
