@@ -203,7 +203,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 <div style="display: flex;">
  <div style="width: 150px; height: 150px; flex-shrink: 0;">
-   <a href="/portfolio/racerloop/">
+   <a href="/education/">
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
@@ -218,7 +218,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
   <p style="margin-right: 20px;"><a href="/education/">Studied abroad</a> for a semester in California, focusing on <strong>Computer Science, Game Design, and Cinematic Arts Technology</strong>.<br>Courses and Grades: The Art of Storytelling (A+), Graphics Programming (A+), Environment
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
-   <a href="/portfolio/motiontracker/">
+   <a href="/education/">
      <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
@@ -229,7 +229,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 <div style="display: flex;">
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
-   <a href="/portfolio/racerloop/">
+   <a href="/education/">
      <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
@@ -242,7 +242,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 <div style="display: flex;">
   <p style="margin-right: 20px;">Developed a <strong>robust foundation in mathematics</strong> (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core Software Engineering principles. Completed 93 credits. </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
-   <a href="/portfolio/motiontracker/">
+   <a href="/education/">
      <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
