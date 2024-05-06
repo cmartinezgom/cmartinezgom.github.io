@@ -139,4 +139,4 @@ I had contributions all along the game since the first prototypes, but **my main
 
 {% include gallery.html caption="Images from the Racerloop.com webpage." %}
 
-You can play it at the [Racerloop webpage](https://www.racerloop.com/) and at the [Epic Store](https://store.epicgames.com/en-US/p/racerloop-4d3ab2).
+You can check it out at the [Epic Store](https://store.epicgames.com/en-US/p/racerloop-4d3ab2) or at the [Racerloop webpage](https://www.racerloop.com/).
