@@ -131,7 +131,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
      <img src="/images/racerloop/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts Utils, UI, VFX and other areas.<bt>You can check it out at the [Epic Store](https://store.epicgames.com/en-US/p/racerloop-4d3ab2) or at the [Racerloop webpage](https://www.racerloop.com/).</p>
+  <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts Utils, UI, VFX and other areas.<bt>You can check it out at the <a href="https://store.epicgames.com/en-US/p/racerloop-4d3ab2"><strong>Epic Store</strong></a> or at the <a href="https://www.racerloop.com/">Racerloop webpage</a>.</p>
 </div>
 
 ### 👁 Software Engineering Intern @ HP SCDS
