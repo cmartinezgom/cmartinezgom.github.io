@@ -6,11 +6,11 @@
 
 - title: 💼 Portfolio <FontAwesomeIcon icon="fas fa-user-tie" />
   url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  excerpt: "Things I’ve developed, coded or designed!"
 
 - title: 🎓 Education
   url: /education/
-  excerpt: "My latest blog posts."
+  excerpt: "My educational background."
 
 - title: 👤 About Me
   url: /about/

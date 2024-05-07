@@ -137,7 +137,12 @@ postgalleryModding:
 
 Explore my professional and personal projects divided in three categories: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
 
-<i class="fa-solid fa-image fa-bounce"></i> **Click on the images to check any project in more detail!** <i class="fa-solid fa-image fa-bounce"></i>
+
+<div align="center">
+
+  <i class="fa-solid fa-image fa-bounce"></i> **Click on the images to check any project in more detail!** <i class="fa-solid fa-image fa-bounce"></i>
+
+</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -148,13 +153,16 @@ Explore my professional and personal projects divided in three categories: <a hr
 </div>
 
 Let's begin with my **professional work**.
-<br>This includes **nearly two years as a Junior Programmer** at Maniac Panda Games, where I primarily focused on developing ["Racerloop"](/portfolio/racerloop/); and over **a year and a half as a Software Engineering Intern at HP SCDS**, where I built the ["MotionTracker"](/portfolio/motiontracker/) app.
-<br>While programming was my main focus, I also took design responsabilities, particularly in the MotionTracker project.
+
+This includes **nearly two years as a Junior Programmer** at Maniac Panda Games, where I primarily focused on developing ["Racerloop"](/portfolio/racerloop/); and over **a year and a half as a Software Engineering Intern at HP SCDS**, where I built the ["MotionTracker"](/portfolio/motiontracker/) app.
+
+While programming was my main focus, I also took design responsabilities, particularly in the MotionTracker project.
 
 {% include postgallery.html caption="Professional Programming Portfolio." id="postgalleryProfProgramming" %}
 
 Next, let's dive into my **personal and educational projects**.
-<br>Highlights include a unique game created during a Game Jam, my Master's Thesis original game, and diverse game projects completed during both my Master's degree and my international studies at California, ranging from full vertical slices to focused projects exporing AI, animations, procedural generation, game porting, and other game development aspects.
+
+Highlights include a unique game created during a Game Jam, my Master's Thesis original game, and diverse game projects completed during both my Master's degree and my international studies at California, ranging from full vertical slices to focused projects exporing AI, animations, procedural generation, game porting, and other game development aspects.
 
 {% include postgallery.html caption="Personal and Educational Portfolio." id="postgalleryProgramming" %}
 
