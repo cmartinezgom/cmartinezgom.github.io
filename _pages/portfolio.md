@@ -138,9 +138,10 @@ postgalleryModding:
 Explore my professional and personal projects divided in three categories: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
 
 
+
 <div align="center">
 
-  <i class="fa-solid fa-image fa-bounce"></i> **Click on the images to check any project in more detail!** <i class="fa-solid fa-image fa-bounce"></i>
+  <i class="fa-solid fa-image fa-bounce"></i> <strong>Click on the images to check any project in more detail!</strong> <i class="fa-solid fa-image fa-bounce"></i>
 
 </div>
 
