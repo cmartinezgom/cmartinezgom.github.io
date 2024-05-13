@@ -44,6 +44,8 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
   <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 <div align="center" id="descent-section">
 
   <h2>Descent | 2D Programming Course (UOC) </h2>
@@ -60,6 +62,8 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
  </div>
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 <div align="center" id="labmace-section">
 
   <h2>Lab Mace | 3D Programming Course (UOC) </h2>
@@ -75,6 +79,8 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
   <p style="margin-left: 20px;">Diverse <strong><a href="/portfolio/#programming-section">personal and educational projects</a></strong> in game development and <a href="/portfolio/#modding-section">modding</a> demonstrate my adaptability across various games and languages.<br><br>Examples include: C# (Unity), C++ (Unreal Engine 4 and 5), C modding (Pokémon), Java modding (Minecraft), Lua scripting (Ratchet & Clank)...</p>
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 <div align="center" id="mariounity-section">
 
   <h2>Super Mario Bros. in Unity | 2D Programming Course (UOC) </h2>
@@ -89,6 +95,8 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
  </div>
   <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
 </div>
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="labyrinthcrawler-section">
 
@@ -106,6 +114,8 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
  </div>
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 <div align="center" id="townplaza-section">
 
   <h2>Town Plaza AI | AI for Video Games Course (UOC) </h2>
@@ -120,6 +130,8 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
  </div>
   <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
 </div>
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="reinforzedlearning-section">
 
@@ -137,6 +149,8 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
  </div>
 </div>
 
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
 <div align="center" id="townplaza-section">
 
   <h2>Tanks Multiplayer (Online and Local) | Multiplayer Games Course (UOC) </h2>
@@ -151,6 +165,8 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
  </div>
   <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
 </div>
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="reinforzedlearning-section">
 
