@@ -56,7 +56,7 @@ postgalleryProgramming:
   - url: /portfolio/programming/
     image_path: /images/uoc/multi/image5_2.png
     alt: "placeholder image 3"
-    caption: "[**Tanks Online and Local**<br>(Multiplayer Games Course)](/portfolio/programming/)"
+    caption: "[**Tanks Multiplayer (Online and Local)**<br>(Multiplayer Games Course)](/portfolio/programming/)"
   - url: /portfolio/programming/
     image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
     alt: "placeholder image 3"
