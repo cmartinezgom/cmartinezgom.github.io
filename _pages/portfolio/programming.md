@@ -18,10 +18,10 @@ gallery:
     alt: "placeholder image 3"
 
 ---
-<!--
+
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
 > It will improve soon!
--->
+
 
 Here you can find a short description of all my ptogramming projects that don't have a dedicated page. This will mainly consist of educational projects about a certain area (2D or 3D programming, multiplayer, AI...) or smaller personal projects.
 
