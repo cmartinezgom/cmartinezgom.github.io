@@ -184,3 +184,5 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
  </div>
   <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
 </div>
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
