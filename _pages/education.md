@@ -252,7 +252,7 @@ Courses:
 
 </div>
 
-- **Game Development Courses**: Completed specialization training in Unreal Engine, Unity, gamification, and more.
+**Game Development Courses**: Completed specialization training in Unreal Engine, Unity, gamification, and more.
 
 - Unreal Engine 5
 02/2024, by Carlos Coronado (Udemy)

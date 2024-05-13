@@ -27,20 +27,15 @@ gallery:
 ![full](/images/FlashYourFears.jpg){: full}
 
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Here you can find a short description of all my ptogramming projects that don't have a dedicated page. This will mainly consist of educational projects about a certain area (2D or 3D programming, multiplayer, AI...) or smaller personal projects.
 
-{% include gallery.html caption="This is a sample gallery to go along with this case study." %}
-
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="experience-section">
 
-  <h2>💼 Experience</h2>
+  <h2>🚀 Junior Unity Programmer @ Maniac Panda Games 05/2022 – 09/2023 | Remote</h2>
 
 </div>
-
-### 🚀 Junior Unity Programmer @ Maniac Panda Games
-05/2022 – 09/2023 | Remote
 
 <div style="display: flex;">
  <div style="width: 450px; height: 200px;">
