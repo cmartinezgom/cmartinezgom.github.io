@@ -20,11 +20,13 @@ I am also a musician, a self-taught video creator and editor, a Certified Recrea
 ## Experience
 
 My professional experience spans over 2-3 years of programming. My most recent work was as a Junior Programmer at Maniac Panda Games developing Racerloop, where I worked on the AI, online game mode, gameplay, UI and more. And I also was a Software Engineering Intern at HP-SCDS, where I developed the MotionTracker project: a Python-based motion tracking app that worked with the camara in movement.
+
 You can check them in more detail my [portfolio](/portfolio)!
+
 You'll also find there several personal and educational projects, both about programming and design, and some small modding project I've developed.
 
 ## Hobbies
 
-I mainly play and learn about videogames, but I also love to read, play basketball and hang out with my friends!
+I mainly like to play and learn about videogames, but I also love to read, play basketball and hang out with my friends!
 
 If you want to know more about me just reach me out!
