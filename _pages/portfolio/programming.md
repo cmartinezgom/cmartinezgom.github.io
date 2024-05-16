@@ -42,7 +42,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/3d/timeracer2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/3d/timeracer3.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
 </div>
@@ -59,7 +59,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
 <div style="display: flex; justify-content: center;">
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/2d/descentboss.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/2d/descent2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
@@ -87,7 +87,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/3d/labmaze5.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/3d/labmaze7.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
 </div>
@@ -104,7 +104,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
 <div style="display: flex; justify-content: center;">
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/2d/mariounity2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/2d/mariounity.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
@@ -126,7 +126,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
 <div style="display: flex; justify-content: center;">
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/ia/maze3.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/ia/maze1.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
@@ -148,7 +148,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
 <div style="display: flex; justify-content: center;">
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/ia/plaza2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/ia/plaza1.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
@@ -176,7 +176,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/ia/image27_2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/ia/image7.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
 </div>
@@ -192,7 +192,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
 <div style="display: flex; justify-content: center;">
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/multi/image5_2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/multi/image1.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
@@ -214,7 +214,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
 <div style="display: flex; justify-content: center;">
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/uoc/2d/cursingcontest3.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/uoc/2d/cursingcontestmenu.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
@@ -237,7 +237,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
 <div style="display: flex; justify-content: center;">
   <div style="width: 450px; height: 200px;">
     <a href="/portfolio/racerloop/">
-      <img src="/images/csumb/gamedesign/ZS2Dscreenshot7.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+      <img src="/images/csumb/gamedesign/ZS2Dscreenshot4.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
     </a>
   </div>
   <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
