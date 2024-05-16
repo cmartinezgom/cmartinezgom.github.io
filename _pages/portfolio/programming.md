@@ -23,7 +23,7 @@ gallery:
 > It will improve soon!
 
 
-Here you can find a short description of all my ptogramming projects that don't have a dedicated page. This will mainly consist of educational projects about a certain area (2D or 3D programming, multiplayer, AI...) or smaller personal projects.
+Here you can find a short description of all my programming projects that don't have a dedicated page. This will mainly consist of educational projects about a certain area (2D or 3D programming, multiplayer, AI...) or smaller personal projects.
 
 If you want to check my main projects, take a look at [Racerloop](/portfolio/racerloop), [MotionTracker](/portfolio/motiontracker), [Flash Your Fears](/portfolio/flashyourfears) and [Katergáris' Labyrinth](/portfolio/katergarislabyrinth)!
 
