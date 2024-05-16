@@ -129,7 +129,8 @@ Courses (Computer Science):
 
   - Graphics Programming (A+)
 
-  Courses (Game Design and Interactive Media):
+
+Courses (Game Design and Interactive Media):
 
   - Character Design (A+)
 
@@ -137,7 +138,8 @@ Courses (Computer Science):
 
   - Game Design II (A)
 
-  Courses (Cinematics Arts Technology):
+
+Courses (Cinematics Arts Technology):
 
   - The Art of Storytelling (A+)
 
@@ -154,23 +156,27 @@ Courses (Computer Science):
      <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems.<br>Culminated my studies with the <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a> project during a <strong>Software Engineering Internship at HP SCDS</strong>, earning a 9.8/10 grade.
+  <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems.<br>Culminated my studies with the <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a> project during a <strong>Software Engineering Internship at HP SCDS</strong>, earning a 9.8/10 grade as the Final Degree Project, and a 9.5/10 from the HP-SCDS supervisor.
   
   This degree allowed me to practise the controlled-entry profession of computer engineer. Programmes in Computing are widespread in most universities in the world that offer qualifications in Engineering.
   </p>
 </div>
 
 The areas studied in such programmes are wide-ranging:
-  Software engineering.
-  Databases.
-  Programming.
-  Artificial intelligence.
-  Knowledge engineering.
-  Formal languages.
-  Computer architecture.
-  Web technologies.
-  Computer security
+  - Software engineering.
+  - Databases.
+  - Programming.
+  - Artificial intelligence.
+  - Knowledge engineering.
+  - Formal languages.
+  - Computer architecture.
+  - Web technologies.
+  - Computer security.
+  - Computer architecture.
+  - Mathematics.
+  - Physics.
 
+<!--
   Courses:
 
   - Differential and Integral Calculus
@@ -215,12 +221,13 @@ The areas studied in such programmes are wide-ranging:
   - Technological Innovation (10)
   - Grid Computing and Supercomputing (10)
   - Artificial Vision (9.5)
+-->
 
 ### <i class="fa-solid fa-calculator"></i> Dual Degree in Mathematics and Computer Science
 09/2014 – 06/2016 | Valladolid, Spain @ University of Valladolid
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;">Developed a <strong>robust foundation in mathematics</strong> (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core Software Engineering principles. Completed 93 credits.
+  <p style="margin-right: 20px;">Developed a <strong>robust foundation in mathematics</strong> (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core Software Engineering principles. Completed 93 credits. Left after the second year because I wanted to focus on Computer Science and gamedev!
   </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
@@ -238,10 +245,10 @@ Courses:
 - Numeric Calculus
 - Introduction to Operative Investigation
 - General Physics
-- Computer Structure and Technology (3º)
 - Automatic Treatment of Information
 - Differential Equations (2º)
 - Applied Mathematics to Natural and Social Sciences (2º)
+- Computer Structure and Technology (3º)
 - Usage of Operative Systems (3º)
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
