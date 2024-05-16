@@ -199,7 +199,7 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
   This project's excellence was underscored by:<br>- <a href="https://hpscds.com/xv-observatorio-hp-2020/"><strong>Finalist in the XV "Programa Observatorio Tecnológico HP" awards.</strong></a><br>- High marks from both HP SCDS lead (9.5/10) and as my Final Degree Project (9,8/10).</p>
  <div style="width: 450px; height: 200px;">
    <a href="/portfolio/motiontracker/">
-     <img src="images/csumb/gamedesign/ZS2Dscreenshot7.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/csumb/gamedesign/ZS2Dscreenshot7.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
 </div>
