@@ -30,19 +30,23 @@ If you want to check my main projects, take a look at [Racerloop](/portfolio/rac
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
 <div align="center" id="timeracer-section">
-
   <h2>Time Racer | 3D Programming Course (UOC) </h2>
-
 </div>
 
-<div style="display: flex;">
- <div style="width: 450px; height: 200px;">
-   <a href="/portfolio/racerloop/">
-     <img src="/images/uoc/3d/timeracer2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
-   </a>
- </div>
-  <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
+<div style="display: flex; justify-content: center;">
+  <div style="width: 450px; height: 200px;">
+    <a href="/portfolio/racerloop/">
+      <img src="/images/uoc/3d/timeracer2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+    </a>
+  </div>
+  <p style="margin-left: 20px; margin-right: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
+  <div style="width: 450px; height: 200px;">
+    <a href="/portfolio/racerloop/">
+      <img src="/images/uoc/3d/timeracer2.png" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+    </a>
+  </div>
 </div>
+
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
