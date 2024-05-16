@@ -58,6 +58,10 @@ postgalleryProgramming:
     alt: "placeholder image 3"
     caption: "[**Tanks Multiplayer (Online and Local)**<br>(Multiplayer Games Course)](/portfolio/programming/)"
   - url: /portfolio/programming/
+    image_path: /images/uoc/2d/cursingcontestmenu.png
+    alt: "placeholder image 3"
+    caption: "[**Cursing Contest**<br>((2D Programming Course)](/portfolio/programming/)"
+  - url: /portfolio/programming/
     image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
     alt: "placeholder image 3"
     caption: "[**2D Zombie Survival**<br>(Game Design Course)](/portfolio/programming/)"
