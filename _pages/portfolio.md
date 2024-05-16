@@ -10,7 +10,7 @@ postgalleryProfProgramming:
   - url: /portfolio/racerloop/
     image_path: /images/Racerloop1.jpg
     alt: "placeholder image 1"
-    caption: "[**Racerloop**<br>(Junior Unity Programmer)](/portfolio/racerloop/)"
+    caption: "[**Racerloop**<br>(Junior Programmer)](/portfolio/racerloop/)"
   - url: /portfolio/motiontracker/
     image_path: /images/MotionTracker_2.png
     alt: "placeholder image 2"
