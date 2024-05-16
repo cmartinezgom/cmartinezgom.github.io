@@ -4,11 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
-> It will improve soon!
-
-# About me
-
 Hi! I'm Carlos Martínez, a programmer, designer and gamer from Spain! I have been playing videogames since I was little, and they ended up being the main focus of my life, both professionally and personally. I have spent the last +10 years creating and learning about them!
 
 ## Education
