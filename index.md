@@ -288,7 +288,3 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
-
-
-
-[Prueba Descarga](/assets/descargatest.ups)
