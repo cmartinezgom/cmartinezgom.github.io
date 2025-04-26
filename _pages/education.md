@@ -102,6 +102,26 @@ galleryCSUMB:
   - url: /portfolio/
     image_path: /images/csumb/environment/image2_2.png
     alt: "placeholder image 3"
+
+galleryUCM:
+  - url: /portfolio/
+    image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/csumb/character/R-0L1concepts.jpg
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/csumb/environment/Render1.jpg
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/csumb/character/Turnaround.jpg
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/csumb/character/Render.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/csumb/environment/image2_2.png
+    alt: "placeholder image 3"
 ---
 
 Here you'll find my education divided into three categories: <a href="#education-section">Education</a>, <a href="#courses-section">Courses</a> and <a href="#additional-section">Additional Education</a>.
@@ -147,7 +167,7 @@ Courses (Cinematics Arts Technology):
 
 <br>
 
-{% include gallery.html caption="UCM Projects." id="galleryCSUMB" %}
+{% include gallery.html caption="UCM Projects." id="galleryUCM" %}
 
 ### <i class="fa-solid fa-gamepad"></i> Master’s Degree in Video Game Design and Programming
 09/2020 – 01/2022 | Online @ Open University of Catalonia
