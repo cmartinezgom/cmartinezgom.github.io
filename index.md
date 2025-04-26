@@ -198,6 +198,18 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 
 </div>
 
+### <i class="fa-solid fa-gamepad"></i> Master’s Degree in Video Game Development
+10/2024 – 06/2025 | Madrid, ESP @ Complutense University of Madrid
+
+<div style="display: flex;">
+ <div style="width: 150px; height: 150px; flex-shrink: 0;">
+   <a href="/education/">
+     <img src="/images/logoUCM.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+   </a>
+ </div>
+  <p style="margin-right: 20px;"><a href="/education/">Master's program</a> specialized in <strong>Unreal Engine and C++ programming</strong>, taught by industry professionals from EA, Activision, Mercury Steam, and others. It delves into areas such as Graphics Programming, Artificial Intelligence, Production, Design, Architecture, Networking, Engines, Physics, UI, and more.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Dreadbone</a>.</p>
+</div>
+
 ### <i class="fa-solid fa-gamepad"></i> Master’s Degree in Video Game Design and Programming
 09/2020 – 01/2022 | Online @ Open University of Catalonia
 
