@@ -202,7 +202,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 10/2024 – 06/2025 | Madrid, ESP @ Complutense University of Madrid
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;"><a href="/education/">Master's program</a> specialized in <strong>Unreal Engine and C++ programming</strong>, taught by industry professionals from EA, Activision, Mercury Steam, and others. It delves into areas such as Graphics Programming, Artificial Intelligence, Production, Design, Architecture, Networking, Engines, Physics, UI, and more.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Dreadbone</a>.</p>
+  <p style="margin-right: 20px;"><a href="/education/">Master's program</a> specialized in <strong>Unreal Engine and C++ programming</strong>, taught by industry professionals from EA, Activision, Mercury Steam, and others. It delves into areas such as Graphics Programming, Artificial Intelligence, Production, Design, Architecture, Networking, Pipeline, Engine, Physics, UI, and more.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Dreadbone</a>.</p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/education/">
      <img src="/images/logoUCM.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
@@ -219,7 +219,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;"><a href="/education/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming using <strong>Unity and C#</strong>, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
 </div>
 
 
