@@ -125,7 +125,6 @@ Here you'll find my education divided into three categories: <a href="#education
      <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-</div>
 
 Courses (Computer Science):
 
