@@ -84,7 +84,7 @@ gallery:
 <div class="row">
   <div class="column3" style="background: linear-gradient(to bottom, #FFB695, #FF9F6A); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2><i class="fa fa-headset"></i> Skills</h2>
-    <p style="line-height: 2;"><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Unity 2D/3D</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C#</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C++</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Java</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Python</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Matlab</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Git</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Jira</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Agile</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Photoshop</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Video editing</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Microsoft Office</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Linux/Ubuntu</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Maya</span></p>
+    <p style="line-height: 2;"><span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Unity 2D/3D</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">UE 4/5</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C#</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C++</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">C</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Java</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Python</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Matlab</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Git</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Perforce</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Jira</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Agile</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Photoshop</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Video editing</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Microsoft Office</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Linux/Ubuntu</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Maya</span></p>
   </div>
   <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2><i class="fa fa-language"></i> Languages</h2>
@@ -199,7 +199,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 </div>
 
 ### <i class="fa-solid fa-gamepad"></i> Master’s Degree in Video Game Development
-10/2024 – 06/2025 | Madrid, ESP @ Complutense University of Madrid
+10/2024 – 06/2025 | Madrid, Spain @ Complutense University of Madrid
 
 <div style="display: flex;">
   <p style="margin-right: 20px;"><a href="/education/">Master's program</a> specialized in <strong>Unreal Engine and C++ programming</strong>, taught by industry professionals from EA, Activision, Mercury Steam, and others. It delves into areas such as Graphics Programming, Artificial Intelligence, Production, Design, Architecture, Networking, Pipeline, Engine, Physics, UI, and more.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Dreadbone</a>.</p>
@@ -219,7 +219,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
      <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
-  <p style="margin-left: 20px;"><a href="/education/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming using <strong>Unity and C#</strong>, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergaris’ Labyrinth</a>.</p>
+  <p style="margin-left: 20px;"><a href="/education/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming using <strong>Unity and C#</strong>, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergáris’ Labyrinth</a>.</p>
 </div>
 
 
@@ -294,7 +294,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 - **Basketball player & coach**. Competed at the **National Championship** and winner of multiple leagues.
 
-- **Industry Speaker**: Delivered lectures and participated in discussions on "Environmental Storytelling in Video Games" and other game development topics (Level Up León, 08/2018).
+- **Industry Speaker**: Delivered lectures about game design like <i>"Designing "Against" the Player"</i> (Level Up León, 08/2024) and <em>"Environmental Storytelling in Video Games" </em> (Level Up León, 08/2018).
 
 - **Certified Recreational Activities Coordinator**: Gained expertise in planning and leading engaging activities.
 
