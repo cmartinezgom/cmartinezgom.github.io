@@ -118,13 +118,14 @@ Here you'll find my education divided into three categories: <a href="#education
 08/2019 – 01/2020 | Seaside, CA, USA
 
 <div style="display: flex;">
-  <p style="margin-right: 20px;"><a href="/education/">Master's program</a> specialized in <strong>Unreal Engine and C++ programming</strong>, taught by industry professionals from EA, Activision, Mercury Steam, and others. It delves into areas such as Graphics Programming, Artificial Intelligence, Production, Design, Architecture, Networking, Pipeline, Engine, Physics, UI, and more.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Dreadbone.<br>
+  <p style="margin-right: 20px;"><a href="/education/">Studied abroad</a> for a semester in California, focusing on <strong>Computer Science, Game Design, and Cinematic Arts Technology</strong>.<br>
   </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
      <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
+</div>
 
 Courses (Computer Science):
 
@@ -146,7 +147,7 @@ Courses (Cinematics Arts Technology):
 
 <br>
 
-{% include gallery.html caption="UCM Projects." id="galleryUCM" %}
+{% include gallery.html caption="UCM Projects." id="galleryCSUMB" %}
 
 ### <i class="fa-solid fa-gamepad"></i> Master’s Degree in Video Game Design and Programming
 09/2020 – 01/2022 | Online @ Open University of Catalonia
