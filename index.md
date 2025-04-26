@@ -55,7 +55,7 @@ gallery:
 
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a <strong>creative programmer and game developer</strong> who excels both independently and in teams. With over <strong>three years of professional programming <a href="#experience-section">experience</a></strong>, including roles as a <strong>Junior Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br>My <a href="#education-section">education</a> gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
+  <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a <strong>creative programmer and game developer</strong> who excels both independently and in teams. With over <strong>three years of professional programming <a href="#experience-section">experience</a></strong>, including roles as a <strong>Junior Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br>My <a href="#education-section">education</a> (two Master's and a degree) gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
   <img src="/images/chibi.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
@@ -294,7 +294,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 - **Basketball player & coach**. Competed at the **National Championship** and winner of multiple leagues.
 
-- **Industry Speaker**: Delivered lectures about game design like <i>"Designing "Against" the Player"</i> (Level Up León, 08/2024) and <em>"Environmental Storytelling in Video Games" </em> (Level Up León, 08/2018).
+- **Industry Speaker**: Delivered presentations about game design like <i>"Designing "Against" the Player"</i> (Level Up León, 08/2024) and <i>"Environmental Storytelling in Video Games" </i> (Level Up León, 08/2018).
 
 - **Certified Recreational Activities Coordinator**: Gained expertise in planning and leading engaging activities.
 

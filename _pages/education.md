@@ -6,6 +6,45 @@ permalink: /education/
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
+
+galleryUCM:
+  - url: /portfolio/
+    image_path: /images/uoc/labyrinth/image17.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/3d/timeracermenu.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/2d/descentmain.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/3d/labmaze6.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/2d/mariounity.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/ia/maze2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/ia/plaza2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/ia/image27_2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/multi/image5_2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/level/portal/LevelDesignPortalLvl3.jpg
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/level/image1_2.png
+    alt: "placeholder image 3"
+  - url: /portfolio/
+    image_path: /images/uoc/media/boceto3RP1NCHOtecnico.jpg
+    alt: "placeholder image 3"
+
 galleryUOC:
   - url: /portfolio/
     image_path: /images/uoc/labyrinth/image17.png
@@ -74,6 +113,41 @@ Here you'll find my education divided into three categories: <a href="#education
   <h2>🎓 Education</h2>
 
 </div>
+
+### <i class="fa-solid fa-flag-usa"></i> International Student @ California State University Monterey Bay
+08/2019 – 01/2020 | Seaside, CA, USA
+
+<div style="display: flex;">
+  <p style="margin-right: 20px;"><a href="/education/">Master's program</a> specialized in <strong>Unreal Engine and C++ programming</strong>, taught by industry professionals from EA, Activision, Mercury Steam, and others. It delves into areas such as Graphics Programming, Artificial Intelligence, Production, Design, Architecture, Networking, Pipeline, Engine, Physics, UI, and more.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Dreadbone.<br>
+  </p>
+ <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
+   <a href="/portfolio/motiontracker/">
+     <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+   </a>
+ </div>
+</div>
+
+Courses (Computer Science):
+
+  - Graphics Programming (A+)
+
+
+Courses (Game Design and Interactive Media):
+
+  - Character Design (A+)
+
+  - Environment Modeling (A+)
+
+  - Game Design II (A)
+
+
+Courses (Cinematics Arts Technology):
+
+  - The Art of Storytelling (A+)
+
+<br>
+
+{% include gallery.html caption="UCM Projects." id="galleryUCM" %}
 
 ### <i class="fa-solid fa-gamepad"></i> Master’s Degree in Video Game Design and Programming
 09/2020 – 01/2022 | Online @ Open University of Catalonia
