@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "WELCOME!"
+title: "Carlos Martínez - Game Developer & Programmer Portfolio"
 
 feature_row4:
   - image_path: /images/chibi.png
@@ -21,7 +21,7 @@ gallery:
     image_path: /images/chibi.png
     alt: "placeholder image 1"
     title: "Strengths"
-    excerpt: "Dedication. Team work. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
+    excerpt: "Dedication. Teamwork. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
     caption: "PIUUUUM"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /images/chibi.png
@@ -43,7 +43,7 @@ gallery:
 
 <div align="center">
 
-  <h1> Hi! I'm Carlos Martínez! <i class="fa fa-user-secret fa-bounce"></i> </h1>
+  <h1> Hello! I'm Carlos Martínez <i class="fa fa-user-secret fa-bounce"></i> </h1>
 
 </div>
 
@@ -89,11 +89,11 @@ gallery:
   <div class="column3" style="background: linear-gradient(to bottom, #ADD8E6, #87CEEB); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2><i class="fa fa-language"></i> Languages</h2>
     <p><strong>Spanish</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Native</span></p>
-    <p style="line-height: 2.55;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE ENG as First Language</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
+    <p style="line-height: 2.55;"><strong>English</strong>: <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IGCSE ENG as First Language</span> <br> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">IELTS C1</span></p>
   </div>
     <div class="column3" style="background: linear-gradient(to bottom, #FFE28A, #FFCE60); border:1px solid #000; border-radius:10px; text-align:center; font-size:18px; box-shadow:5px 5px 10px rgba(0, 0, 0, 0.5);">
     <h2><i class="fa fa-dumbbell"></i> Strengths</h2>
-    <p style="line-height: 2.65;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Team work</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Proactive</span></p>
+    <p style="line-height: 2.65;"> <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Teamwork</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Fast learner</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Self-starter</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Creative</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Multidisciplinary</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Curious</span>  <span style="border: 1px solid #000; border-radius: 15px; padding: 5px;">Proactive</span></p>
   </div>
 </div>
 
@@ -260,7 +260,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  </div>
 </div>
 
-### <i class="fa-solid fa-book"></i> Aditional Education
+### <i class="fa-solid fa-book"></i> Additional Education
 
 - University Entrance Exam (PAU) with a grade of 10.5/14.
 
@@ -286,7 +286,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 
 <div align="center" id="achivements-section">
 
-  <h2> 🏆 Other Achivements </h2>
+  <h2> 🏆 Other Achievements </h2>
 
 </div>
 
