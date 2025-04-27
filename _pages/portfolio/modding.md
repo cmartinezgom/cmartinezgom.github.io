@@ -56,7 +56,7 @@ gallery:
 <div style="margin-top: 10px; margin-bottom: 30px;">
   <!-- RED BUTTON for YouTube -->
   <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin-right: 20px;">
-    <i class="fa fa-youtube-play"></i> Watch Demo
+    <i class="fa fa-youtube"></i> Watch Demo
   </a>
   <!-- GREEN BUTTON for Download -->
   <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px;">
