@@ -55,15 +55,15 @@ gallery:
 <!-- Section 3: Links (Buttons) - CENTERED -->
 <div style="margin-top: 10px; margin-bottom: 30px; text-align: center;"> {/* Added text-align: center here */}
   <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;"> {/* Adjusted margin */}
-    <i class="fas fa-youtube-play"></i> Watch Demo {/* Changed icon class */}
+  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
+    <i class="fas fa-youtube-play"></i> Watch Demo 
   </a>
   <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;"> {/* Added margin */}
-    <i class="fab fa-download"></i> Download Mod
+  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
+    <i class="fa fa-download"></i> Download Mod
   </a>
   <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> --> {/* Example if you add this link */}
+  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
 </div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
