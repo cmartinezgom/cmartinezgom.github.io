@@ -19,7 +19,7 @@ gallery:
 
 ---
 
-### <i class="fa fa-wrench"></i> Pokémon Emerald, but you can only BUY Pokémon
+### <i class="fa fa-money-check-dollar"></i> Pokémon Emerald, but you can only BUY Pokémon
 
 <!-- Section 1: Image and Basic Info -->
 <div style="display: flex; margin-bottom: 10px; align-items: flex-start;">
@@ -67,4 +67,3 @@ gallery:
 </div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
-<hr style="border: none; border-top: 1px solid #ddd; border-bottom: 1px solid #fff;">
