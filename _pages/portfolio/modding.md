@@ -31,7 +31,7 @@ gallery:
   <!-- Mod Details (Short Summary) -->
   <div style="flex-grow: 1;">
     <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-gamepad"></i> Game:</strong> Pokémon Emerald</p>
-    <p style="margin-top: 0; margin-bottom: 10px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> C + pokeemerald Decompilation </p>
+    <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> C + pokeemerald Decompilation </p>
     <p><strong>Summary:</strong><br>
     This mod for Pokémon Emerald completely changes how you play the game, as the only way to obtain Pokémon is by buying them from Poké Marts.
     </p>
