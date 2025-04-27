@@ -67,3 +67,39 @@ gallery:
 </div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
+
+### <i class="fa fa-money-check-dollar"></i> Ratchet & Clank, but if your bolts get to 0 Ratchet dies
+
+<!-- Section 1: Image and Basic Info -->
+<div style="display: flex; margin-bottom: 5px; align-items: flex-start;">
+  <!-- Mod Image -->
+  <div style="width: 250px; height: 160px; flex-shrink: 0; margin-right: 20px;">
+    <img src="/images/mods/ratchetbolts.png" alt="Pokémon Emerald Buy Mod Shop Interface" style="border-radius: 10px; width: 100%; height: 100%; object-fit: cover; border: 1px solid #ccc;">
+  </div>
+
+  <!-- Mod Details (Short Summary) -->
+  <div style="flex-grow: 1;">
+    <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-gamepad"></i> Game:</strong> Ratceht & Clank</p>
+    <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> Lua + racman </p>
+    <p><strong>Summary:</strong><br>
+    This mod for Ratchet & Clank turns the currency of the game, bolts, to a timer than when hits 0, makes Ratchet die.
+    </p>
+  </div>
+</div>
+
+<!-- Section 3: Links (Buttons) -->
+<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
+  <!-- RED BUTTON for YouTube -->
+  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
+    <i class="fab fa-youtube"></i> Watch Demo 
+  </a>
+  <!-- GREEN BUTTON for Download -->
+  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
+    <i class="fa fa-download"></i> Download Mod
+  </a>
+  <!-- Optional: Add a link to a blog post or more details page -->
+  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
+</div>
+
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
