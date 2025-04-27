@@ -30,9 +30,15 @@ gallery:
   <!-- Mod Details -->
   <div style="flex-grow: 1;">
     <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-gamepad"></i> Game:</strong> Pokémon Emerald</p>
-    <p style="margin-top: 0; margin-bottom: 10px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> C </p>
+    <p style="margin-top: 0; margin-bottom: 10px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> C + Pokémon Emerald Decompilation </p>
     <p><strong>Summary:</strong><br>
-    This mod for Pokémon Emerald completely changes how you play the game, as the only way to catch Pokémon is by buying them.
+    This mod for Pokémon Emerald completely changes how you play the game, as the only way to catch Pokémon is by buying them. The main changes are:
+    - You can no longer catch wild Pokémon.
+    - Every store in the game offers Pokémon instead of items to buy.
+    - You can also sell your Pokémon from your PC at half their price.
+    - Pokémon prizes are determined by a custom formula taking into account every single Pokémon.
+    - Shop's Pokémon are randomized but are consistent across the same save. Every new game will rerandomize that save's selling Pokémon.
+    - You can nickname Pokémon in the party menu.
     </p>
   </div>
 </div>
