@@ -43,7 +43,7 @@ gallery:
   <p style="margin-bottom: 5px;"><strong>Key Features:</strong></p>
   <ul style="margin-top: 0; padding-left: 20px;">
       <li>Wild Pokémon encounters are disabled; catching is impossible.</li>
-      <li>Poké Marts now sell Pokémon instead of items, with stock varying by location.</li>
+      <li>Poké Marts now sell Pokémon instead of items, with stock varying by location. The UI has been modified to show each Pokémon name, prize and icon.</li>
       <li>Players can sell Pokémon from their PC storage at half their calculated purchase price.</li>
       <li>A custom formula determines Pokémon prices based on stats, rarity, and other factors.</li>
       <li>Shop inventories are randomized per save file but remain consistent within that playthrough.</li>
@@ -56,7 +56,7 @@ gallery:
 <div style="margin-top: 10px; margin-bottom: 30px;">
   <!-- RED BUTTON for YouTube -->
   <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin-right: 20px;">
-    <i class="fa fa-youtube"></i> Watch Demo
+    <i class="fa fa-youtube-play" aria-hidden="true"></i> Watch Demo
   </a>
   <!-- GREEN BUTTON for Download -->
   <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px;">
