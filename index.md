@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Carlos Martínez - Game Developer & Programmer Portfolio"
+title: "Welcome to my Portfolio"
 
 feature_row4:
   - image_path: /images/chibi.png

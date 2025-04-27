@@ -22,7 +22,6 @@ gallery:
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
 > It will improve soon!
 
-<!--
 
 ![full](/images/FlashYourFears.jpg){: full}
 
@@ -74,4 +73,3 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
  </div>
   <p style="margin-left: 20px;">Diverse <strong><a href="/portfolio/#programming-section">personal and educational projects</a></strong> in game development and <a href="/portfolio/#modding-section">modding</a> demonstrate my adaptability across various games and languages.<br><br>Examples include: C# (Unity), C++ (Unreal Engine 4 and 5), C modding (Pokémon), Java modding (Minecraft), Lua scripting (Ratchet & Clank)...</p>
 </div>
--->
