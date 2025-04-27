@@ -39,7 +39,7 @@ gallery:
 </div>
 
 <!-- Section 2: Key Features List -->
-<div style="margin-top: 10px; margin-bottom: 15px;">
+<div style="margin-top: 5px; margin-bottom: 15px;">
   <p style="margin-bottom: 5px;"><strong>Key Features:</strong></p>
   <ul style="margin-top: 0; padding-left: 20px;">
       <li>Wild Pokémon encounters are disabled; catching is impossible.</li>
