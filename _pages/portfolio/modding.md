@@ -19,33 +19,20 @@ gallery:
 
 ---
 
-> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
-> It will improve soon!
-
-
-![full](/images/FlashYourFears.jpg){: full}
-
-<div align="center" id="experience-section">
-
-  <h2>💼 Experience</h2>
-
-</div>
-
-
 ### <i class="fa fa-wrench"></i> Mod Title Placeholder
 
 <div style="display: flex; margin-bottom: 15px; align-items: flex-start;">
   <!-- Mod Image -->
   <div style="width: 250px; height: 160px; flex-shrink: 0; margin-right: 20px;">
-    <img src="/images/modding/placeholder_mod_image.png" alt="Description of Mod Image" style="border-radius: 10px; width: 100%; height: 100%; object-fit: cover; border: 1px solid #ccc;">
+    <img src="/images/mods/comprarpokemon.png" alt="Description of Mod Image" style="border-radius: 10px; width: 100%; height: 100%; object-fit: cover; border: 1px solid #ccc;">
   </div>
 
   <!-- Mod Details -->
   <div style="flex-grow: 1;">
-    <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-gamepad"></i> Game:</strong> Name of the Game (e.g., Minecraft, Skyrim, Ratchet & Clank)</p>
-    <p style="margin-top: 0; margin-bottom: 10px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> Language or Tools Used (e.g., Java, C, Lua, Unity, Unreal Engine)</p>
+    <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-gamepad"></i> Game:</strong> Pokémon Emerald</p>
+    <p style="margin-top: 0; margin-bottom: 10px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> C </p>
     <p><strong>Summary:</strong><br>
-    This is where you write a short summary of your mod. Explain what it does, what features it adds, or what changes it makes to the game. Try to keep it to a few sentences to give a quick overview. For example: *This mod for Pokémon Emerald introduces a new region accessible post-game, featuring custom trainers, unique challenges, and modified game mechanics programmed in C.*
+    This mod for Pokémon Emerald completely changes how you play the game, as the only way to catch Pokémon is by buying them.
     </p>
   </div>
 </div>
@@ -60,4 +47,4 @@ gallery:
   <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin-left: 20px;"><i class="fa fa-info-circle"></i> More Info</a> -->
 </div>
 
-<hr style="border: none; border-top: 1px solid #ddd; border-bottom: 1px solid #fff;">
+<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
