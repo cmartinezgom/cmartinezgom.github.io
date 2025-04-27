@@ -25,51 +25,39 @@ gallery:
 
 ![full](/images/FlashYourFears.jpg){: full}
 
-
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
-
-{% include gallery.html caption="This is a sample gallery to go along with this case study." %}
-
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
-
 <div align="center" id="experience-section">
 
   <h2>💼 Experience</h2>
 
 </div>
 
-### 🚀 Junior Unity Programmer @ Maniac Panda Games
-05/2022 – 09/2023 | Remote
 
-<div style="display: flex;">
- <div style="width: 450px; height: 200px;">
-   <a href="/portfolio/racerloop/">
-     <img src="/images/racerloop/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
-   </a>
- </div>
-  <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts and other tools.</p>
+### <i class="fa fa-wrench"></i> Mod Title Placeholder
+
+<div style="display: flex; margin-bottom: 15px; align-items: flex-start;">
+  <!-- Mod Image -->
+  <div style="width: 250px; height: 160px; flex-shrink: 0; margin-right: 20px;">
+    <img src="/images/modding/placeholder_mod_image.png" alt="Description of Mod Image" style="border-radius: 10px; width: 100%; height: 100%; object-fit: cover; border: 1px solid #ccc;">
+  </div>
+
+  <!-- Mod Details -->
+  <div style="flex-grow: 1;">
+    <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-gamepad"></i> Game:</strong> Name of the Game (e.g., Minecraft, Skyrim, Ratchet & Clank)</p>
+    <p style="margin-top: 0; margin-bottom: 10px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> Language or Tools Used (e.g., Java, C, Lua, Unity, Unreal Engine)</p>
+    <p><strong>Summary:</strong><br>
+    This is where you write a short summary of your mod. Explain what it does, what features it adds, or what changes it makes to the game. Try to keep it to a few sentences to give a quick overview. For example: *This mod for Pokémon Emerald introduces a new region accessible post-game, featuring custom trainers, unique challenges, and modified game mechanics programmed in C.*
+    </p>
+  </div>
 </div>
 
-### 👁 Software Engineering Intern @ HP SCDS
-09/2018 – 06/2020 | León, Spain
-
-<div style="display: flex;">
-  <p style="margin-right: 10px;">Built <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a>, a Python-based target tracking system for moving targets and cameras using agile methodologies under the direction of HP SCDS.<br><br>
-  This project's excellence was underscored by:<br>- <a href="https://hpscds.com/xv-observatorio-hp-2020/"><strong>Finalist in the XV "Programa Observatorio Tecnológico HP" awards.</strong></a><br>- High marks from both HP SCDS lead (9.5/10) and as my Final Degree Project (9,8/10).</p>
- <div style="width: 450px; height: 200px;">
-   <a href="/portfolio/motiontracker/">
-     <img src="/images/MotionTracker.gif" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
-   </a>
- </div>
+<!-- Links: YouTube Demo and Download -->
+<div style="margin-top: 10px; margin-bottom: 30px;">
+  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" style="margin-right: 20px; text-decoration: none; color: #E62117;"><i class="fa fa-youtube-play"></i> Watch Demo Video</a>
+  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px;">
+    <i class="fa fa-download"></i> Download Mod
+  </a>
+  <!-- Optional: Add a link to a blog post or more details page -->
+  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin-left: 20px;"><i class="fa fa-info-circle"></i> More Info</a> -->
 </div>
 
-### <i class="fa fa-puzzle-piece"></i> Personal Projects
-
-<div style="display: flex;">
- <div style="width: 450px; height: 200px;">
-   <a href="/portfolio/motiontracker/">
-     <img src="/images/FlashYourFears.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
-   </a>
- </div>
-  <p style="margin-left: 20px;">Diverse <strong><a href="/portfolio/#programming-section">personal and educational projects</a></strong> in game development and <a href="/portfolio/#modding-section">modding</a> demonstrate my adaptability across various games and languages.<br><br>Examples include: C# (Unity), C++ (Unreal Engine 4 and 5), C modding (Pokémon), Java modding (Minecraft), Lua scripting (Ratchet & Clank)...</p>
-</div>
+<hr style="border: none; border-top: 1px solid #ddd; border-bottom: 1px solid #fff;">
