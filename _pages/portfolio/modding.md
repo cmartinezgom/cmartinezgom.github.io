@@ -22,7 +22,7 @@ gallery:
 ### <i class="fa fa-money-check-dollar"></i> Pokémon Emerald, but you can only BUY Pokémon
 
 <!-- Section 1: Image and Basic Info -->
-<div style="display: flex; margin-bottom: 10px; align-items: flex-start;">
+<div style="display: flex; margin-bottom: 5px; align-items: flex-start;">
   <!-- Mod Image -->
   <div style="width: 250px; height: 160px; flex-shrink: 0; margin-right: 20px;">
     <img src="/images/mods/comprarpokemon.png" alt="Pokémon Emerald Buy Mod Shop Interface" style="border-radius: 10px; width: 100%; height: 100%; object-fit: cover; border: 1px solid #ccc;">
