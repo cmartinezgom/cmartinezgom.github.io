@@ -19,33 +19,39 @@ gallery:
 
 ---
 
-### <i class="fa fa-wrench"></i> Mod Title Placeholder
+### <i class="fa fa-wrench"></i> Pokémon Emerald, but you can only BUY Pokémon
 
 <div style="display: flex; margin-bottom: 15px; align-items: flex-start;">
   <!-- Mod Image -->
   <div style="width: 250px; height: 160px; flex-shrink: 0; margin-right: 20px;">
-    <img src="/images/mods/comprarpokemon.png" alt="Description of Mod Image" style="border-radius: 10px; width: 100%; height: 100%; object-fit: cover; border: 1px solid #ccc;">
+    <img src="/images/mods/comprarpokemon.png" alt="Pokémon Emerald Buy Mod Shop Interface" style="border-radius: 10px; width: 100%; height: 100%; object-fit: cover; border: 1px solid #ccc;">
   </div>
 
   <!-- Mod Details -->
   <div style="flex-grow: 1;">
     <p style="margin-top: 0; margin-bottom: 5px;"><strong><i class="fa fa-gamepad"></i> Game:</strong> Pokémon Emerald</p>
-    <p style="margin-top: 0; margin-bottom: 10px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> C + Pokémon Emerald Decompilation </p>
+    <p style="margin-top: 0; margin-bottom: 10px;"><strong><i class="fa fa-code"></i> Language/Tools:</strong> C + pokeemerald Decompilation </p>
     <p><strong>Summary:</strong><br>
-    This mod for Pokémon Emerald completely changes how you play the game, as the only way to catch Pokémon is by buying them. The main changes are:
-    - You can no longer catch wild Pokémon.
-    - Every store in the game offers Pokémon instead of items to buy.
-    - You can also sell your Pokémon from your PC at half their price.
-    - Pokémon prizes are determined by a custom formula taking into account every single Pokémon.
-    - Shop's Pokémon are randomized but are consistent across the same save. Every new game will rerandomize that save's selling Pokémon.
-    - You can nickname Pokémon in the party menu.
+    This mod for Pokémon Emerald completely changes how you play the game, as the only way to obtain Pokémon is by buying them. Key changes include:
+    <ul style="margin-top: 5px; padding-left: 20px;">
+      <li>Wild Pokémon encounters are disabled; catching is impossible.</li>
+      <li>Poké Marts now sell Pokémon instead of items, with stock varying by location.</li>
+      <li>Players can sell Pokémon from their PC storage at half their calculated purchase price.</li>
+      <li>A custom formula determines Pokémon prices based on stats, rarity, and other factors.</li>
+      <li>Shop inventories are randomized per save file but remain consistent within that playthrough.</li>
+      <li>The party menu includes an option to nickname Pokémon directly.</li>
+    </ul>
     </p>
   </div>
 </div>
 
 <!-- Links: YouTube Demo and Download -->
 <div style="margin-top: 10px; margin-bottom: 30px;">
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" style="margin-right: 20px; text-decoration: none; color: #E62117;"><i class="fa fa-youtube-play"></i> Watch Demo Video</a>
+  <!-- RED BUTTON for YouTube -->
+  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin-right: 20px;">
+    <i class="fa fa-youtube-play"></i> Watch Demo
+  </a>
+  <!-- GREEN BUTTON for Download -->
   <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px;">
     <i class="fa fa-download"></i> Download Mod
   </a>
