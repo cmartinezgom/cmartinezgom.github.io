@@ -65,6 +65,8 @@ Mi contribución:
 
 Aunque mi rol principal fue de programador, también ayudé en la parte de diseño, planteando la idea inicial del centro comercial submarino en el que había que recorrer diferentes tiendas, la mecánica del oxígeno, el diseño de niveles, la curva de dificultad, o diferentes mejoras QoL como la crosshair en el movimiento del jugador y otros.
 
+<iframe frameborder="0" src="https://itch.io/embed-upload/12611640?color=a44098" allowfullscreen="" width="1080" height="780"><a href="https://giruza.itch.io/breathdown">Play Breathdown on itch.io</a></iframe>
+
 <iframe frameborder="0" src="https://itch.io/embed/3273017" width="552" height="167"><a href="https://giruza.itch.io/breathdown">Breathdown by Giruza, Yamila Wehbe, Monkwolf Sounds, DarkrimXtrike, cmartinezgom, Franchocratico, Nerea Herreros, Asgardr7</a></iframe>
 
 {% include gallery.html caption="Katergáris' Labyrinth screenshots." %}
