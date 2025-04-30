@@ -103,8 +103,6 @@ It's a pretty short game and I built it using Unity WebGL, so **play it right he
   </iframe>
 </div>
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" allowfullscreen="" width="1920" height="1100"><a href="https://cmartinezgom.itch.io/flash-your-fears">Play Flash your Fears on itch.io</a></iframe>
-
 <iframe frameborder="0" src="https://itch.io/embed/1420694" width="552" height="167"><a href="https://cmartinezgom.itch.io/flash-your-fears">Flash your Fears by cmartinezgom, Ceri_lla, MurkiPlays, Yamila Wehbe</a></iframe>
 
 Too scared to play? Check out these screenshots:
