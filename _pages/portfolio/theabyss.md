@@ -68,7 +68,7 @@ gallery:
     image_path: /images/flashyourfears/particlepixelartfire.png
     alt: "placeholder image 3"
 ---
-[**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://cmartinezgom.itch.io/flash-your-fears) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/cmartinezgom/ItsNotReal/tree/masters) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://itch.io/jam/brackeys-7)
+[**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://patatinpatatan.itch.io/the-abyss) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/Mavalco/proyecto-patatin-patatan) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://confoundingcalendar.itch.io/)
 
 <div style="width: 70%; margin: auto;">
   <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
@@ -76,7 +76,7 @@ gallery:
 
 Dive into the Abyss in this **short 2D Unity puzzle game** in which you will need to find your way out of an underwater mansion!  
 
-It was developed by me and five other friends in **a couple weeks** for [the Confounding Calendar 2024](https://itch.io/jam/brackeys-7).
+It was developed by me and five other friends in **a couple weeks** for [the Confounding Calendar 2024](https://confoundingcalendar.itch.io/).
 
 As I was the member with the most gamedev and programming experience, I was the **director, lead designer (environment, level, audio...), VFX artist and lead programmer** of the game.
 
@@ -92,9 +92,18 @@ And more!
 
 It's a pretty short game and I built it using Unity WebGL, so **play it now right here!*^*
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe frameborder="0" src="https://itch.io/embed-upload/5465492?color=333333" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" allowfullscreen=""></iframe>
+<div style="position: relative; padding-bottom: 57.29%; /* Aspect ratio (1100 / 1920 * 100) */ height: 0; overflow: hidden; max-width: 100%; margin: 1.5em auto;">
+  <iframe
+    frameborder="0"
+    src="https://itch.io/embed-upload/12137062?color=a7a79e"
+    allowfullscreen=""
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+  >
+    <a href="https://patatinpatatan.itch.io/the-abyss">Play The Abyss on itch.io</a>
+  </iframe>
 </div>
+
+<iframe frameborder="0" src="https://itch.io/embed/3144622" width="552" height="167"><a href="https://patatinpatatan.itch.io/the-abyss">The Abyss by PatatinPatatan, JAMZILA, cmartinezgom</a></iframe>
 
 Too scared to play? Check out these screenshots:
 
