@@ -37,8 +37,7 @@ gallery:
 
 ---
 
-> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
-> It will improve soon!
+[**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://giruza.itch.io/breathdown) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/Jose-AMM/Bubbly_Jam) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://globalgamejam.org/games/2025/breathdown-8)
 
 Breathdown is a 2D narrative video game made with Unity set in an underwater mall, through which the player must dive without drowning to uncover all its secrets. It was developed during two days at the Global Game Jam 2025 in Madrid, and I was the lead programmer and the assistant designer.
 
@@ -66,6 +65,7 @@ Mi contribución:
 
 Aunque mi rol principal fue de programador, también ayudé en la parte de diseño, planteando la idea inicial del centro comercial submarino en el que había que recorrer diferentes tiendas, la mecánica del oxígeno, el diseño de niveles, la curva de dificultad, o diferentes mejoras QoL como la crosshair en el movimiento del jugador y otros.
 
+<iframe frameborder="0" src="https://itch.io/embed/3273017" width="552" height="167"><a href="https://giruza.itch.io/breathdown">Breathdown by Giruza, Yamila Wehbe, Monkwolf Sounds, DarkrimXtrike, cmartinezgom, Franchocratico, Nerea Herreros, Asgardr7</a></iframe>
 
 {% include gallery.html caption="Katergáris' Labyrinth screenshots." %}
 
