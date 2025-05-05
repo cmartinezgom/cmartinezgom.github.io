@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "👻 Flash Your Fears"
-excerpt: "Developed in just one week for Brackeys' Game Jam 2022.1 (Theme: It Is Not Real)"
+excerpt: "Developed in one week for Brackeys' Game Jam 2022.1 (Theme: It Is Not Real)"
 permalink: /portfolio/flashyourfears/
 header:
   image: /images/FlashYourFears.jpg

@@ -39,12 +39,19 @@ gallery:
 
 [**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://giruza.itch.io/breathdown) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/Jose-AMM/Bubbly_Jam) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://globalgamejam.org/games/2025/breathdown-8)
 
-Breathdown is a 2D narrative video game made with Unity set in an underwater mall, through which the player must dive without drowning to uncover all its secrets. It was developed during two days at the Global Game Jam 2025 in Madrid, and I was the lead programmer and the assistant designer.
+<div style="width: 70%; margin: auto;">
+  <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
+</div>
 
-It was awarded as the best art of the Jam at Madrid.
+Breathdown is a 2D narrative video game made with Unity set in an underwater mall, through which the player must dive without drowning to uncover all its secrets.
+
+It was developed during two days at [the Global Game Jam 2025](https://confoundingcalendar.itch.io/) in Madrid
+
+I was the **lead programmer and the assistant designer**.
+
+Breathdown was recognised as the game with the best art of the Jam at Madrid.
 
 ![full](/images/KatergarisLabyrinthUI.jpg){: full}
-
 
 La idea tras Breathdown fue dar una experiencia misteriosa y agobiante, intercalando secciones de buceo contrareloj, en las que el jugador debe llegar a diferentes tiendas de este centro comercial sumergido antes de quedarse sin oxígeno. En cada una de las tiendas, el jugador se encontrará con un misterioso personaje que le hará diferentes preguntas sobre sus objetivos, sus anhelos, el lugar o la vida.
 
@@ -53,7 +60,7 @@ Con cada sección superada, la dificultad irá en aumento y, con ella, el lugar 
 En este proyecto actué de lead programer, planteando tanto las tareas como la arquitectura inicial del juego.
 
 Mi contribución:
-- Sistema de diálogos con diferentes efectos sobre el texto a tiempo real, como botar, hacer la ola, cambiar de color, temblar, caer, etc...
+- **Dialogue System**: Sistema de diálogos con diferentes efectos sobre el texto a tiempo real, como botar, hacer la ola, cambiar de color, temblar, caer, etc...
 - La implementación del sistema de diálogos, su UI y sus opciones en las escenas de tienda.
 - Menú principal y de opciones.
 - Transiciones y pantalla en negro.
@@ -78,7 +85,7 @@ Aunque mi rol principal fue de programador, también ayudé en la parte de dise�
 
 <iframe frameborder="0" src="https://itch.io/embed/3273017" width="552" height="167"><a href="https://giruza.itch.io/breathdown">Breathdown by Giruza, Yamila Wehbe, Monkwolf Sounds, DarkrimXtrike, cmartinezgom, Franchocratico, Nerea Herreros, Asgardr7</a></iframe>
 
-{% include gallery.html caption="Katergáris' Labyrinth screenshots." %}
+{% include gallery.html caption="Breathdown screenshots." %}
 
 
 You can check my Master's Thesis repository [here](https://openaccess.uoc.edu/handle/10609/138167).
