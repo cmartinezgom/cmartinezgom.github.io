@@ -74,43 +74,43 @@ gallery:
   <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-The Abyss is a short 2D puzzle game made with Unity set in an underwater masion, through which the player must explore to uncover all its secrets and be able to brake free.
+The Abyss is a short 2D puzzle game made with Unity, set in an underwater mansion that the player must explore to uncover its secrets and break free.
 
-It was developed by me and five other friends in **a couple weeks** for [the Confounding Calendar 2024](https://confoundingcalendar.itch.io/).
+The game was developed by me and five friends over a couple of weeks for [the Confounding Calendar 2024](https://confoundingcalendar.itch.io/).
 
-I was the **lead programmer, solo designer and overall producer/director**.
+I served as the **lead programmer, solo designer, and overall producer/director**.
 
-The Abyss buscó crear un juego de puzles corto de un solo nivel usando una paleta de colores limitada. Por ello el equipo se decidió a aprovechar los colores y el diseño del puzle para una mecánica principal: El uso de la luz y lo que puedes ver dependiendo de su color.
+The idea behind The Abyss was to create a compact, single-level puzzle experience using a limited color palette. This constraint led us to focus on a core mechanic built around color and puzzle design: light, and how what you see changes depending on its color.
 
-Una vez se planteó la idea de juego y mis compañeros de arte plantearon la estética del juego, boceté un primer borrador de lo que podría ser el puzle y propuse una mecánica extra para darle un toque de puzle de verdad: Las habitaciones de la casa pueden reubicarse y el jugador deberá avanzar dependiendo de los colores de luz que tenga y del orden de las habitaciones.
+Once the game idea was locked in and the art team proposed the visual style, I sketched the first version of the puzzle and suggested an additional mechanic to deepen the gameplay: the ability to rearrange the rooms of the mansion. This would require players to think not just about what light they were using, but also how the room order affected their progression.
 
 *boceto que hice del puzle en Paint*
 ![full](/images/KatergarisLabyrinthUI.jpg){: full}
 
-Esta mecánica adicional me parecía que le daba al juego algo más que no fuese simplemente avanzar por la casa encontrándose cristales de colores, y obligaba al jugador a plantearse qué usos había visto para cada tipo de luz en cada una de las habitaciones, y qué uso le podría dar a ese elemento en otras configuraciones de la casa. Por ejemplo: En una habitación podría encontrarse un agujero que solamente se puede ver con la luz naranja, y reordenando la casa, ese mismo agujero le podría permitir caer en una habitación a la que no puede acceder desde el rellano.
+I felt this mechanic added meaningful depth beyond just collecting colored crystals. It pushed players to consider how each light color revealed different elements in each room—and how those elements changed when the layout shifted. For example, a hole might only appear under orange light in one room, and after rearranging the mansion, that same hole could let the player drop into a previously inaccessible area.
 
-El diseño el puzle lo pensé introduciendo las mecánicas poco a poco para que se llegasen a entender bien, por lo que el jugador, idealmente, pasaría por los siguientes estados:
-1- **Desconocimiento**: El jugador solamente ve al pequeño pez, rodeado de total oscuridad mostrando los controles del juego. Aquí descubrirá cómo moverse hacia los lados con su personaje. Aparecerá en el extremo izquierdo del ático, para moverse instintivamente hacia la derecha.
-2- **Luz**: En la oscuridad, lo único que podrá distinguir será el primer cristal en el extremo derecho del ático, destacando además por su color llamativo y un efecto de partículas de brillos. Al tenerlo cerca le aparecerá la "E" para interaccionar con él. Al hacerlo, el jugador adquirirá el cristal y, al ser la primera luz, la oscuridad total que envolvía al personaje se irá retirando para, ahora sí, descubrirle toda una casa que explorar.
-3- **Escaleras**: Ahora que puede ver los diferentes pisos de la casa y tiene su primera luz alrededor del personaje, al volver hacia atrás descubrirá que gracias a esta luz, ahora puede ver una escalera de su mismo color en el medio del ático, justo encima de los rellanos. El jugador instintivamente bajará por ella, descubriendo la mecánica de subir y bajar por escaleras.
-4- **Puerta cerrada**: Unos pisos más abajo, con la luz se le mostrará una puerta del mismo color del cristal con una gran "E" de interacción, pero no podrá abrirla y escuchará un sonido de que está cerrada. El jugador entenderá instintivamente que debe buscar una llave.
-5- **Primera llave**: El jugador seguirá bajando hasta el salón, desde donde podrá ver un esqueleto moviéndose por la habitación cerrada, reforzando su curiosidad. Tras seguir explorando el salón, encontrará una criatura con la que podrá interactuar, y recibirá su primera llave, del mismo color del cristal y la puerta, con la que podrá abrir la puerta.
-6- **Segundo cristal**: Tras abrir la puerta cerrada e interaccionar con el esqueleto, este le dará el segundo cristal. Al interaccionar con él se equipa automáticamente, cambiando el color de la luz y revelando una escalera de mano que no podía ver con la luz inicial, y que le permite subir a la habitación que tiene justo encima.
-7- **Uso de cristales**: En la habitación superior encontrará la llave del mismo color que el nuevo cristal y la llave para abrirla. Al bajar por el rellano (o por la escalera que le llevó a esta habitación), descubrirá que con la nueva luz no puede ver la primera puerta cerrada del juego, aprendiendo así la importancia del cambio de cristales.
-Nota: Originalmente diseñé todo para que este cristal fuese el rosa, y así diferenciarse más del color del primer cristal. Sin embargo, mis compañeros de arte intercambiaron los colores y se quedó así. Creo que con el color rosa hubiese quedado mucho más claro el cambio de luz, de cristal, y por ende, que el jugador puede usarlos indistintamente.
-8- **Mover habitaciones**: Con el nuevo cristal, el jugador podrá bajar de nuevo al salón, donde en el extremo derecho, se le mostrará una trampilla que le permite bajar al sótano, donde le aguardará una misteriosa criatura con la que podrá hablar. Este ser se utiliza para marcar el ambiente del juego, pero también es el desbloqueo de la mecánica de movimiento de habitaciones. Tras un breve diálogo, le preguntará al jugador si quiere modificar la casa, y el jugador podrá decir que sí o no. Al decir que sí, se sale automáticamente del diálogo y se reproduce la animación en la que las habitaciones rotan en sentido antihorario. Al haber salido de la conversación, la primera reacción del jugador seguramente será investigar la nueva disposición de la casa.
-9- **Momento Eureka**: Al explorar la casa de nuevo, el jugador descubrirá que se han movido tanto las habitaciones, como sus puertas correspondientes y... Los elementos dentro de cada una de ellas. En este momento, idealmente, se dará cuenta de que la escalera que le permitió subir a la habitación del segundo cristal, ahora le permite subir al ático, dado que es lo que se encuentra justo encima de la habitación del esqueleto.
-10- **Conocimiento del juego**: Ahora que se le han presentado todas las mecánicas y ha entendido cómo usarlas, el jugador podrá explorar todas las habitaciones de la casa moviéndolas de posición y usando los distintos cristales, hasta que finalmente pueda completar este puzle/scape room y salir de la mansión sumergida. En caso de no haberlas entendido también se puede completar el juego con fuerza bruta, pero llevará más intentos que entendiendo la situación.
+I designed the puzzle to introduce mechanics gradually, helping players understand each step as they went. Ideally, the player goes through the following stages:
+1- **Unawareness**: The player begins as a small fish in darkness with only basic controls. They appear at the far left of the attic and naturally move right.
+2- **Light**: In the dark, the only visible object is a glowing crystal on the right side of the attic. Getting close shows an “E” prompt. Picking it up activates the light, pushing back the darkness and revealing the mansion.
+3- **Stairs**: With light now revealing floors and surroundings, moving back shows a staircase matching the crystal’s color. Players instinctively descend, learning how stairs work.
+4- **Locked Door**: A few floors down, they encounter a door of the same color as their crystal and an “E” prompt—but it won’t open. A locked sound plays, implying they need a key.
+5- **First Key**: Continuing to the living room, the player sees a skeleton behind the locked door—piquing curiosity. After exploring, they find a creature that gives them a key matching their current light color, allowing them to open the door.
+6- **Second Crystal**: Inside the newly opened room, the skeleton gives them a second crystal. Equipping it changes the light color, revealing a previously hidden ladder that leads to a new room.
+7- **Uso de cristales**: In this new room, they find a second key matching the new light color. But returning to the earlier door, they notice it’s now invisible—reinforcing the need to swap between crystals.
+(Note: I originally designed this crystal to be pink to better differentiate it from the first. The art team later changed the color, but I believe pink would’ve better communicated the switch and emphasized the idea of interchangeability.)
+8- **Room Movement**: CBack in the living room, the new crystal grants access to a trapdoor to the basement, where a mysterious creature awaits. This character sets the tone and introduces the room rearrangement mechanic. After a short dialogue, the player is asked if they want to rearrange the house. Saying yes triggers an animation of rooms rotating counterclockwise. When gameplay resumes, the layout has changed.
+9- **Eureka Moment**: Exploring again, the player realizes that not only have the rooms moved, but also their internal elements—like doors and ladders. Ideally, they notice the ladder that led to the second crystal room now connects to the attic above the skeleton room.
+10- **Game Mastery**: At this point, all core mechanics are introduced. The player can now fully engage with the puzzle by rotating rooms and switching lights to solve the mystery and escape the mansion. Even if they don’t fully grasp the mechanics, brute-forcing a solution is still possible—but it’ll take longer.
 
 
-Mi contribución:
-- **Diseño del puzle**: Diseño e iteración del puzle principal del juego.
-- **Mecánica principal**: Diseño e implementación de la mecánica principal del puzle, el poder mover las habitaciones de lugar.
-- **Sistema de luces y elementos**: Implementación del sistema de luces y capas para mostrar diferentes elementos o habitaciones dependiendo del color de la luz actual. Probé tanto hacerlo con máscaras como hacer spawn de objetos al detectar el overlap con la luz correspondiente. Lo óptimo hubiese sido usar solamente las máscaras, pero dado que Unity no permite tener varias máscaras a la vez (o al menos no en la versión utilizada para la Jam), me decanté por el uso de ambas a la vez: Habría una única máscara para mostrar solamente los elementos del color de la luz actual en su radio de alcance, pero a su vez el cambio de luces se haría activando y desactivando las distintas "capas" de colores de la casa.
-- **Movimiento del jugador**: Implementación de un player controller sencillo que permitiese moverse lateralmente, interaccionar, cambiar de luz y subir/bajar escaleras.
-- **Game Manager**: Definición e implementación de la lógica general del juego, así como el Game Manager que trackea el progreso actual, las luces y llaves obtenidas, el cambio de escenas, etc...
-- **Support**: También di soporte y ayudé a mis compañeros tanto de programación como de arte a la hora de importar assets, implementar una mecánica, resolver bugs, etc...
-- **UI Logic**: Implementación de la lógica de la UI, principalmente del menú principal y los créditos.
+My Contributions:
+- **Puzzle Design**: Created and iterated on the game's main puzzle.
+- **Main Mechanic**: Designed and implemented the core mechanic of room rearrangement.
+- **Light Layers System**: Developed a system using light and layers to reveal rooms or elements based on the current light color. I experimented with both masking and spawning objects based on light overlap. Ideally, we would’ve used masks alone, but due to Unity’s limitations (or those of the version we used), I combined both: one mask to show elements within the light’s radius, and toggled color “layers” to hide or reveal parts of the mansion.
+- **Player Movement**: Built a simple player controller for lateral movement, interaction, light switching, and stair climbing.
+- **Game Manager**: Created and managed game logic, including a Game Manager to track progress, collected items, scene transitions, and more.
+- **Support**: Assisted fellow programmers and artists with asset imports, mechanic implementation, bug fixes, and general troubleshooting.
+- **UI Logic**: Handled UI logic for the main menu and credits.
 
 And more!
 
