@@ -1,10 +1,10 @@
 # Footer navigation links
 
-- title: Subscribe
-  url: /subscribe/
+- title: Portfolio
+  url: /portfolio/
 
-- title: External Page
-  url: http://mademistakes.com 
+- title: Github Page
+  url: https://github.com/cmartinezgom
 
 - title: <i class="fa-brands fa-linkedin"></i> LinkedIn
   url: https://www.linkedin.com/in/carlos-mart%C3%ADnez-g%C3%B3mez-6744a71b6/
