@@ -39,6 +39,10 @@ gallery:
 
 [**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://giruza.itch.io/breathdown) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/Jose-AMM/Bubbly_Jam) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://globalgamejam.org/games/2025/breathdown-8)
 
+
+> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
+> It will improve soon!
+
 <div style="width: 70%; margin: auto;">
   <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
