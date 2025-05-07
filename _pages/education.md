@@ -208,9 +208,7 @@ Courses and topics:
   - Android
 
 <br>
-<!--
-{% include gallery.html caption="UCM Projects." id="galleryUCM" %}
--->
+<!-- {% include gallery.html caption="UCM Projects." id="galleryUCM" %} -->
 ### <i class="fa-solid fa-gamepad"></i> Master’s Degree in Video Game Design and Programming
 09/2020 – 01/2022 | Online @ Open University of Catalonia
 
