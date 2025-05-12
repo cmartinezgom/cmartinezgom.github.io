@@ -98,7 +98,18 @@ The game was developed by me and five friends over a couple of weeks for [**the 
 
 I served as the **lead programmer, solo designer, and overall producer/director**.
 
-The idea behind The Abyss was to create a compact, single-level puzzle experience using a limited color palette. This constraint led us to focus on a core mechanic built around color and puzzle design: light, and how what you see changes depending on its color.
+The idea behind The Abyss was to create a **compact, single-level puzzle experience using a limited color palette**. This constraint led us to focus on a core mechanic built around color and puzzle design: light, and how what you see changes depending on its color.
+
+My Contributions:
+- **Puzzle Design**: Created and iterated on the game's main puzzle.
+- **Main Mechanic**: Designed and implemented the core mechanic of room rearrangement.
+- **Light Layers System**: Developed a system using light and layers to reveal rooms or elements based on the current light color. I experimented with both masking and spawning objects based on light overlap. Ideally, we would’ve used masks alone, but due to Unity’s limitations (or those of the version we used), I combined both: one mask to show elements within the light’s radius, and toggled color “layers” to hide or reveal parts of the mansion.
+- **Player Movement**: Built a simple player controller for lateral movement, interaction, light switching, and stair climbing.
+- **Game Manager**: Created and managed game logic, including a Game Manager to track progress, collected items, scene transitions, and more.
+- **Support**: Assisted fellow programmers and artists with asset imports, mechanic implementation, bug fixes, and general troubleshooting.
+- **UI Logic**: Handled UI logic for the main menu and credits.
+
+And more!
 
 Once the game idea was locked in and the art team proposed the visual style, I sketched the first version of the puzzle and suggested an additional mechanic to deepen the gameplay: the ability to rearrange the rooms of the mansion. This would require players to think not just about what light they were using, but also how the room order affected their progression.
 
@@ -118,18 +129,6 @@ I designed the puzzle to introduce mechanics gradually, helping players understa
 <br>8- **Room Movement**: CBack in the living room, the new crystal grants access to a trapdoor to the basement, where a mysterious creature awaits. This character sets the tone and introduces the room rearrangement mechanic. After a short dialogue, the player is asked if they want to rearrange the house. Saying yes triggers an animation of rooms rotating counterclockwise. When gameplay resumes, the layout has changed.
 <br>9- **Eureka Moment**: Exploring again, the player realizes that not only have the rooms moved, but also their internal elements—like doors and ladders. Ideally, they notice the ladder that led to the second crystal room now connects to the attic above the skeleton room.
 <br>10- **Game Mastery**: At this point, all core mechanics are introduced. The player can now fully engage with the puzzle by rotating rooms and switching lights to solve the mystery and escape the mansion. Even if they don’t fully grasp the mechanics, brute-forcing a solution is still possible—but it’ll take longer.
-
-
-My Contributions:
-- **Puzzle Design**: Created and iterated on the game's main puzzle.
-- **Main Mechanic**: Designed and implemented the core mechanic of room rearrangement.
-- **Light Layers System**: Developed a system using light and layers to reveal rooms or elements based on the current light color. I experimented with both masking and spawning objects based on light overlap. Ideally, we would’ve used masks alone, but due to Unity’s limitations (or those of the version we used), I combined both: one mask to show elements within the light’s radius, and toggled color “layers” to hide or reveal parts of the mansion.
-- **Player Movement**: Built a simple player controller for lateral movement, interaction, light switching, and stair climbing.
-- **Game Manager**: Created and managed game logic, including a Game Manager to track progress, collected items, scene transitions, and more.
-- **Support**: Assisted fellow programmers and artists with asset imports, mechanic implementation, bug fixes, and general troubleshooting.
-- **UI Logic**: Handled UI logic for the main menu and credits.
-
-And more!
 
 Too scared to play? Check out these screenshots:
 
