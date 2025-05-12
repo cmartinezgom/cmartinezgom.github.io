@@ -4,8 +4,8 @@ title: "🐟 The Abyss"
 excerpt: "Developed in a couple of weeks for the Confounding Calendar 2024"
 permalink: /portfolio/theabyss/
 header:
-  image: /images/FlashYourFears.jpg
-  teaser: /images/FlashYourFears.jpg
+  image: /images/ucm/theabyss/banner.png
+  teaser: /images/ucm/theabyss/icon.png
 gallery:
   - url: /images/flashyourfears/flashyourfearsmenu.png
     image_path: /images/flashyourfears/flashyourfearsmenu.png

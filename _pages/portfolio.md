@@ -18,7 +18,7 @@ postgalleryProfProgramming:
 
 postgalleryProgramming:
   - url: /portfolio/theabyss/
-    image_path: /images/ucm/icon.png
+    image_path: /images/ucm/theabyss/icon.png
     alt: "placeholder image 3"
     caption: "[**The Abyss**<br>(Game Jam)](/portfolio/theabyss/)"
   - url: /portfolio/flashyourfears/
