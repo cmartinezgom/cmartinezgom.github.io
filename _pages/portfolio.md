@@ -17,6 +17,10 @@ postgalleryProfProgramming:
     caption: "[**MotionTracker**<br>(Software Engineering Intern)](/portfolio/motiontracker/)"
 
 postgalleryProgramming:
+  - url: /portfolio/theabyss/
+    image_path: /images/ucm/icon.png
+    alt: "placeholder image 3"
+    caption: "[**The Abyss**<br>(Game Jam)](/portfolio/theabyss/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"
