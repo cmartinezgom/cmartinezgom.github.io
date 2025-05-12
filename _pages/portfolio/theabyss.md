@@ -119,25 +119,17 @@ Once the game idea was locked in and the art team proposed the visual style, I s
 I felt this mechanic added meaningful depth beyond just collecting colored crystals. It pushed players to consider how each light color revealed different elements in each room—and how those elements changed when the layout shifted. For example, a hole might only appear under orange light in one room, and after rearranging the mansion, that same hole could let the player drop into a previously inaccessible area.
 
 I designed the puzzle to introduce mechanics gradually, helping players understand each step as they went. Ideally, the player goes through the following stages:
+
 <br>1- **Unawareness**: The player begins as a small fish in darkness with only basic controls. They appear at the far left of the attic and naturally move right.
-
 <br>2- **Light**: In the dark, the only visible object is a glowing crystal on the right side of the attic. Getting close shows an “E” prompt. Picking it up activates the light, pushing back the darkness and revealing the mansion.
-
 <br>3- **Stairs**: With light now revealing floors and surroundings, moving back shows a staircase matching the crystal’s color. Players instinctively descend, learning how stairs work.
-
 <br>4- **Locked Door**: A few floors down, they encounter a door of the same color as their crystal and an “E” prompt—but it won’t open. A locked sound plays, implying they need a key.
-
 <br>5- **First Key**: Continuing to the living room, the player sees a skeleton behind the locked door—piquing curiosity. After exploring, they find a creature that gives them a key matching their current light color, allowing them to open the door.
-
 <br>6- **Second Crystal**: Inside the newly opened room, the skeleton gives them a second crystal. Equipping it changes the light color, revealing a previously hidden ladder that leads to a new room.
-
 <br>7- **Uso de cristales**: In this new room, they find a second key matching the new light color. But returning to the earlier door, they notice it’s now invisible—reinforcing the need to swap between crystals.
 <br>(Note: I originally designed this crystal to be pink to better differentiate it from the first. The art team later changed the color, but I believe pink would’ve better communicated the switch and emphasized the idea of interchangeability.)
-
 <br>8- **Room Movement**: CBack in the living room, the new crystal grants access to a trapdoor to the basement, where a mysterious creature awaits. This character sets the tone and introduces the room rearrangement mechanic. After a short dialogue, the player is asked if they want to rearrange the house. Saying yes triggers an animation of rooms rotating counterclockwise. When gameplay resumes, the layout has changed.
-
 <br>9- **Eureka Moment**: Exploring again, the player realizes that not only have the rooms moved, but also their internal elements—like doors and ladders. Ideally, they notice the ladder that led to the second crystal room now connects to the attic above the skeleton room.
-
 <br>10- **Game Mastery**: At this point, all core mechanics are introduced. The player can now fully engage with the puzzle by rotating rooms and switching lights to solve the mystery and escape the mansion. Even if they don’t fully grasp the mechanics, brute-forcing a solution is still possible—but it’ll take longer.
 
 Too scared to play? Check out these screenshots:
