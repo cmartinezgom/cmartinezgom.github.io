@@ -17,6 +17,10 @@ postgalleryProfProgramming:
     caption: "[**MotionTracker**<br>(Software Engineering Intern)](/portfolio/motiontracker/)"
 
 postgalleryProgramming:
+  - url: /portfolio/breathdown/
+    image_path: /images/ucm/breathdown/wordart.png
+    alt: "placeholder image 3"
+    caption: "[**Breathdown**<br>(Game Jam)](/portfolio/breathdown/)"
   - url: /portfolio/theabyss/
     image_path: /images/ucm/theabyss/icon.png
     alt: "placeholder image 3"
@@ -71,6 +75,14 @@ postgalleryProgramming:
     caption: "[**2D Zombie Survival**<br>(Game Design Course)](/portfolio/programming/)"
 
 postgalleryDesign:
+  - url: /portfolio/breathdown/
+    image_path: /images/ucm/breathdown/wordart.png
+    alt: "placeholder image 3"
+    caption: "[**Breathdown**<br>(Game Jam)](/portfolio/breathdown/)"
+  - url: /portfolio/theabyss/
+    image_path: /images/ucm/theabyss/icon.png
+    alt: "placeholder image 3"
+    caption: "[**The Abyss**<br>(Game Jam)](/portfolio/theabyss/)"
   - url: /portfolio/flashyourfears/
     image_path: /images/FlashYourFears.jpg
     alt: "placeholder image 3"

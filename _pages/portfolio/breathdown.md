@@ -4,8 +4,8 @@ title: "🤿 Breathdown"
 excerpt: "Developed in two days at the Global Game Jam 2025 at Madrid (Theme: Bubbles)"
 permalink: /portfolio/breathdown/
 header:
-  image: /assets/images/KatergarisLabyrinthUI.jpg
-  teaser: /assets/images/KatergarisLabyrinthUI.jpg
+  image: /assets/images/ucm/breathdown/banner.png
+  teaser: /assets/images/ucm/breathdown/wordart.jpg
 gallery:
   - url: /images/uoc/labyrinth/image11.png
     image_path: /images/uoc/labyrinth/image11.png
