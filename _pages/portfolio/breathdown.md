@@ -39,6 +39,18 @@ gallery:
 
 [**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://giruza.itch.io/breathdown) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/Jose-AMM/Bubbly_Jam) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://globalgamejam.org/games/2025/breathdown-8)
 
+<div style="position: relative; padding-bottom: 57.29%; /* Aspect ratio (1100 / 1920 * 100) */ height: 0; overflow: hidden; max-width: 100%; margin: 1.5em auto;">
+  <iframe
+    frameborder="0"
+    src="https://itch.io/embed-upload/12611640?color=a44098"
+    allowfullscreen=""
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+  >
+    <a href="https://giruza.itch.io/breathdown">Play Breathdown on itch.io</a>
+  </iframe>
+</div>
+
+<iframe frameborder="0" src="https://itch.io/embed/3273017" width="552" height="167"><a href="https://giruza.itch.io/breathdown">Breathdown by Giruza, Yamila Wehbe, Monkwolf Sounds, DarkrimXtrike, cmartinezgom, Franchocratico, Nerea Herreros, Asgardr7</a></iframe>
 
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
 > It will improve soon!
@@ -75,19 +87,6 @@ Mi contribución:
 - Testing general y code review del código de compañeros de equipo.
 
 Aunque mi rol principal fue de programador, también ayudé en la parte de diseño, planteando la idea inicial del centro comercial submarino en el que había que recorrer diferentes tiendas, la mecánica del oxígeno, el diseño de niveles, la curva de dificultad, o diferentes mejoras QoL como la crosshair en el movimiento del jugador y otros.
-
-<div style="position: relative; padding-bottom: 57.29%; /* Aspect ratio (1100 / 1920 * 100) */ height: 0; overflow: hidden; max-width: 100%; margin: 1.5em auto;">
-  <iframe
-    frameborder="0"
-    src="https://itch.io/embed-upload/12611640?color=a44098"
-    allowfullscreen=""
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-  >
-    <a href="https://giruza.itch.io/breathdown">Play Breathdown on itch.io</a>
-  </iframe>
-</div>
-
-<iframe frameborder="0" src="https://itch.io/embed/3273017" width="552" height="167"><a href="https://giruza.itch.io/breathdown">Breathdown by Giruza, Yamila Wehbe, Monkwolf Sounds, DarkrimXtrike, cmartinezgom, Franchocratico, Nerea Herreros, Asgardr7</a></iframe>
 
 {% include gallery.html caption="Breathdown screenshots." %}
 

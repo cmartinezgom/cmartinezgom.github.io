@@ -70,6 +70,20 @@ gallery:
 ---
 [**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://patatinpatatan.itch.io/the-abyss) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/Mavalco/proyecto-patatin-patatan) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://confoundingcalendar.itch.io/)
 
+It's a pretty short game and it was built using Unity WebGL, so **play it right here!**
+
+<div style="position: relative; padding-bottom: 57.29%; /* Aspect ratio (1100 / 1920 * 100) */ height: 0; overflow: hidden; max-width: 100%; margin: 1.5em auto;">
+  <iframe
+    frameborder="0"
+    src="https://itch.io/embed-upload/12137062?color=a7a79e"
+    allowfullscreen=""
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+  >
+    <a href="https://patatinpatatan.itch.io/the-abyss">Play The Abyss on itch.io</a>
+  </iframe>
+</div>
+
+<iframe frameborder="0" src="https://itch.io/embed/3144622" width="552" height="167"><a href="https://patatinpatatan.itch.io/the-abyss">The Abyss by PatatinPatatan, JAMZILA, cmartinezgom</a></iframe>
 
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
 > It will improve soon!
@@ -117,21 +131,6 @@ My Contributions:
 - **UI Logic**: Handled UI logic for the main menu and credits.
 
 And more!
-
-It's a pretty short game and it was built using Unity WebGL, so **play it now right here!**
-
-<div style="position: relative; padding-bottom: 57.29%; /* Aspect ratio (1100 / 1920 * 100) */ height: 0; overflow: hidden; max-width: 100%; margin: 1.5em auto;">
-  <iframe
-    frameborder="0"
-    src="https://itch.io/embed-upload/12137062?color=a7a79e"
-    allowfullscreen=""
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-  >
-    <a href="https://patatinpatatan.itch.io/the-abyss">Play The Abyss on itch.io</a>
-  </iframe>
-</div>
-
-<iframe frameborder="0" src="https://itch.io/embed/3144622" width="552" height="167"><a href="https://patatinpatatan.itch.io/the-abyss">The Abyss by PatatinPatatan, JAMZILA, cmartinezgom</a></iframe>
 
 Too scared to play? Check out these screenshots:
 
