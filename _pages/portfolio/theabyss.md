@@ -92,9 +92,9 @@ It's a pretty short game and it was built using Unity WebGL, so **play it right 
   <img src="/images/ucm/theabyss/banner.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
-The Abyss is a short 2D puzzle game made with Unity, set in an underwater mansion that the player must explore to uncover its secrets and break free.
+The Abyss is a **short 2D puzzle game made with Unity**, set in an underwater mansion that the player must explore to uncover its secrets and break free.
 
-The game was developed by me and five friends over a couple of weeks for [the Confounding Calendar 2024](https://confoundingcalendar.itch.io/).
+The game was developed by me and five friends over a couple of weeks for [**the Confounding Calendar 2024**](https://confoundingcalendar.itch.io/).
 
 I served as the **lead programmer, solo designer, and overall producer/director**.
 
@@ -102,8 +102,7 @@ The idea behind The Abyss was to create a compact, single-level puzzle experienc
 
 Once the game idea was locked in and the art team proposed the visual style, I sketched the first version of the puzzle and suggested an additional mechanic to deepen the gameplay: the ability to rearrange the rooms of the mansion. This would require players to think not just about what light they were using, but also how the room order affected their progression.
 
-*boceto que hice del puzle en Paint*
-![full](/images/KatergarisLabyrinthUI.jpg){: full}
+![full](/images/ucm/theabyss/first_mockup.png){: full}
 
 I felt this mechanic added meaningful depth beyond just collecting colored crystals. It pushed players to consider how each light color revealed different elements in each room—and how those elements changed when the layout shifted. For example, a hole might only appear under orange light in one room, and after rearranging the mansion, that same hole could let the player drop into a previously inaccessible area.
 
