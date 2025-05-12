@@ -70,6 +70,21 @@ gallery:
 ---
 [**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://cmartinezgom.itch.io/flash-your-fears) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/cmartinezgom/ItsNotReal/tree/masters) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://itch.io/jam/brackeys-7)
 
+It's a pretty short game and I built it using Unity WebGL, so **play it right here!**
+
+<div style="position: relative; padding-bottom: 57.29%; /* Aspect ratio (1100 / 1920 * 100) */ height: 0; overflow: hidden; max-width: 100%; margin: 1.5em auto;">
+  <iframe
+    frameborder="0"
+    src="https://itch.io/embed-upload/5465492?color=333333"
+    allowfullscreen=""
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+  >
+    <a href="https://cmartinezgom.itch.io/flash-your-fears">Play Flash your Fears on itch.io</a>
+  </iframe>
+</div>
+
+<iframe frameborder="0" src="https://itch.io/embed/1420694" width="552" height="167"><a href="https://cmartinezgom.itch.io/flash-your-fears">Flash your Fears by cmartinezgom, Ceri_lla, MurkiPlays, Yamila Wehbe</a></iframe>
+
 <div style="width: 70%; margin: auto;">
   <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
@@ -89,21 +104,6 @@ Key Features:
 - **Immersive Story**: Unravel the secrets of the haunted house through cutscenes and dialogue.
 - **Charming Pixel Art**: Experience a beautifully crafted world.
 And more!
-
-It's a pretty short game and I built it using Unity WebGL, so **play it right here!**
-
-<div style="position: relative; padding-bottom: 57.29%; /* Aspect ratio (1100 / 1920 * 100) */ height: 0; overflow: hidden; max-width: 100%; margin: 1.5em auto;">
-  <iframe
-    frameborder="0"
-    src="https://itch.io/embed-upload/5465492?color=333333"
-    allowfullscreen=""
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-  >
-    <a href="https://cmartinezgom.itch.io/flash-your-fears">Play Flash your Fears on itch.io</a>
-  </iframe>
-</div>
-
-<iframe frameborder="0" src="https://itch.io/embed/1420694" width="552" height="167"><a href="https://cmartinezgom.itch.io/flash-your-fears">Flash your Fears by cmartinezgom, Ceri_lla, MurkiPlays, Yamila Wehbe</a></iframe>
 
 Too scared to play? Check out these screenshots:
 
