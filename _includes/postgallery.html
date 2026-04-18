@@ -1,37 +1,69 @@
 <head>
   <style>
+    @keyframes subtleGradientMove {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
     .postgallery-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      padding: 15px 0;
     }
 
     .postgallery-item {
-      flex: 1 0 21%; /* grow | shrink | basis */
-      margin: 1%;
       box-sizing: border-box;
+      border-radius: 12px;
+      overflow: hidden;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      background: linear-gradient(270deg, #fdfbfb 0%, #ebedee 100%);
+      background-size: 400% 400%;
+      animation: subtleGradientMove 10s ease infinite;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      display: flex;
+      flex-direction: column;
+      border: 1px solid rgba(0,0,0,0.05);
     }
 
-    @media only screen and (max-width: 700px) {
+    /* Support for potential dark modes */
+    @media (prefers-color-scheme: dark) {
       .postgallery-item {
-        flex: 1 0 46%;
+        background: linear-gradient(270deg, #2a2a2a, #3a3a3a, #2a2a2a);
+        background-size: 400% 400%;
+        border-color: rgba(255,255,255,0.05);
       }
     }
 
-    @media only screen and (max-width: 500px) {
-      .postgallery-item {
-        flex: 1 0 96%;
-      }
+    .postgallery-item:hover {
+      transform: translateY(-5px) scale(1.02);
+      box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+      z-index: 1;
     }
 
     div.postgallery img {
       width: 100%;
-      height: auto;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      border-bottom: 1px solid rgba(0,0,0,0.05);
+    }
+    
+    @media (prefers-color-scheme: dark) {
+      div.postgallery img {
+        border-bottom-color: rgba(255,255,255,0.05);
+      }
     }
 
     div.desc {
       padding: 15px;
       text-align: center;
+      font-size: 0.95em;
+      flex-grow: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
   </style>
 </head>

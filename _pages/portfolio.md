@@ -128,34 +128,10 @@ postgalleryDesign:
     alt: "placeholder image 3"
     caption: "[**Hellcat from Jak 3**<br>(Environment Modeling Course)](/portfolio/design/)"
   
-postgalleryModding:
-  - url: /portfolio/modding/
-    image_path: /images/mods/comprarpokemon.png
-    alt: "placeholder image 3"
-    caption: "[Pokémon, but you can only buy Pokémon](/portfolio/modding/)"
-  - url: /portfolio/modding/
-    image_path: /images/mods/ratchetbolts.png
-    alt: "placeholder image 3"
-    caption: "[Ratchet & Clank, but you die when bolts-timer gets to 0](/portfolio/modding/)"
-  - url: /portfolio/modding/
-    image_path: /images/mods/robarpokemon.jpg
-    alt: "placeholder image 3"
-    caption: "[Pokémon, but you steal the oponent's team](/portfolio/modding/)"
-  - url: /portfolio/modding/
-    image_path: /images/mods/xamorlocke.jpg
-    alt: "placeholder image 3"
-    caption: "[Pokémon Xamorlocke (Custom BDSP ROM)](/portfolio/modding/)"
-  - url: /portfolio/modding/
-    image_path: /images/mods/pokemonpoison.png
-    alt: "placeholder image 3"
-    caption: "[Pokémon, but you loose health with every step](/portfolio/modding/)"
-  - url: /portfolio/modding/
-    image_path: /images/mods/pokemonbdsprandom.jpg
-    alt: "placeholder image 3"
-    caption: "[Pokémon BDSP Simple Randomizer and 0 Exp](/portfolio/modding/)"
+
 ---
 
-Explore my professional and personal projects divided in three categories: <a href="#programming-section">Programming</a>, <a href="#design-section">Design</a> and <a href="#modding-section">Modding</a>.
+Explore my professional and personal projects divided in two categories: <a href="#programming-section">Programming</a> and <a href="#design-section">Design</a>.
 
 
 
@@ -201,16 +177,4 @@ In this section you can explore my **design portfolio**, where you'll find my sk
 {% include postgallery.html caption="Design Portfolio." id="postgalleryDesign" %}
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
-
-<div align="center" id="modding-section">
-
-  <h2> 🔧 Modding Portfolio</h2>
-
-</div>
-
-Here you can find my **modding portfolio**.
-<br>Explore commissioned mods for professional content creators and independent projects spanning multiple games and programming languages.
-
-{% include postgallery.html caption="Modding Portfolio." id="postgalleryModding" %}
-
-<hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
+
