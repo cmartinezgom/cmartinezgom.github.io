@@ -7,66 +7,46 @@ header:
   image: /images/ucm/theabyss/banner.png
   teaser: /images/ucm/theabyss/icon.png
 gallery:
-  - url: /images/flashyourfears/flashyourfearsmenu.png
-    image_path: /images/flashyourfears/flashyourfearsmenu.png
-    alt: "placeholder image 1"
-  - url: /images/flashyourfears/flashyourfears25.png
-    image_path: /images/flashyourfears/flashyourfears25.png
-    alt: "placeholder image 2"
-  - url: /images/flashyourfears/flashyourfears1.png
-    image_path: /images/flashyourfears/flashyourfears1.png
-    alt: "placeholder image 2"
-  - url: /images/flashyourfears/flashyourfears3.png
-    image_path: /images/flashyourfears/flashyourfears3.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears4.png
-    image_path: /images/flashyourfears/flashyourfears4.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears6.png
-    image_path: /images/flashyourfears/flashyourfears6.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears7.png
-    image_path: /images/flashyourfears/flashyourfears7.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears10.png
-    image_path: /images/flashyourfears/flashyourfears10.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears12.png
-    image_path: /images/flashyourfears/flashyourfears12.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears13.png
-    image_path: /images/flashyourfears/flashyourfears13.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears14.png
-    image_path: /images/flashyourfears/flashyourfears14.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears15.png
-    image_path: /images/flashyourfears/flashyourfears15.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears17.png
-    image_path: /images/flashyourfears/flashyourfears17.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears18.png
-    image_path: /images/flashyourfears/flashyourfears18.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears20.png
-    image_path: /images/flashyourfears/flashyourfears20.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears21.png
-    image_path: /images/flashyourfears/flashyourfears21.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears22.png
-    image_path: /images/flashyourfears/flashyourfears22.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears23.png
-    image_path: /images/flashyourfears/flashyourfears23.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/flashyourfears24.png
-    image_path: /images/flashyourfears/flashyourfears24.png
-    alt: "placeholder image 3"
-  - url: /images/flashyourfears/particlepixelartfire.png
-    image_path: /images/flashyourfears/particlepixelartfire.png
-    alt: "placeholder image 3"
+  - url: /images/ucm/theabyss/gameplay_01_menu.png
+    image_path: /images/ucm/theabyss/gameplay_01_menu.png
+    alt: "The Abyss gameplay: Main menu"
+    title: "Main menu"
+  - url: /images/ucm/theabyss/gameplay_02_darkness.png
+    image_path: /images/ucm/theabyss/gameplay_02_darkness.png
+    alt: "The Abyss gameplay: Waking up in the dark attic"
+    title: "Waking up in the dark attic"
+  - url: /images/ucm/theabyss/gameplay_03_crystal.png
+    image_path: /images/ucm/theabyss/gameplay_03_crystal.png
+    alt: "The Abyss gameplay: Reaching the first crystal"
+    title: "Reaching the first crystal"
+  - url: /images/ucm/theabyss/gameplay_04_light_reveal.png
+    image_path: /images/ucm/theabyss/gameplay_04_light_reveal.png
+    alt: "The Abyss gameplay: The light reveals the mansion"
+    title: "The light reveals the mansion"
+  - url: /images/ucm/theabyss/gameplay_05_red_light.png
+    image_path: /images/ucm/theabyss/gameplay_05_red_light.png
+    alt: "The Abyss gameplay: Mansion under the red light"
+    title: "Mansion under the red light"
+  - url: /images/ucm/theabyss/gameplay_06_pink_light.png
+    image_path: /images/ucm/theabyss/gameplay_06_pink_light.png
+    alt: "The Abyss gameplay: Mansion under the pink light"
+    title: "Mansion under the pink light"
+  - url: /images/ucm/theabyss/gameplay_07_rotated_rooms.png
+    image_path: /images/ucm/theabyss/gameplay_07_rotated_rooms.png
+    alt: "The Abyss gameplay: Rooms after rearranging the house"
+    title: "Rooms after rearranging the house"
+  - url: /images/ucm/theabyss/gameplay_08_npc_dialogue.png
+    image_path: /images/ucm/theabyss/gameplay_08_npc_dialogue.png
+    alt: "The Abyss gameplay: The creature in the basement offers to reshape the house"
+    title: "The creature in the basement offers to reshape the house"
+  - url: /images/ucm/theabyss/gameplay_09_trapdoor.png
+    image_path: /images/ucm/theabyss/gameplay_09_trapdoor.png
+    alt: "The Abyss gameplay: Opening the trapdoor with a key"
+    title: "Opening the trapdoor with a key"
+  - url: /images/ucm/theabyss/gameplay_10_ending.png
+    image_path: /images/ucm/theabyss/gameplay_10_ending.png
+    alt: "The Abyss gameplay: The ending credits"
+    title: "The ending credits"
 ---
 [**Itch.io** <i class="fa-brands fa-itch-io"></i>](https://patatinpatatan.itch.io/the-abyss) ||| [**GitHub** <i class="fa-brands fa-github"></i>](https://github.com/Mavalco/proyecto-patatin-patatan) ||| [**Game Jam** <i class="fa-solid fa-jar"></i>](https://confoundingcalendar.itch.io/)
 
@@ -85,18 +65,15 @@ It's a pretty short game and it was built using Unity WebGL, so **play it right 
 
 <iframe frameborder="0" src="https://itch.io/embed/3144622" width="552" height="167"><a href="https://patatinpatatan.itch.io/the-abyss">The Abyss by PatatinPatatan, JAMZILA, cmartinezgom</a></iframe>
 
-> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
-> It will improve soon!
-
 <div style="width: 70%; margin: auto;">
   <img src="/images/ucm/theabyss/banner.png" alt="full" style="display: block; margin: auto; width: 100%;">
 </div>
 
 The Abyss is a **short 2D puzzle game made with Unity**, set in an underwater mansion that the player must explore to uncover its secrets and break free.
 
-The game was developed by me and five friends over a couple of weeks for [**the Confounding Calendar 2024**](https://confoundingcalendar.itch.io/).
+The game was developed by a team of six over a couple of weeks for [**the Confounding Calendar 2024**](https://confoundingcalendar.itch.io/).
 
-I served as the **lead programmer, solo designer, and overall producer/director**.
+I served as the **lead programmer, solo game and puzzle designer, and overall producer/director**.
 
 The idea behind The Abyss was to create a **compact, single-level puzzle experience using a limited color palette**. This constraint led us to focus on a core mechanic built around color and puzzle design: light, and how what you see changes depending on its color.
 
@@ -108,7 +85,10 @@ My Contributions:
 - **Game Manager**: Created and managed game logic, including a Game Manager to track progress, collected items, scene transitions, and more.
 - **Support**: Assisted fellow programmers and artists with asset imports, mechanic implementation, bug fixes, and general troubleshooting.
 - **UI Logic**: Handled UI logic for the main menu and credits.
-- **Particle Systems**
+- **Music and Sound**: Implemented the Sound Manager and added the music and sound effects.
+- **Initial Shadow**: Built the darkness that follows the player and fades away when the first crystal is picked up.
+- **Particle Systems**: Sparkles on crystals, keys and NPCs.
+- **Project Setup**: Set up the project structure and the URP 2D lighting.
 
 And more!
 
@@ -126,12 +106,50 @@ I designed the puzzle to introduce mechanics gradually, helping players understa
 <br>4- **Locked Door**: A few floors down, they encounter a door of the same color as their crystal and an “E” prompt—but it won’t open. A locked sound plays, implying they need a key.
 <br>5- **First Key**: Continuing to the living room, the player sees a skeleton behind the locked door—piquing curiosity. After exploring, they find a creature that gives them a key matching their current light color, allowing them to open the door.
 <br>6- **Second Crystal**: Inside the newly opened room, the skeleton gives them a second crystal. Equipping it changes the light color, revealing a previously hidden ladder that leads to a new room.
-<br>7- **Uso de cristales**: In this new room, they find a second key matching the new light color. But returning to the earlier door, they notice it’s now invisible—reinforcing the need to swap between crystals.
+<br>7- **Crystal Swapping**: In this new room, they find a second key matching the new light color. But returning to the earlier door, they notice it’s now invisible—reinforcing the need to swap between crystals.
 <br>(Note: I originally designed this crystal to be pink to better differentiate it from the first. The art team later changed the color, but I believe pink would’ve better communicated the switch and emphasized the idea of interchangeability.)
 <br>8- **Room Movement**: Back in the living room, the new crystal grants access to a trapdoor to the basement, where a mysterious creature awaits. This character sets the tone and introduces the room rearrangement mechanic. After a short dialogue, the player is asked if they want to rearrange the house. Saying yes triggers an animation of rooms rotating counterclockwise. When gameplay resumes, the layout has changed.
 <br>9- **Eureka Moment**: Exploring again, the player realizes that not only have the rooms moved, but also their internal elements—like doors and ladders. Ideally, they notice the ladder that led to the second crystal room now connects to the attic above the skeleton room.
 <br>10- **Game Mastery**: At this point, all core mechanics are introduced. The player can now fully engage with the puzzle by rotating rooms and switching lights to solve the mystery and escape the mansion. Even if they don’t fully grasp the mechanics, brute-forcing a solution is still possible—but it’ll take longer.
 
-Too scared to play? Check out these screenshots:
+Too scared to play? Here is the game in action (captured from the real game, not mockups):
+
+**Crossing the dark attic to reach the first crystal**
+
+<img src="/images/ucm/theabyss/gameplay_walk_to_crystal.gif" alt="The Abyss gameplay: walking through the dark attic and picking up the first crystal" style="display:block; margin:auto; max-width:100%;">
+
+**The crystal's light pushes back the darkness and reveals the mansion**
+
+<img src="/images/ucm/theabyss/gameplay_light_reveal.gif" alt="The Abyss gameplay: the light revealing the mansion" style="display:block; margin:auto; max-width:100%;">
+
+**Switching between crystals changes which rooms and objects you can see**
+
+<img src="/images/ucm/theabyss/gameplay_light_switch.gif" alt="The Abyss gameplay: switching light colors" style="display:block; margin:auto; max-width:100%;">
+
+**The skeleton hands you a new crystal**
+
+<img src="/images/ucm/theabyss/gameplay_skeleton_crystal.gif" alt="The Abyss gameplay: the skeleton giving a crystal" style="display:block; margin:auto; max-width:100%;">
+
+**Using the ladders to move between the floors of the mansion**
+
+<img src="/images/ucm/theabyss/gameplay_ladders.gif" alt="The Abyss gameplay: climbing up and down the mansion ladders" style="display:block; margin:auto; max-width:100%;">
+
+**A key opens the trapdoor, which leads down to the basement**
+
+<img src="/images/ucm/theabyss/gameplay_trapdoor.gif" alt="The Abyss gameplay: opening the trapdoor and dropping into the basement" style="display:block; margin:auto; max-width:100%;">
+
+**The creature in the basement offers to reshape the house**
+
+<img src="/images/ucm/theabyss/gameplay_npc_basement.gif" alt="The Abyss gameplay: talking to the creature in the basement and the rooms rearranging" style="display:block; margin:auto; max-width:100%;">
+
+**The rooms swap places, changing the mansion's layout**
+
+<img src="/images/ucm/theabyss/gameplay_room_rotation.gif" alt="The Abyss gameplay: rooms rotating" style="display:block; margin:auto; max-width:100%;">
+
+**Escaping the mansion: the ending sequence (spoiler!)**
+
+<img src="/images/ucm/theabyss/gameplay_ending.gif" alt="The Abyss gameplay: the ending sequence and credits" style="display:block; margin:auto; max-width:100%;">
+
+And some screenshots:
 
 {% include gallery.html caption="The Abyss screenshots." %}

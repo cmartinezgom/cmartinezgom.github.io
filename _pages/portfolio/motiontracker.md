@@ -9,37 +9,37 @@ header:
 gallery:
   - url: /images/MotionTracker.png
     image_path: /images/MotionTracker.png
-    alt: "placeholder image 1"
+    alt: "Project screenshot"
   - url: /images/motiontracker/CSRTcoche1-ezgif.com-optimize.gif
     image_path: /images/motiontracker/CSRTcoche1-ezgif.com-optimize.gif
-    alt: "placeholder image 2"
+    alt: "Project screenshot"
   - url: /images/motiontracker/image48.png
     image_path: /images/motiontracker/image48.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/motiontracker/CSRTcoche2-ezgif.com-optimize.gif
     image_path: /images/motiontracker/CSRTcoche2-ezgif.com-optimize.gif
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/motiontracker/image44.png
     image_path: /images/motiontracker/image44.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/motiontracker/CSRT-ezgif.com-optimize.gif
     image_path: /images/motiontracker/CSRT-ezgif.com-optimize.gif
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/motiontracker/image12.png
     image_path: /images/motiontracker/image12.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/motiontracker/KNN-ezgif.com-optimize.gif
     image_path: /images/motiontracker/KNN-ezgif.com-optimize.gif
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/motiontracker/MOG2-ezgif.com-optimize.gif
     image_path: /images/motiontracker/MOG2-ezgif.com-optimize.gif
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/motiontracker/sustraccion-ezgif.com-optimize.gif
     image_path: /images/motiontracker/sustraccion-ezgif.com-optimize.gif
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/motiontracker/hpawards.jpg
     image_path: /images/motiontracker/hpawards.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
 ---
 
 [**HP SCDS Project** <i class="fa-solid fa-print"></i>](https://hpscds.com/innovacion/observatorio-tecnologico/observatorio-hp-18-19/#MotionTracker) ||| [**HP SCDS Awards** <i class="fa-solid fa-award"></i>](https://hpscds.com/xv-observatorio-hp-2020/)

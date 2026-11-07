@@ -5,17 +5,17 @@ excerpt: "Some of my Modding Portfolio."
 permalink: /portfolio/modding/
 header:
   image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpgW
+  teaser: /assets/images/foo-bar-identity-th.jpg
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+    alt: "Project screenshot"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+    alt: "Project screenshot"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
 
 ---
 
@@ -53,19 +53,6 @@ gallery:
   </ul>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -105,19 +92,6 @@ gallery:
   </ul>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -157,19 +131,6 @@ gallery:
   </ul>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -209,19 +170,6 @@ gallery:
   </ul>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -245,19 +193,6 @@ gallery:
   </div>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -296,19 +231,6 @@ gallery:
   </ul>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -347,19 +269,6 @@ gallery:
   </ul>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -398,19 +307,6 @@ gallery:
   </ul>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">
 
@@ -449,18 +345,5 @@ gallery:
   </ul>
 </div>
 
-<!-- Section 3: Links (Buttons) -->
-<div style="margin-top: 10px; margin-bottom: 30px; text-align: center;">
-  <!-- RED BUTTON for YouTube -->
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE" target="_blank" class="btn" style="background: linear-gradient(to bottom, #FF6B6B, #EE5253); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #fff; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fab fa-youtube"></i> Watch Demo 
-  </a>
-  <!-- GREEN BUTTON for Download -->
-  <a href="YOUR_DOWNLOAD_LINK_HERE" class="btn" style="background: linear-gradient(to bottom, #90EE90, #7CCD7C); border:1px solid #000; border-radius:10px; text-align:center; font-size:16px; box-shadow:3px 3px 6px rgba(0, 0, 0, 0.4); color: #000; text-decoration: none; padding: 8px 15px; margin: 0 10px;">
-    <i class="fa fa-download"></i> Download Mod
-  </a>
-  <!-- Optional: Add a link to a blog post or more details page -->
-  <!-- <a href="YOUR_DETAILS_PAGE_LINK_HERE" target="_blank" style="margin: 0 10px;"><i class="fa fa-info-circle"></i> More Info</a> -->
-</div>
 
 <hr style="border: none; border-top: 2px solid #333; border-bottom: 2px solid #fff;">

@@ -19,23 +19,23 @@ feature_row4:
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /images/chibi.png
-    alt: "placeholder image 1"
+    alt: "Project screenshot"
     title: "Strengths"
     excerpt: "Dedication. Teamwork. Fast learner. Self-starter. Multidisciplinary. Curious. Creative."
     caption: "PIUUUUM"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /images/chibi.png
-    alt: "placeholder image 2"
+    alt: "Project screenshot"
     title: "Skills"
     excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
     caption: "PIUUUUM2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /images/chibi.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
     title: "Image 3 title caption"
   - url: /about/
     image_path: /images/chibi.png
-    alt: "placeholder image 4"
+    alt: "Project screenshot"
     title: "Languages"
     excerpt: "Unity 2D/3D. UE 4/5. C#. C++. C. Java. Python. Matlab. Git. Modding. Photoshop. Video editing. Linux and Ubuntu."
 
@@ -54,23 +54,23 @@ gallery:
 <!-- <i class="fa fa-user-secret" style="color: DeepSkyBlue">  <i class="fa fa-user-secret" style="color: DarkSlateGray"> <i class="fa fa-user-secret" style="color: indigo"> <i class="fa fa-user-secret" style="color: navy">  <i class="fa fa-user-secret" style="color: royalblue"> -->
 
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
-  <img src="/images/foto150.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/foto150.jpg" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a <strong>creative programmer and game developer</strong> who excels both independently and in teams. With over <strong>three years of professional programming <a href="#experience-section">experience</a></strong>, including roles as a <strong>Junior Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br>My <a href="#education-section">education</a> (two Master's and a degree) gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
-  <img src="/images/chibi.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/chibi.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Segundo párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
-  <img src="/images/racerloop/Racerloop62.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px">
+  <img src="/images/racerloop/Racerloop62.jpg" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px">
   <p style="margin: 0 20px;">I'm a versatile programmer with <strong><a href="#experience-section">experience</a> in C#, C++, C, Python, Java, Matlab, Lua</strong> and more. My <a href="#experience-section">experience</a> in game modding highlights my <strong>ability to learn new technologies quickly and adapt to diverse projects</strong>.<br>This adaptability is <strong>evident in my <a href="/portfolio/">portfolio</a></strong>, which spans 2D and 3D games, AI systems, online game modes, procedural dungeons, stealth systems, motion tracking apps, gameplay-altering mods, storage systems and more.</p>
-  <img src="/images/uoc/labyrinth/image12.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/uoc/labyrinth/image12.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <!-- Tercer párrafo con imágenes a ambos lados -->
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <img src="/images/KatergarisLabyrinthUI2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/KatergarisLabyrinthUI2.jpg" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px;">
   <p style="margin: 0 20px;">But my skills extend <strong>far beyond programming!</strong><br>I have a <strong>passion for creation and design</strong>, with experience in character and environment design, 3D modeling, level design, UI design, storytelling, and worldbuilding. My Master's Thesis project, Katergáris' Labyrinth, perfectly showcases this, as I reimagined the world of mythological Greece with a unique and original twist.</p>
-  <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="/images/csumb/character/R-0L1concepts2.jpg" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 
@@ -128,7 +128,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 <div style="display: flex;">
  <div style="width: 450px; height: 200px;">
    <a href="/portfolio/racerloop/">
-     <img src="/images/racerloop/Racerloop.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/racerloop/Racerloop.jpg" alt="Project image" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;">Worked on <a href="/portfolio/racerloop/"><strong>Racerloop</strong></a>, a Unity mobile-PC arcade racing game. Demonstrated versatility by working both independently and under direction.<br><br>Contributions included: AI systems, Synchronous Online Game Mode, Gameplay Systems, Automated Tests, Math Scripts Utils, UI, VFX and other areas.<br>You can check it out at the <a href="https://store.epicgames.com/en-US/p/racerloop-4d3ab2"><strong>Epic Store</strong></a> or at the <a href="https://www.racerloop.com/">Racerloop webpage</a>.</p>
@@ -142,7 +142,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
   This project's excellence was underscored by:<br>- <a href="https://hpscds.com/xv-observatorio-hp-2020/"><strong>Finalist in the XV "Programa Observatorio Tecnológico HP" awards.</strong></a><br>- High marks from both HP SCDS lead (9.5/10) and as my Final Degree Project (9,8/10).</p>
  <div style="width: 450px; height: 200px;">
    <a href="/portfolio/motiontracker/">
-     <img src="/images/MotionTracker.gif" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/MotionTracker.gif" alt="Project image" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
 </div>
@@ -152,7 +152,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
 <div style="display: flex;">
  <div style="width: 450px; height: 200px;">
    <a href="/portfolio/motiontracker/">
-     <img src="/images/FlashYourFears.jpg" alt="Descripción de la imagen" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+     <img src="/images/FlashYourFears.jpg" alt="Project image" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;">Diverse <strong><a href="/portfolio/#programming-section">personal and educational projects</a></strong> in game development and <a href="/portfolio/#modding-section">modding</a> demonstrate my adaptability across various games and languages.<br><br>Examples include: C# (Unity), C++ (Unreal Engine 4 and 5), C modding (Pokémon), Java modding (Minecraft), Lua scripting (Ratchet & Clank)...</p>
@@ -205,7 +205,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
   <p style="margin-right: 20px;"><a href="/education/">Master's program</a> specialized in <strong>Unreal Engine and C++ programming</strong>, taught by industry professionals from EA, Activision, Mercury Steam, and others. It delves into areas such as Graphics Programming, Artificial Intelligence, Production, Design, Architecture, Networking, Pipeline, Engine, Physics, UI, and more.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Dreadbone</a>.</p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/education/">
-     <img src="/images/logoUCM.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoUCM.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>
@@ -216,7 +216,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 <div style="display: flex;">
  <div style="width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/education/">
-     <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoUOC.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;"><a href="/education/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Curriculum covered 2D and 3D programming using <strong>Unity and C#</strong>, multiplayer games, game design, level design, UI design, and AI.<br><br>Master’s Thesis: Developed the video game <a href="/portfolio/katergarislabyrinth/">Katergáris’ Labyrinth</a>.</p>
@@ -231,7 +231,7 @@ You can check this projects in more detail in my [**Portfolio**](/portfolio/)
 Modelling (A+), Character Design (A+) and Game Design II (A).</p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/education/">
-     <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoCSUMB2.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>
@@ -242,7 +242,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
 <div style="display: flex;">
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/education/">
-     <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoULE.jpg" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems. Culminated my studies with the <a href="/portfolio/motiontracker/">MotionTracker</a> project during a Software Engineering Internship at HP SCDS, earning a 9.8/10 grade.</p>
@@ -255,7 +255,7 @@ Modelling (A+), Character Design (A+) and Game Design II (A).</p>
   <p style="margin-right: 20px;">Developed a <strong>robust foundation in mathematics</strong> (including Linear Algebra, Geometry,  Calculus, Probability, Statistics, Differential Equations, and Applied Mathematics), alongside core Software Engineering principles. Completed 93 credits. </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/education/">
-     <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoUVa.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>

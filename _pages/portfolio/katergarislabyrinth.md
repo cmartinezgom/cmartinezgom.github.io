@@ -4,41 +4,38 @@ title: "🏛 Katergáris' Labyrinth"
 excerpt: "My Master's Thesis for my Master's Degree in Video Game Design and Programming at the UOC"
 permalink: /portfolio/katergarislabyrinth/
 header:
-  image: /assets/images/KatergarisLabyrinthUI.jpg
-  teaser: /assets/images/KatergarisLabyrinthUI.jpg
+  image: /images/KatergarisLabyrinthUI.jpg
+  teaser: /images/KatergarisLabyrinthUI.jpg
 gallery:
   - url: /images/uoc/labyrinth/image11.png
     image_path: /images/uoc/labyrinth/image11.png
-    alt: "placeholder image 1"
+    alt: "Project screenshot"
   - url: /images/uoc/labyrinth/image17.png
     image_path: /images/uoc/labyrinth/image17.png
-    alt: "placeholder image 2"
+    alt: "Project screenshot"
   - url: /images/uoc/labyrinth/image54.png
     image_path: /images/uoc/labyrinth/image54.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/uoc/labyrinth/image14.png
     image_path: /images/uoc/labyrinth/image14.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/uoc/labyrinth/image41.png
     image_path: /images/uoc/labyrinth/image41.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/uoc/labyrinth/image53.png
     image_path: /images/uoc/labyrinth/image53.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/uoc/labyrinth/image57.png
     image_path: /images/uoc/labyrinth/image57.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/uoc/labyrinth/image12.png
     image_path: /images/uoc/labyrinth/image12.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /images/uoc/labyrinth/image59.png
     image_path: /images/uoc/labyrinth/image59.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
 
 ---
-
-> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
-> It will improve soon!
 
 Katergáris’ Labyrinth is a 2D dungeon crawler videogame set in mithologycal Greece, where little Katergáris will have to go deep into the bowels of the well-known minotaur’s labyrinth to survive his randomly generated chambers and flee with as much loot as posible without being able to defend himself.
 

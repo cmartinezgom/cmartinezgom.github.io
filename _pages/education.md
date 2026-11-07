@@ -10,118 +10,118 @@ header:
 galleryUCM:
   - url: /portfolio/
     image_path: /images/uoc/labyrinth/image17.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/3d/timeracermenu.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/2d/descentmain.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/3d/labmaze6.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/2d/mariounity.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/ia/maze2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/ia/plaza2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/ia/image27_2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/multi/image5_2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/level/portal/LevelDesignPortalLvl3.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/level/image1_2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/media/boceto3RP1NCHOtecnico.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
 
 galleryUOC:
   - url: /portfolio/
     image_path: /images/uoc/labyrinth/image17.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/3d/timeracermenu.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/2d/descentmain.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/3d/labmaze6.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/2d/mariounity.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/ia/maze2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/ia/plaza2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/ia/image27_2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/multi/image5_2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/level/portal/LevelDesignPortalLvl3.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/level/image1_2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/uoc/media/boceto3RP1NCHOtecnico.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
 
 galleryCSUMB:
   - url: /portfolio/
     image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/character/R-0L1concepts.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/environment/Render1.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/character/Turnaround.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/character/Render.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/environment/image2_2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
 
 galleryUCM:
   - url: /portfolio/
     image_path: /images/csumb/gamedesign/ZS2Dscreenshot2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/character/R-0L1concepts.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/environment/Render1.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/character/Turnaround.jpg
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/character/Render.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
   - url: /portfolio/
     image_path: /images/csumb/environment/image2_2.png
-    alt: "placeholder image 3"
+    alt: "Project screenshot"
 ---
 
 Here you'll find my education divided into three categories: <a href="#education-section">Education</a>, <a href="#courses-section">Courses</a> and <a href="#additional-section">Additional Education</a>.
@@ -142,7 +142,7 @@ Here you'll find my education divided into three categories: <a href="#education
   </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
-     <img src="/images/logoUCM.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoUCM.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>
@@ -215,7 +215,7 @@ Courses and topics:
 <div style="display: flex;">
  <div style="width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/racerloop/">
-     <img src="/images/logoUOC.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoUOC.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;"><a href="/education/masterUOC/">Comprehensive graduate program</a> <strong>specializing in the complete game development process</strong>.<br>Many practical projects that covered 2D and 3D programming (sprites, animations), multiplayer games, game design, level design, UI design, and AI.<br><br><strong>Master’s Thesis</strong>: Developed the video game <a href="/portfolio/katergarislabyrinth/"><strong>Katergaris’ Labyrinth</strong></a>, a 2D dungeon crawler roguelite made with Unity that had a unique twist in its mythological greek setting. All the programming and design was done by me.<br><br>
@@ -254,7 +254,7 @@ Courses, all grades over 10:
   </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
-     <img src="/images/logoCSUMB2.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoCSUMB2.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>
@@ -287,7 +287,7 @@ Courses (Cinematics Arts Technology):
 <div style="display: flex;">
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/racerloop/">
-     <img src="/images/logoULE.jpg" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoULE.jpg" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
   <p style="margin-left: 20px;">Developed a <strong>robust foundation in mathematics, design patterns, and diverse programming languages</strong> (C, C++, C#, Python, Java, Lua, Matlab, and more). Gained expertise in <strong>agile methodologies</strong>, project management, networking, databases, AI, and operating systems.<br>Culminated my studies with the <a href="/portfolio/motiontracker/"><strong>MotionTracker</strong></a> project during a <strong>Software Engineering Internship at HP SCDS</strong>, earning a 9.8/10 grade as the Final Degree Project, and a 9.5/10 from the HP-SCDS supervisor.
@@ -365,7 +365,7 @@ The areas studied in such programmes are wide-ranging:
   </p>
  <div style="border-radius: 50%; width: 150px; height: 150px; flex-shrink: 0;">
    <a href="/portfolio/motiontracker/">
-     <img src="/images/logoUVa.png" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+     <img src="/images/logoUVa.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
    </a>
  </div>
 </div>

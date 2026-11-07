@@ -4,36 +4,15 @@ title: "🤿 Breathdown"
 excerpt: "Developed in two days at the Global Game Jam 2025 at Madrid (Theme: Bubbles)"
 permalink: /portfolio/breathdown/
 header:
-  image: /assets/images/ucm/breathdown/banner.png
-  teaser: /assets/images/ucm/breathdown/wordart.jpg
+  image: /images/ucm/breathdown/banner.png
+  teaser: /images/ucm/breathdown/wordart.png
 gallery:
-  - url: /images/uoc/labyrinth/image11.png
-    image_path: /images/uoc/labyrinth/image11.png
-    alt: "placeholder image 1"
-  - url: /images/uoc/labyrinth/image17.png
-    image_path: /images/uoc/labyrinth/image17.png
-    alt: "placeholder image 2"
-  - url: /images/uoc/labyrinth/image54.png
-    image_path: /images/uoc/labyrinth/image54.png
-    alt: "placeholder image 3"
-  - url: /images/uoc/labyrinth/image14.png
-    image_path: /images/uoc/labyrinth/image14.png
-    alt: "placeholder image 3"
-  - url: /images/uoc/labyrinth/image41.png
-    image_path: /images/uoc/labyrinth/image41.png
-    alt: "placeholder image 3"
-  - url: /images/uoc/labyrinth/image53.png
-    image_path: /images/uoc/labyrinth/image53.png
-    alt: "placeholder image 3"
-  - url: /images/uoc/labyrinth/image57.png
-    image_path: /images/uoc/labyrinth/image57.png
-    alt: "placeholder image 3"
-  - url: /images/uoc/labyrinth/image12.png
-    image_path: /images/uoc/labyrinth/image12.png
-    alt: "placeholder image 3"
-  - url: /images/uoc/labyrinth/image59.png
-    image_path: /images/uoc/labyrinth/image59.png
-    alt: "placeholder image 3"
+  - url: /images/ucm/breathdown/banner.png
+    image_path: /images/ucm/breathdown/banner.png
+    alt: "Breathdown banner"
+  - url: /images/ucm/breathdown/wordart.png
+    image_path: /images/ucm/breathdown/wordart.png
+    alt: "Breathdown title art"
 
 ---
 
@@ -52,43 +31,33 @@ gallery:
 
 <iframe frameborder="0" src="https://itch.io/embed/3273017" width="552" height="167"><a href="https://giruza.itch.io/breathdown">Breathdown by Giruza, Yamila Wehbe, Monkwolf Sounds, DarkrimXtrike, cmartinezgom, Franchocratico, Nerea Herreros, Asgardr7</a></iframe>
 
-> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> This section is under construction.
-> It will improve soon!
-
 <div style="width: 70%; margin: auto;">
-  <img src="/images/FlashYourFears.jpg" alt="full" style="display: block; margin: auto; width: 100%;">
+  <img src="/images/ucm/breathdown/banner.png" alt="Breathdown banner" style="display: block; margin: auto; width: 100%;">
 </div>
 
-Breathdown is a 2D narrative video game made with Unity set in an underwater mall, through which the player must dive without drowning to uncover all its secrets.
+Breathdown is a **2D narrative video game made with Unity**, set in an underwater mall through which the player must dive without drowning to uncover all its secrets.
 
-It was developed during two days at [the Global Game Jam 2025](https://confoundingcalendar.itch.io/) in Madrid
+It was developed in two days at [the Global Game Jam 2025](https://globalgamejam.org/games/2025/breathdown-8) in Madrid, and it was recognised as the **game with the best art of the Jam** at that venue.
 
-I was the **lead programmer and the assistant designer**.
+I was the **lead programmer and assistant designer**.
 
-Breathdown was recognised as the game with the best art of the Jam at Madrid.
+The idea behind Breathdown was to create a mysterious and oppressive experience, alternating timed diving sections, in which the player must reach different shops of the sunken mall before running out of oxygen. In each shop, the player meets a mysterious character who asks questions about their goals, their longings, the place or life itself.
 
-![full](/images/KatergarisLabyrinthUI.jpg){: full}
+With every section completed the difficulty rises and the place becomes more and more "glitchy" and degenerate, clearly affecting the dialogue sections and the shop's enigmatic shopkeeper.
 
-La idea tras Breathdown fue dar una experiencia misteriosa y agobiante, intercalando secciones de buceo contrareloj, en las que el jugador debe llegar a diferentes tiendas de este centro comercial sumergido antes de quedarse sin oxígeno. En cada una de las tiendas, el jugador se encontrará con un misterioso personaje que le hará diferentes preguntas sobre sus objetivos, sus anhelos, el lugar o la vida.
+As lead programmer, I defined the tasks and the initial architecture of the game.
 
-Con cada sección superada, la dificultad irá en aumento y, con ella, el lugar se irá "glitcheando" y degenerando cada vez más, afectando claramente a las secciones de diálogos en la tienda y a su misteriosa tendera.
+My contributions:
+- **Dialogue System**: real-time text effects such as bouncing, waving, color changes, shaking, falling, etc.
+- Implementation of the dialogue system, its UI and its options in the shop scenes.
+- Main and options menus.
+- Transitions and black-screen fades.
+- Audio Manager and import of music and sound effects.
+- Sprite import and palette creation for the tilemaps.
+- Particle systems, such as the bubbles and the fish.
+- Scripts for the glitch effects, floating in the water, etc.
+- General testing and code review of my teammates' code.
 
-En este proyecto actué de lead programer, planteando tanto las tareas como la arquitectura inicial del juego.
+Although my main role was programming, I also helped with design: I proposed the initial idea of the underwater mall with several shops to visit, the oxygen mechanic, the level design, the difficulty curve, and several quality-of-life improvements such as the crosshair on the player's movement.
 
-Mi contribución:
-- **Dialogue System**: Sistema de diálogos con diferentes efectos sobre el texto a tiempo real, como botar, hacer la ola, cambiar de color, temblar, caer, etc...
-- La implementación del sistema de diálogos, su UI y sus opciones en las escenas de tienda.
-- Menú principal y de opciones.
-- Transiciones y pantalla en negro.
-- Audio Manager e importación de la música y efectos de sonido.
-- Importación de sprites y creación de paletas para la creación de los tilemaps.
-- Diferentes sistemas de partículas, como las burbujas y los peces.
-- Scripts para los efectos de glitch, flotar en el agua...
-- Testing general y code review del código de compañeros de equipo.
-
-Aunque mi rol principal fue de programador, también ayudé en la parte de diseño, planteando la idea inicial del centro comercial submarino en el que había que recorrer diferentes tiendas, la mecánica del oxígeno, el diseño de niveles, la curva de dificultad, o diferentes mejoras QoL como la crosshair en el movimiento del jugador y otros.
-
-{% include gallery.html caption="Breathdown screenshots." %}
-
-
-You can check my Master's Thesis repository [here](https://openaccess.uoc.edu/handle/10609/138167).
+{% include gallery.html caption="Breathdown art." %}
