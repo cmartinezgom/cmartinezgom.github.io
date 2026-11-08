@@ -143,7 +143,7 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
     <li>Engineered <strong>menu camera systems</strong> and optimized <strong>server-client queries</strong>. Resolved critical bugs including memory leaks, networking errors and build-tool crashes.</li>
   </ul>
  <div style="width: 450px; height: 200px; flex-shrink: 0;">
-   <img src="/images/ea/ea_frostbite.jpg" alt="Frostbite engine logo" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+   <img src="/images/ea/ea_sports_banner.png" alt="EA SPORTS logo" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
  </div>
 </div>
 
