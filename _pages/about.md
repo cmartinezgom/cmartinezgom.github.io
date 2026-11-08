@@ -16,7 +16,9 @@ I am also a musician, a self-taught video creator and editor, a Certified Recrea
 
 ## Experience
 
-My professional experience spans over <strong>3 years of professional programming</strong>. My most recent work was as a Junior Programmer at Maniac Panda Games developing Racerloop, where I worked on the AI, online game mode, gameplay, UI and more. And I also was a Software Engineering Intern at HP-SCDS, where I developed the MotionTracker project: a Python-based motion tracking app that worked with the camara in movement.
+My professional experience spans over <strong>4 years of professional programming</strong>. I currently work as a C++ Generalist Software Engineer at Electronic Arts (EA Sports) in Madrid, on the UT dev team for Madden and College, after a year there as an intern with EA Sports, working on unannounced AAA games with Frostbite and Unreal Engine 5 (data-driven customization features, UI architecture with MVVM and CommonUI, menu cameras, networking and memory bug fixing). Before that, I was a Junior Programmer at Maniac Panda Games developing Racerloop, where I worked on the AI, online game mode, gameplay, UI and more. And I also was a Software Engineering Intern at HP-SCDS, where I developed the MotionTracker project: a Python-based motion tracking app that worked with the camara in movement.
+
+<div style="text-align: center; margin: 1em 0;"><img src="/images/ea/ea_sports_banner.png" alt="EA SPORTS logo" style="border-radius: 15px; max-width: 450px; width: 100%;"></div>
 
 You can check them in more detail in my [portfolio](/portfolio)!
 

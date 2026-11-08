@@ -55,7 +55,7 @@ gallery:
 
 <div style="display: flex; justify-content: space-between;  margin-bottom: 20px;">
   <img src="/images/foto150.jpg" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px;">
-  <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a <strong>creative programmer and game developer</strong> who excels both independently and in teams. With over <strong>three years of professional programming <a href="#experience-section">experience</a></strong>, including roles as a <strong>Junior Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br>My <a href="#education-section">education</a> (two Master's and a degree) gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
+  <p style="margin: 0 20px;">Passionate about creating interactive experiences, I'm a <strong>creative programmer and game developer</strong> who excels both independently and in teams. With over <strong>four years of professional programming <a href="#experience-section">experience</a></strong>, including roles as a <strong>C++ Generalist Software Engineer</strong> at Electronic Arts (EA Sports), a <strong>Junior Programmer</strong> at Maniac Panda Games and a <strong>Software Engineering Intern</strong> at HP SCDS.<br>My <a href="#education-section">education</a> (two Master's and a degree) gives me a strong foundation in <strong>Computer Science Engineering</strong> and in <strong>Video Game Design and Programming</strong> to tackle any challenge.</p>
   <img src="/images/chibi.png" alt="Project image" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
@@ -121,6 +121,33 @@ Watch out! This paragraph of text has been emphasized with the `notice--primary`
   <h2>💻 Experience</h2>
 
 </div>
+
+### 🎮 C++ Generalist Software Engineer @ Electronic Arts (EA Sports)
+07/2026 – Present | Madrid, Spain
+
+<div style="display: flex;">
+ <div style="width: 450px; height: 200px; flex-shrink: 0;">
+   <img src="/images/ea/ea_madden_college.jpg" alt="Madden NFL and EA Sports College Football key art" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+ </div>
+  <p style="margin-left: 20px;">Working at <strong>EA Sports</strong> on the UT dev team for <strong>Madden</strong> and <strong>College</strong>.</p>
+</div>
+
+### 🧰 C++ Generalist Software Engineer Intern @ Electronic Arts (EA Sports)
+07/2025 – 07/2026 | Madrid, Spain
+
+<div style="display: flex;">
+  <ul style="margin-right: 20px;">
+    <li>Worked at <strong>EA Sports</strong> on <strong>AAA unannounced games</strong> made with <strong>Frostbite</strong> and <strong>Unreal Engine 5</strong>.</li>
+    <li>Developed <strong>modular, data-driven customization features</strong>, implementing robust data models, validation policies and <strong>Lua scripting</strong>.</li>
+    <li>Architected <strong>UI screens</strong> using <strong>MVVM, CommonUI and TDD</strong>; refactored and optimized the <strong>State Machine</strong> and implemented <strong>async backend tracking</strong>.</li>
+    <li>Engineered <strong>menu camera systems</strong> and optimized <strong>server-client queries</strong>. Resolved critical bugs including memory leaks, networking errors and build-tool crashes.</li>
+  </ul>
+ <div style="width: 450px; height: 200px; flex-shrink: 0;">
+   <img src="/images/ea/ea_frostbite.jpg" alt="Frostbite engine logo" style="border-radius: 15px; width: 100%; height: 100%; object-fit: cover;">
+ </div>
+</div>
+
+<p style="font-size: 0.8em; opacity: 0.7;">EA SPORTS, Madden NFL, EA SPORTS College Football and Frostbite are trademarks of Electronic Arts Inc. Artwork belongs to its respective owners.</p>
 
 ### 🚀 Junior Programmer @ Maniac Panda Games
 05/2022 – 09/2023 | Remote

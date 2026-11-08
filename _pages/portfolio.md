@@ -151,7 +151,7 @@ Explore my professional and personal projects divided in two categories: <a href
 
 Let's begin with my **professional work**.
 
-This includes **nearly two years as a Junior Programmer** at Maniac Panda Games, where I primarily focused on developing ["Racerloop"](/portfolio/racerloop/); and over **a year and a half as a Software Engineering Intern at HP SCDS**, where I built the ["MotionTracker"](/portfolio/motiontracker/) app.
+This includes **my current role as a C++ Generalist Software Engineer at Electronic Arts (EA Sports)** (after **a year as an intern there**, working on unannounced AAA games, so there's nothing to show yet); **nearly two years as a Junior Programmer** at Maniac Panda Games, where I primarily focused on developing ["Racerloop"](/portfolio/racerloop/); and over **a year and a half as a Software Engineering Intern at HP SCDS**, where I built the ["MotionTracker"](/portfolio/motiontracker/) app.
 
 While programming was my main focus, I also took design responsabilities, particularly in the MotionTracker project.
 
